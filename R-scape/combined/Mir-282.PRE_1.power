@@ -1,0 +1,31 @@
+
+# Power analysis of given structure 
+#
+# covary  left_pos      right_pos    substitutions      power
+#----------------------------------------------------------------
+          1		93		1		0.00
+          2		92		0		0.00
+          3		91		4		0.00
+          4		90		0		0.00
+          5		88		0		0.00
+          6		87		0		0.00
+          7		86		0		0.00
+          8		85		1		0.00
+          11		82		9		0.07
+          12		81		0		0.00
+          13		80		0		0.00
+          14		79		3		0.00
+          15		78		0		0.00
+          16		77		4		0.00
+          18		75		0		0.00
+          19		74		0		0.00
+          20		73		0		0.00
+          21		72		0		0.00
+          33		71		1		0.00
+          34		70		4		0.00
+#
+# BPAIRS 20
+# avg substitutions per BP  1.4
+# BPAIRS expected to covary 0.1
+# BPAIRS observed to covary 0
+#
