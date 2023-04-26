@@ -1,0 +1,2574 @@
+##maf version=1 scoring=mafExtract
+a score=0.000000
+s hg38.chr14                      100852408 29 + 107043718 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+s panPan3.chr14                    81473902 29 +  87894197 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i panPan3.chr14                   N 0 C 0
+s panTro6.chr14                    81801562 29 +  87716528 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i panTro6.chr14                   N 0 C 0
+s gorGor6.chr14                    81592461 29 +  87619771 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i gorGor6.chr14                   N 0 C 0
+s ponAbe3.chr14                    82607016 29 +  88963417 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i ponAbe3.chr14                   N 0 C 0
+s HLhylMol2.WKKJ02000016           80936429 29 -  85660803 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLhylMol2.WKKJ02000016          N 0 C 0
+s HLnomLeu4.CM016966              137305192 29 - 142313534 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLnomLeu4.CM016966              N 0 C 0
+s HLpapAnu5.CM018186              156066490 29 - 161768468 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLpapAnu5.CM018186              N 0 C 0
+s HLtheGel1.CM009957              102361783 29 + 108639790 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLtheGel1.CM009957              N 0 C 0
+s manLeu1.NW_012104253v1           11146042 29 -  14486856 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i manLeu1.NW_012104253v1          N 0 C 0
+s HLmanSph1.SRPC01048805           14029242 29 +  19105867 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLmanSph1.SRPC01048805          N 0 C 0
+s cerAty1.NW_012001960v1           19513787 29 +  24410408 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i cerAty1.NW_012001960v1          N 0 C 0
+s macNem1.NW_012013355v1           20764243 29 -  23506373 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i macNem1.NW_012013355v1          N 0 C 0
+s HLmacFas6.BLPH01000007          161095215 29 + 166753685 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLmacFas6.BLPH01000007          N 0 C 0
+s HLmacFus1.HiC_scaffold_7        159699956 29 - 165769301 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLmacFus1.HiC_scaffold_7        N 0 C 0
+s rheMac10.chr7                   163071874 29 + 169868564 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i rheMac10.chr7                   N 0 C 0
+s HLcerMon1.JABBCR010001408        29136709 29 +  33269077 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLcerMon1.JABBCR010001408       N 0 C 0
+s HLcerNeg1.PVKI010009886             15117 29 -     35127 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLcerNeg1.PVKI010009886         N 0 C 0
+s HLallNig1.HiC_scaffold_24       148183657 29 - 153277761 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLallNig1.HiC_scaffold_24       N 0 C 0
+s HLeryPat1.PVJV010023214             15398 29 -     36282 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLeryPat1.PVJV010023214         N 0 C 0
+s chlSab2.chr24                    78813948 29 +  84932903 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i chlSab2.chr24                   N 0 C 0
+s HLpilTep2.CM019245              157691193 29 - 163413076 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLpilTep2.CM019245              N 0 C 0
+s colAng1.NW_012116488v1            7731960 29 -  12797210 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i colAng1.NW_012116488v1          N 0 C 0
+s HLsemEnt1.PVII010020960             14649 29 -     35876 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLsemEnt1.PVII010020960         N 0 C 0
+s HLtraFra1.VVIV01001009          158982548 29 - 164879359 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLtraFra1.VVIV01001009          N 0 C 0
+s nasLar1.chr7                    149299543 29 + 153844193 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i nasLar1.chr7                    N 0 C 0
+s HLpygNem1.PVHW010001731            169812 29 -    185431 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLpygNem1.PVHW010001731         N 0 C 0
+s HLrhiRox2.CM017355              159442726 29 + 177574763 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i HLrhiRox2.CM017355              N 0 C 0
+s rhiBie1.NW_016810565v1            1182579 29 -   5533159 TCCAGTAC------------------CACGTGTCA-GGG-CCAC----ATG----AG
+i rhiBie1.NW_016810565v1          N 0 C 0
+s HLpleDon1.PVKP010003265            107152 29 +    111168 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i HLpleDon1.PVKP010003265         N 0 C 0
+s HLpitPit1.PVIP01004276             117364 29 +    135705 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i HLpitPit1.PVIP01004276          N 0 C 0
+s HLateGeo1.PVHS01038877               3157 29 +     13025 TCCAGTAC------------------CACACGTCA-GGA-CCAC----ATG----AG
+i HLateGeo1.PVHS01038877          N 0 C 0
+s HLaloPal1.PVKV010005942             91538 29 +    110013 TCCAGTAC------------------CACGCGTCA-GGA-CCAC----ATG----AG
+i HLaloPal1.PVKV010005942         N 0 C 0
+s HLsaiBol1.HiC_scaffold_15       110152017 29 + 208287715 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i HLsaiBol1.HiC_scaffold_15       N 0 C 0
+s saiBol1.JH378253                  2868743 29 -   4236321 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i saiBol1.JH378253                N 0 C 0
+s HLcebAlb1.PVKJ010023280             22429 29 -     32414 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i HLcebAlb1.PVKJ010023280         N 0 C 0
+s cebCap1.NW_016107367v1            6189314 29 -   8749341 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i cebCap1.NW_016107367v1          N 0 C 0
+s HLsapApe1.ML771919               26991060 29 -  29592331 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i HLsapApe1.ML771919              N 0 C 0
+s HLsagImp1.PVHO010023849             13044 29 -     32605 TCCAGTGC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i HLsagImp1.PVHO010023849         N 0 C 0
+s HLcalPym1.HiC_scaffold_18       115269377 29 - 119699178 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i HLcalPym1.HiC_scaffold_18       N 0 C 0
+s HLcalJac4.CM021924              131654446 29 + 136971485 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AA
+i HLcalJac4.CM021924              N 0 C 0
+s aotNan1.NW_018503652v1            4808711 29 +   9714854 TCCAGTAC------------------CATGTGTCA-GGA-CCAC----ATG----AG
+i aotNan1.NW_018503652v1          N 0 C 0
+s tarSyr2.KE935878v1                  27390 29 -     71613 TCCAGCGC------------------CAAGTGTCT-GGG-CCAC----ATG----AC
+i tarSyr2.KE935878v1              N 0 C 0
+s HLdauMad1.PVJZ01001256             340056 29 -    488656 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLdauMad1.PVJZ01001256          N 0 C 0
+s HLindInd1.RJWJ010003283             22570 29 +     88523 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLindInd1.RJWJ010003283         N 0 C 0
+s proCoq1.NW_012148130v1             203674 29 -   3825990 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i proCoq1.NW_012148130v1          N 0 C 0
+s micMur3.chr3                     12558093 29 + 119751181 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i micMur3.chr3                    N 0 C 0
+s HLmicSpe31.VSMF01020861             74392 29 -     84354 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLmicSpe31.VSMF01020861         N 0 C 0
+s HLmicTav1.VSME01323809               4832 29 -     52475 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLmicTav1.VSME01323809          N 0 C 0
+s HLmirZaz1.VSMD01001968              41139 29 +     60795 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLmirZaz1.VSMD01001968          N 0 C 0
+s HLmirCoq1.PVHQ01014407              23762 29 +     45674 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLmirCoq1.PVHQ01014407          N 0 C 0
+s HLlemCat1.PVHV01000019             874874 29 -   1223455 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLlemCat1.PVHV01000019          N 0 C 0
+s HLproSim1.MPIZ01000032            6558363 29 -   8166253 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLproSim1.MPIZ01000032          N 0 C 0
+s HLeulFul1.PVJU010000824             47769 29 -    116423 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLeulFul1.PVJU010000824         N 0 C 0
+s HLeulMon1.HiC_scaffold_2        105220421 29 + 108244268 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLeulMon1.HiC_scaffold_2        N 0 C 0
+s eulFla1.LGHW01000989v1             367364 29 -    606060 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i eulFla1.LGHW01000989v1          N 0 C 0
+s HLeulFla1.HiC_scaffold_21       146206409 29 - 149948850 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLeulFla1.HiC_scaffold_21       N 0 C 0
+s eulMac1.LGHX01000983v1             362928 29 -    600388 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i eulMac1.LGHX01000983v1          N 0 C 0
+s HLnycCou1.PVIV010001820             25033 29 -     91258 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLnycCou1.PVIV010001820         N 0 C 0
+s otoGar3.GL873539                 26730618 29 +  27606538 TCTAGCAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i otoGar3.GL873539                N 0 C 0
+s HLgalVar2.PVJT020000615           6123355  2 +  10137246 AC-------------------------------------------------------
+i HLgalVar2.PVJT020000615         N 0 C 0
+s HLacoRus1.LR877212              117459248 29 + 125099172 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLacoRus1.LR877212              N 0 C 0
+s HLacoCah1.PVKX01037052              11296 29 +     13810 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLacoCah1.PVKX01037052          N 0 C 0
+s HLpsaObe1.NESX02000004            1348323 29 +   4555500 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLpsaObe1.NESX02000004          N 0 C 0
+s HLmerUng1.NHTI01000358             916613 29 -   1007868 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmerUng1.NHTI01000358          N 0 C 0
+s HLrhoOpi1.REGO01000139            1502440 29 -   4617204 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLrhoOpi1.REGO01000139          N 0 C 0
+s HLarvNil1.JAAOMG010000028        37937087 29 -  47239466 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLarvNil1.JAAOMG010000028       N 0 C 0
+s HLgraSur1.SRMG01000052            5205941 29 +   8941766 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLgraSur1.SRMG01000052          N 0 C 0
+s HLapoSyl1.LIPJ01000504             289010 29 +   1164858 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLapoSyl1.LIPJ01000504          N 0 C 0
+s HLmasCou1.VSBT01000006          123300542 29 + 132969947 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmasCou1.VSBT01000006          N 0 C 0
+s HLmusPah1.LT608288              103568627 29 + 113323912 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmusPah1.LT608288              N 0 C 0
+s HLmusCar1.LT608234              104012890 29 + 114734182 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmusCar1.LT608234              N 0 C 0
+s HLmusSpr1.CM004106              104271676 29 + 114123490 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmusSpr1.CM004106              N 0 C 0
+s HLmusSpi1.QGOO01037276             456376 29 +   2653990 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmusSpi1.QGOO01037276          N 0 C 0
+s mm10.chr12                      109563706 29 + 120129022 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i mm10.chr12                      N 0 C 0
+s mm39.chr12                      109530140 29 + 120092757 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i mm39.chr12                      N 0 C 0
+s HLratRat7.CM021554              127112382 29 + 130838749 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLratRat7.CM021554              N 0 C 0
+s rn6.chr6                        133682971 29 + 147991367 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i rn6.chr6                        N 0 C 0
+s HLratNor7.CM026979              128515849 29 + 140994061 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLratNor7.CM026979              N 0 C 0
+s HLcriGri3.RAZU01000178            4449172 29 +   5616169 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLcriGri3.RAZU01000178          N 0 C 0
+s mesAur1.KB708140                 18010478 29 -  24332566 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i mesAur1.KB708140                N 0 C 0
+s HLsigHis1.PVIH01014333              36084 29 +     54412 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLsigHis1.PVIH01014333          N 0 C 0
+s HLneoLep1.LZPO01008023             254525 29 +    337728 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLneoLep1.LZPO01008023          N 0 C 0
+s HLonyTor1.LR877201               76791928 29 +  84754330 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLonyTor1.LR877201              N 0 C 0
+s HLperNas1.HiC_scaffold_17        72753625 29 -  81420696 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLperNas1.HiC_scaffold_17       N 0 C 0
+s HLperCri1.HiC_scaffold_20        73975512 29 +  82692919 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLperCri1.HiC_scaffold_20       N 0 C 0
+s HLperEre1.CACRXM010000014        33027550 29 +  91988365 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLperEre1.CACRXM010000014       N 0 C 0
+s HLperCal2.VALE02034092           76285492 29 +  85699326 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLperCal2.VALE02034092          N 0 C 0
+s HLperLeu1.NMRJ01000618             792032 29 -    904468 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLperLeu1.NMRJ01000618          N 0 C 0
+s HLperManBai2.CM010892             5080502 29 +  88525187 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLperManBai2.CM010892           N 0 C 0
+s HLperPol1.CM010916               87126689 29 +  92967854 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLperPol1.CM010916              N 0 C 0
+s HLondZib1.PVIU01006402              37709 29 +    102335 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLondZib1.PVIU01006402          N 0 C 0
+s HLmyoGla2.LR762064                5987848 29 +  10049017 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmyoGla2.LR762064              N 0 C 0
+s HLellTal1.LOJH01000017              38134 29 -    108968 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLellTal1.LOJH01000017          N 0 C 0
+s HLellLut1.LOEQ01000091             380214 29 +   1513830 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLellLut1.LOEQ01000091          N 0 C 0
+s HLarvAmp1.LR862386               66991380 29 - 138658583 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLarvAmp1.LR862386              N 0 C 0
+s HLmicFor1.NMRL01000079            4538896 29 +   7842608 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmicFor1.NMRL01000079          N 0 C 0
+s HLmicOec1.VIIU01003326              36967 29 +    158813 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmicOec1.VIIU01003326          N 0 C 0
+s micOch1.chr1                     45035807 29 + 126672627 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i micOch1.chr1                    N 0 C 0
+s HLmicArv1.VIIT010001201             72024 29 +    187952 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmicArv1.VIIT010001201         N 0 C 0
+s HLmicAgr2.CADCXT010004607         7636677 29 -  11971889 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmicAgr2.CADCXT010004607       N 0 C 0
+s HLcriGam1.PVKD010003492             20979 29 -    152155 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLcriGam1.PVKD010003492         N 0 C 0
+s nanGal1.KL205486                  5085239 29 -   8420578 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i nanGal1.KL205486                N 0 C 0
+s HLrhiPru1.VZQC01008633             285177 29 +    707449 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLrhiPru1.VZQC01008633          N 0 C 0
+s HLzapHud1.PVHP010012880             19986 29 +     42050 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLzapHud1.PVHP010012880         N 0 C 0
+s jacJac1.JH725518                  9074956 29 -  11016429 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i jacJac1.JH725518                N 0 C 0
+s HLallBul1.PVKW010063383              3709 29 +      9022 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLallBul1.PVKW010063383         N 0 C 0
+s HLcasCan3.HiC_scaffold_1        164412019 29 + 168659143 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLcasCan3.HiC_scaffold_1        N 0 C 0
+s HLperLonPac1.RJWR010026879           7778 29 +     21063 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLperLonPac1.RJWR010026879      N 0 C 0
+s HLdipSte1.PVHN010025582             12433 29 -     24910 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLdipSte1.PVHN010025582         N 0 C 0
+s dipOrd2.NW_012267218v1           33115695 29 -  36660411 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i dipOrd2.NW_012267218v1          N 0 C 0
+s HLpedCap1.VMDO01003117             132561 29 -    150917 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLpedCap1.VMDO01003117          N 0 C 0
+s HLcteGun1.PVKB01002349             210958 29 -    292605 CCCAGCAC------------------CACGCGTCT-GGG-CTAT----GTG----AG
+i HLcteGun1.PVKB01002349          N 0 C 0
+s HLhysCri1.PVJO010016020             23475 29 +     43318 CCCAGCAC------------------CATGTGTCT-GGC-CCAC----ATG----GG
+i HLhysCri1.PVJO010016020         N 0 C 0
+s HLereDor1.ML655430                5421864 29 +   8972779 CCCAGCAT------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLereDor1.ML655430              N 0 C 0
+s HLcoePre1.HiC_scaffold_20        33635118 29 +  36616793 CCCAGCAT------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLcoePre1.HiC_scaffold_20       N 0 C 0
+e HLcavTsc1.PVKK010020110             22971  0 -     32630 N
+e HLhydHyd1.PVLA01005166              22773  0 +    154489 N
+e HLdolPat1.PVJX010020232             17684  0 +     33650 N
+s chiLan1.JH721998                   153508 29 +   3735699 CCCAGCAC------------------CACGTGTCT-GGG-CCAT----GTG----AG
+i chiLan1.JH721998                N 0 C 0
+s HLmyoCoy1.PVJA010012560             32522 28 -     51717 CCCAGCGC------------------CACGT-TCT-GGG-CCAC----GTG----AG
+i HLmyoCoy1.PVJA010012560         N 0 C 0
+s HLcteSoc1.PVKA01006056              22465 28 -     86210 CCCAGCGC------------------CACGT-TCT-GGG-CCAC----GTG----AG
+i HLcteSoc1.PVKA01006056          N 0 C 0
+s octDeg1.JH651947                   288379 28 -    405198 CCCAGCGC------------------CACGT-TCT-GGG-CCAC----GTG----AG
+i octDeg1.JH651947                N 0 C 0
+s HLdinBra1.PVLD010003868            106402 29 -    134870 CCCAGCAC------------------CACGTGTCT-GGG-CCAT----GTG----AG
+i HLdinBra1.PVLD010003868         N 0 C 0
+s HLthrSwi1.PVIC010017105             13494 10 +     33200 --------------------------------------G-CCGT----GTG----GG
+i HLthrSwi1.PVIC010017105         N 0 C 0
+s HLpetTyp1.PVIR01056391               1512 12 +      6723 ------------------------------------GGG-CCAT----GTG----AG
+i HLpetTyp1.PVIR01056391          N 0 C 0
+s hetGla2.JH602047                 38770169 29 -  42019962 CCCAGCAC------------------CACAGGTCT-GGG-TCAC----GTG----AG
+i hetGla2.JH602047                N 0 C 0
+s HLfukDam2.JAAHWF010000021        38642260 29 +  41870746 CCCAGCCC------------------CACGTGTCT-GGG-TCAC----GTG----AG
+i HLfukDam2.JAAHWF010000021       N 0 C 0
+s HLaplRuf1.PVKS010034280             12676 29 -     21026 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLaplRuf1.PVKS010034280         N 0 C 0
+s HLsciCar1.LR738591              195838905 29 + 199827622 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLsciCar1.LR738591              N 0 C 0
+s HLsciVul1.LR738612              198035344 29 - 204367342 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLsciVul1.LR738612              N 0 C 0
+s HLxerIna1.PVHX01020687              22453 29 +     31507 CCTAGCAC------------------CACGTGTCT-GGG-CCAC----GCG----AG
+i HLxerIna1.PVHX01020687          N 0 C 0
+s HLmarHim1.RAQP01001946             188484 29 +    292766 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmarHim1.RAQP01001946          N 0 C 0
+s HLmarMar1.CZRN01000002           64463075 29 +  69027483 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmarMar1.CZRN01000002          N 0 C 0
+s HLmarVan1.ML555004                1596236 29 -   2054634 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmarVan1.ML555004              N 0 C 0
+s HLmarMon1.CABDUW010001429          304527 29 -    537408 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmarMon1.CABDUW010001429       N 0 C 0
+s HLmarMon2.WJEC01008012             132721 29 -   1023355 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmarMon2.WJEC01008012          N 0 C 0
+s HLmarFla1.ML561927                2448343 29 +   6882330 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmarFla1.ML561927              N 0 C 0
+s HLspeDau1.KZ294791                 600504 29 -   1141178 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLspeDau1.KZ294791              N 0 C 0
+s HLuroPar1.QVIC01000657             210070 29 -    765883 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLuroPar1.QVIC01000657          N 0 C 0
+s speTri2.JH393414                  4606734 29 +   5367406 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i speTri2.JH393414                N 0 C 0
+s HLcynGun1.WBRW01005317            1668723 29 -   1678457 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLcynGun1.WBRW01005317          N 0 C 0
+s HLmusAve1.PVJB01022607              27295 29 -     34355 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmusAve1.PVJB01022607          N 0 C 0
+s HLgliGli1.PVJS01011261              26308 29 -     46165 CCCAGCAC------------------CATGTGTCT-GGG-CCAC----GTG----AG
+i HLgliGli1.PVJS01011261          N 0 C 0
+s HLgraMur1.PVLC010107320               114 29 +      3364 CCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLgraMur1.PVLC010107320         N 0 C 0
+s HLlepTim1.CM019675               57553574 13 - 174433500 ----------------------------------T-GGG-CCAC----GTG----AG
+i HLlepTim1.CM019675              N 0 C 0
+s HLlepAme1.PVJM010068782              4109 13 +     10626 ----------------------------------T-GGG-CCAC----GTG----AG
+i HLlepAme1.PVJM010068782         N 0 C 0
+s HLsylBac1.HiC_scaffold_6         37047623 13 +  39558118 ----------------------------------T-GGG-CCGC----GTG----AG
+i HLsylBac1.HiC_scaffold_6        N 0 C 0
+s HLoryCunCun4.CM023791            41825966 13 +  46215498 ----------------------------------T-GGG-CCAC----GTG----AG
+i HLoryCunCun4.CM023791           N 0 C 0
+s tupChi1.KB321140                  4704533 12 +   6168052 -------------------------------ATCA-GGG-CCC------------AG
+i tupChi1.KB321140                N 0 C 0
+s panHod1.KE116344                   892693 29 +   1962698 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i panHod1.KE116344                N 0 C 0
+s HLoviCan2.PVIS010019196             23773 29 +     43306 TCCAGTGC------------------CACGTGTCC-AGG-CCAC----GTG----AG
+i HLoviCan2.PVIS010019196         N 0 C 0
+s HLoviNivLyd1.CAFBRR010001950        29007 29 +    130141 TCCAGTGC------------------CACGTGTCC-AGG-CCAC----GTG----AG
+i HLoviNivLyd1.CAFBRR010001950    N 0 C 0
+s HLhemHyl1.PVJR01020021              23649 29 -     43140 TCCAGTGC------------------CACGTGTCC-AGG-CCAC----GTG----AG
+i HLhemHyl1.PVJR01020021          N 0 C 0
+s HLoviOri1.CM025431               67278860 29 +  71829972 TCCAGTGC------------------CACGTGTCC-AGG-CCAC----GTG----AG
+i HLoviOri1.CM025431              N 0 C 0
+s HLoviAri5.CM022036               63578803 29 +  68735357 TCCAGTGC------------------CACGTGTCC-AGG-CCAC----GTG----AG
+i HLoviAri5.CM022036              N 0 C 0
+s HLoviAmm1.NIWH01025190           54103571 29 +  58171437 TCCAGTGC------------------CACGTGTCC-AGG-CCAC----GTG----AG
+i HLoviAmm1.NIWH01025190          N 0 C 0
+s HLammLer1.NIVO01034600            3520903 29 +   5351045 TCCAGTGC------------------CACGTGTCC-AGG-CCAC----GTG----AG
+i HLammLer1.NIVO01034600          N 0 C 0
+s HLcapSib1.NIYN02025621           10822795 29 +  17491638 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLcapSib1.NIYN02025621          N 0 C 0
+s HLcapIbe1.SJYO01014747           55726645 29 +  58533123 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLcapIbe1.SJYO01014747          N 0 C 0
+s HLcapHir2.CM004582               65021348 29 +  69425955 TCCAGTGC------------------CACATGTCC-GGG-CCAC----GTG----AG
+i HLcapHir2.CM004582              N 0 C 0
+s HLcapAeg1.HG918308                3060841 29 -   5088253 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLcapAeg1.HG918308              N 0 C 0
+s HLconTau2.HiC_scaffold_20        62242190 16 -  66496368 TCCAGT--------------------------------G-CCAC----GTG----AG
+i HLconTau2.HiC_scaffold_20       N 0 C 0
+s HLbeaHun1.PVKQ01034107               4036 29 -     22047 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLbeaHun1.PVKQ01034107          N 0 C 0
+s HLoryGaz1.RAWW01002806            1328196 29 +   2865054 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLoryGaz1.RAWW01002806          N 0 C 0
+s HLoryDam1.HiC_scaffold_16        63748124 29 -  67964418 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLoryDam1.HiC_scaffold_16       N 0 C 0
+s HLhipNig1.VHQK01014861            6349375 29 -   8431261 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLhipNig1.VHQK01014861          N 0 C 0
+s HLhipEqu1.JAEFBM010000112         9383678 29 -  11389043 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLhipEqu1.JAEFBM010000112       N 0 C 0
+s HLredRed1.SJYQ01008646              23729 29 +    254362 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLredRed1.SJYQ01008646          N 0 C 0
+s HLkobEll1.SJYR01000296             570203 29 -    995896 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLkobEll1.SJYR01000296          N 0 C 0
+s HLkobLecLec1.JACEGT010019977      3277595 29 -   6117633 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLkobLecLec1.JACEGT010019977    N 0 C 0
+s HLmadKir1.SJYC01111176               9581 16 +     28813 TCCAGTGC------------------CACGTG-----------------------AG
+i HLmadKir1.SJYC01111176          N 0 C 0
+s HLrapCam1.SJYW01000560             140585 16 +    789012 TCCAGTGC------------------CACGTG-----------------------AG
+i HLrapCam1.SJYW01000560          N 0 C 0
+s HLproPrz1.SJYF01000094            6768573 16 +   9518530 TCCAGTGC------------------CACGCG-----------------------AG
+i HLproPrz1.SJYF01000094          N 0 C 0
+s HLnanGra1.SJYD01053834             571052 16 +    736451 TCCAGCGC------------------CATGTG-----------------------GG
+i HLnanGra1.SJYD01053834          N 0 C 0
+s HLeudTho1.SJYE01013292             134270 16 +   1001262 TCCAGCGC------------------CACGTG-----------------------GG
+i HLeudTho1.SJYE01013292          N 0 C 0
+s HLsaiTat1.PVIK010099566              4566 16 +      7381 TCCAGTGC------------------CACGTG-----------------------GG
+i HLsaiTat1.PVIK010099566         N 0 C 0
+s HLlitWal1.SJYG01000418            2019819 15 +   2176759 -ACAGTGC------------------CACGTG-----------------------GG
+i HLlitWal1.SJYG01000418          N 0 C 0
+s HLneoPyg1.SJYV01054064               4768 29 -     12846 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTC----AG
+i HLneoPyg1.SJYV01054064          N 0 C 0
+s HLoreOre1.SJYX01005045             230983 29 +    647886 TCCAGTGC------------------CACGTGTCC-GGG-ACAC----GTG----AG
+i HLoreOre1.SJYX01005045          N 0 C 0
+s HLphiMax1.SJYS01002514              71688 29 +    311373 CCCAGTGC------------------CACGCGTCC-GTG-CCAC----GTG----AG
+i HLphiMax1.SJYS01002514          N 0 C 0
+s HLcepHar1.SJYT01068283             345056 29 +    634484 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLcepHar1.SJYT01068283          N 0 C 0
+s HLaepMel1.SJXQ01002300             267201 29 +    659042 TCCAGTGC------------------CACGTGTTC-GGG-CCAC----GTG----AG
+i HLaepMel1.SJXQ01002300          N 0 C 0
+s HLneoMos1.SJYA01007639               4406 29 -     26454 TCCGGTGC------------------CACGTATCC-GGG-CCAC----GTG----AG
+i HLneoMos1.SJYA01007639          N 0 C 0
+s HLsynCaf1.CABVSG010000223        65240363 29 -  69160875 TCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLsynCaf1.CABVSG010000223       N 0 C 0
+s HLbubBub2.CM009859               65077595 29 -  68863396 TCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLbubBub2.CM009859              N 0 C 0
+s bisBis1.KN265017v1                6277626 29 -   9196613 TCCAGTGC------------------CATGTGTCC-GGG-CCAT----GTG----AG
+i bisBis1.KN265017v1              N 0 C 0
+s HLbosInd2.CM009511               67393841 29 +  71592531 TCCAGTGC------------------CATGTGTCC-GGG-CCAT----GTG----AG
+i HLbosInd2.CM009511              N 0 C 0
+s bosTau9.chr21                    65750847 29 +  69862954 TCCAGTGC------------------CATGTGTCC-GGG-CCAT----GTG----AG
+i bosTau9.chr21                   N 0 C 0
+s HLbosMut2.VBQZ03000038           15425434 29 -  19560981 TCCAGTGC------------------CATGTGTCC-GGG-CCAT----GTG----AG
+i HLbosMut2.VBQZ03000038          N 0 C 0
+s HLbosGru1.CM016706               71114228 29 +  77378949 TCCAGTGC------------------CATGTGTCC-GGG-CCAT----GTG----AG
+i HLbosGru1.CM016706              N 0 C 0
+s HLbosGau1.CM024455               40916460 29 -  67684619 TCCAGTGC------------------CATGTGTCC-GGG-CCAT----GTG----AG
+i HLbosGau1.CM024455              N 0 C 0
+s HLbosFro1.RBVW01000235            1097649 29 +   1848730 TCCAGTGC------------------CATGTGTCC-GGG-CCAT----GTG----AG
+i HLbosFro1.RBVW01000235          N 0 C 0
+s HLtraImb1.SJYM01012930             152957 29 -    162928 TCCAGCGC------------------CAAGTGTCC-AGG-CCAC----ATG----AG
+i HLtraImb1.SJYM01012930          N 0 C 0
+s HLtraStr1.SJYU01005092             244103 29 +    264057 TCCAGCGC------------------CACGTGTCC-GGG-CCAG----ATG----AG
+i HLtraStr1.SJYU01005092          N 0 C 0
+s HLtraScr1.SJXY01004321             446218 29 -   1771316 TCCAGCGC------------------CACGTGTCC-GGG-CCAC----ATG----AG
+i HLtraScr1.SJXY01004321          N 0 C 0
+s HLmosMos1.PVHU020023298          10637118 29 -  27596027 TCCAGCGC------------------CACGTGTCC-AGG-CCGT----GTG----AG
+i HLmosMos1.PVHU020023298         N 0 C 0
+s HLmosBer1.SGQJ01002919            3527942 16 +   6870264 TCCAGGGC------------------CAC-------------------GTG----AG
+i HLmosBer1.SGQJ01002919          N 0 C 0
+s HLmosChr1.SPDY01014104              34350 16 +    234259 TCCAGGGC------------------CAC-------------------GTG----AG
+i HLmosChr1.SPDY01014104          N 0 C 0
+s HLhydIne1.SPDZ01000855           28452102 29 +  32669822 TCCAGTGC------------------CACGTGTCC-GGG-CCAT----GGG----AC
+i HLhydIne1.SPDZ01000855          N 0 C 0
+s HLcapPyg1.SNSB01003710            6017195 29 -   8859782 TCCAGCGC------------------CACGTGTCC-GGG-CCAT----GGG----AC
+i HLcapPyg1.SNSB01003710          N 0 C 0
+s HLalcAlc1.SSNK01125895              23452 29 +     30114 TCCAGCGC------------------CACGTGTCC-GGG-CCAC----ATG----AC
+i HLalcAlc1.SSNK01125895          N 0 C 0
+s HLelaDav1.JRFZ01010281            6057409 29 +   7379564 TCCAGCGC------------------CACGTGTCC-AGG-CCAC----GTG----AG
+i HLelaDav1.JRFZ01010281          N 0 C 0
+s HLranTar1.PVIN010018020             23517 29 +     43492 TCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AC
+i HLranTar1.PVIN010018020         N 0 C 0
+s HLranTarGra2.JACGUM010000067      5981402 29 +   9978328 TCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AC
+i HLranTarGra2.JACGUM010000067    N 0 C 0
+s HLodoHem1.RCHL01009114             871811 29 -   3277885 TCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AC
+i HLodoHem1.RCHL01009114          N 0 C 0
+s HLodoVir1.KZ102737                 873290 29 -   3296679 TCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AC
+i HLodoVir1.KZ102737              N 0 C 0
+s HLodoVir2.HiC_scaffold_33        58122440 29 +  62298052 TCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AC
+i HLodoVir2.HiC_scaffold_33       N 0 C 0
+s HLodoVir3.JAAVWD010002496        33860050 29 -  35663065 TCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AC
+i HLodoVir3.JAAVWD010002496       N 0 C 0
+s HLmunRee1.CM018492               61504057 29 -  65571547 TCCAGCGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLmunRee1.CM018492              N 0 C 0
+s HLmunMun1.CM018502              203277859 29 - 682452208 TCCAGCGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLmunMun1.CM018502              N 0 C 0
+s HLmunCri1.SJXS01012007             193315 29 -   1979782 TCCAGCGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLmunCri1.SJXS01012007          N 0 C 0
+s HLcerHanYar1.CM021204            64911723 29 +  69131755 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLcerHanYar1.CM021204           N 0 C 0
+s HLaxiPor1.QQTR01078530           46214917 29 +  50514970 TCCAGCGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLaxiPor1.QQTR01078530          N 0 C 0
+s HLprzAlb1.SJXR01000674            3990749 29 +   4813752 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLprzAlb1.SJXR01000674          N 0 C 0
+s HLcerEla1.CM008020               84238436 29 +  89791019 TCCAGTGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLcerEla1.CM008020              N 0 C 0
+s HLantAme1.ML661902               25494584 29 +  27338260 TCCAGAGC------------------TGCGTGTCC-GGG-CCAC----GTG----AG
+i HLantAme1.ML661902              N 0 C 0
+s HLokaJoh2.HiC_scaffold_17        58362190 29 +  62630987 TCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLokaJoh2.HiC_scaffold_17       N 0 C 0
+s HLgirTip1.LVKQ01S005969             29960 29 -    247409 TCCAGCGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLgirTip1.LVKQ01S005969         N 0 C 0
+s HLgirCam2.HiC_scaffold_11       135362587 29 + 139680656 TCCAGCGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLgirCam2.HiC_scaffold_11       N 0 C 0
+s HLgirCam1.SJXV01004655            5160266 29 +   9480039 TCCAGCGC------------------CACGTGTCC-GGG-CCAC----GTG----AG
+i HLgirCam1.SJXV01004655          N 0 C 0
+s HLtraJav1.PVHZ021082409            645015 29 +   2799931 CCCAGCGC------------------CACGTGTCG-GGG-CCAC----GTG----AG
+i HLtraJav1.PVHZ021082409         N 0 C 0
+s HLtraKan1.SJXW01025393             205708 29 -    452316 CCCAGCGC------------------CACGTGTCG-GGG-CCAC----GTG----AG
+i HLtraKan1.SJXW01025393          N 0 C 0
+s HLmesBid1.PVJJ010001318            107255 29 +    124499 TCCAGTGC------------------CATGTGTCT-GGG-CCAC----GTG----AG
+i HLmesBid1.PVJJ010001318         N 0 C 0
+s HLzipCav1.RJWS010137069              2487 29 -      4500 TCGAGTGC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLzipCav1.RJWS010137069         N 0 C 0
+s HLkogBre1.RJWL010022601             14809 29 -     31253 TCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLkogBre1.RJWL010022601         N 0 C 0
+s phyCat1.KI403444                   313843 29 +    395051 CCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i phyCat1.KI403444                N 0 C 0
+s HLphyCat2.CM014795              178500289 29 + 182843547 CCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLphyCat2.CM014795              N 0 C 0
+s balAcu1.KI537651                  6218995 29 -  20250593 TCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i balAcu1.KI537651                N 0 C 0
+s HLbalBon1.DF459135                  25559 29 +     41945 TCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLbalBon1.DF459135              N 0 C 0
+s HLmegNov1.RYZJ01000028            5644357 29 -   9556408 CTCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLmegNov1.RYZJ01000028          N 0 C 0
+s HLbalMus1.VNFC01000011          171867576 29 + 176072231 TCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLbalMus1.VNFC01000011          N 0 C 0
+s HLbalEde1.HiC_scaffold_20       159177880 29 - 162936684 TCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLbalEde1.HiC_scaffold_20       N 0 C 0
+s HLescRob1.RJWN010017694             23354 29 -     40556 TCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLescRob1.RJWN010017694         N 0 C 0
+s HLhipAmp3.PVJP02000055             885679 29 -   1024955 TCCAGCGC------------------CACATGTCT-GGG-CCAT----GTG----AG
+i HLhipAmp3.PVJP02000055          N 0 C 0
+s HLhipAmp1.NKPW01006942              84452 29 -    138923 TCCAGCGC------------------CACATGTCT-GGG-CCAT----GTG----AG
+i HLhipAmp1.NKPW01006942          N 0 C 0
+s HLcatWag1.PVHT021183632          11845958 29 +  13167923 TCCAGTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLcatWag1.PVHT021183632         N 0 C 0
+s susScr11.chr7                   121682392 29 + 121844099 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GCG----AG
+i susScr11.chr7                   N 0 C 0
+s HLcamFer3.CM020773               90241528 29 +  94313465 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLcamFer3.CM020773              N 0 C 0
+s HLcamDro2.CM016632               93448677 29 +  97504898 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLcamDro2.CM016632              N 0 C 0
+s HLcamBac1.KN277607               10738335 29 +  14296351 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLcamBac1.KN277607              N 0 C 0
+s HLlamGla1.HiC_scaffold_8         84744180 29 -  88294224 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLlamGla1.HiC_scaffold_8        N 0 C 0
+s HLlamGuaCac1.MU057073             5176448 29 -   8771564 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLlamGuaCac1.MU057073           N 0 C 0
+s HLlamGlaCha1.MU048766             3192825 29 +   4396766 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLlamGlaCha1.MU048766           N 0 C 0
+s HLvicPacHua3.KN268831              464574 29 +    589182 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLvicPacHua3.KN268831           N 0 C 0
+s HLvicVicMen1.MU063554            11301382 29 +  11445924 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLvicVicMen1.MU063554           N 0 C 0
+s vicPac2.KB632524                  5174675 29 +   6896314 TCCAGCGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i vicPac2.KB632524                N 0 C 0
+s HLtapTer1.PVID01012794              23521 29 -     39952 TCCAGCAC------------------CACATGTCT-GGG-CCAT----GTG----AG
+i HLtapTer1.PVID01012794          N 0 C 0
+s HLtapInd1.PVIE01010494              23529 29 +     34245 TCCAGCAC------------------CACATGTCT-GGG-CCAT----GTG----AG
+i HLtapInd1.PVIE01010494          N 0 C 0
+s HLtapInd2.HiC_scaffold_15        38618333 29 - 127426742 TCCAGCAC------------------CACATGTCT-GGG-CCAT----GTG----AG
+i HLtapInd2.HiC_scaffold_15       N 0 C 0
+s HLrhiUni1.HiC_scaffold_19        39326212 29 -  42286649 TCCAGCAC------------------CACATGTCT-GGG-CCAT----GTG----AG
+i HLrhiUni1.HiC_scaffold_19       N 0 C 0
+s HLdicSum1.PEKH010001043            759971 27 -   2880872 TCCAGCAC------------------CAC--GTCT-GGG-CCGT----GTG----AG
+i HLdicSum1.PEKH010001043         N 0 C 0
+s HLdicBic1.PVJY021981212           5807712 29 -   7945529 TCCAGCAC------------------CACATGTCT-GGG-CCAT----GTG----AG
+i HLdicBic1.PVJY021981212         N 0 C 0
+s cerSim1.JH767771                 12869981 29 +  18387346 TCCAGCAC------------------CACATGTCT-GGG-CCAT----GTG----AG
+i cerSim1.JH767771                N 0 C 0
+s HLcerSimCot1.PVLE01073683             214 29 -     10596 TCCAGCAC------------------CACATGTCT-GGG-CCAT----GTG----AG
+i HLcerSimCot1.PVLE01073683       N 0 C 0
+s equPrz1.KK951908                   139895 29 -    333790 TCCAGCAC------------------CACGTGTCT-GGG-CCAT----GTG----AG
+i equPrz1.KK951908                N 0 C 0
+s equCab3.chr24                    43150342 29 +  48288683 TCCAGCAC------------------CACGTGTCT-GGG-CCAT----GTG----AG
+i equCab3.chr24                   N 0 C 0
+s HLequQuaBoe1.HiC_scaffold_20     39157231 29 +  43189114 TCCAGCAC------------------CACGTGTCT-GGG-CCAT----GTG----AG
+i HLequQuaBoe1.HiC_scaffold_20    N 0 C 0
+s HLequAsi1.JREZ01000036            4512466 29 -   8320675 TCCAGCAC------------------CACGTGTCT-GGG-CCAT----GTG----AG
+i HLequAsi1.JREZ01000036          N 0 C 0
+s HLequAsiAsi2.PSZQ01003339        21437741 29 +  25799906 TCCAGCAC------------------CACGTGTCT-GGG-CCAT----GTG----AG
+i HLequAsiAsi2.PSZQ01003339       N 0 C 0
+s HLspiGra1.PITA01018425              22346 28 +     40390 TCCAGGAC------------------CGCATCCCT-GGA-CCAC----GAG-----G
+i HLspiGra1.PITA01018425          N 0 C 0
+s HLailFul2.HiC_scaffold_15       175841292 29 + 180246513 TCCAGGAC------------------CACATGCTT-GGG-CCAC----GGG----AG
+i HLailFul2.HiC_scaffold_15       N 0 C 0
+s HLtaxTax1.RCUC01158531               6684 29 -     12117 TCCAGGAC------------------CACATGCCT-GGG-CCAT----GGG----AG
+i HLtaxTax1.RCUC01158531          N 0 C 0
+s HLmelCap1.PISX010006819             93853 29 +     94190 TCCAGGAC------------------CACATGCCT-GGG-CCAT----GGG----AG
+i HLmelCap1.PISX010006819         N 0 C 0
+s HLmarZib1.RDFD01008225            1413371 29 +   2124102 TCCAGGAC------------------CACATGCCT-GGG-CCAT----GGG----AG
+i HLmarZib1.RDFD01008225          N 0 C 0
+s HLgulGul1.CYRY02044975              49727 29 -     98245 TCCAGGAC------------------CACATGCCT-GGG-CCAT----GGG----AG
+i HLgulGul1.CYRY02044975          N 0 C 0
+s HLpteBra2.HiC_scaffold_15       134254365 29 - 138135531 TCCAGGAC------------------CACCTGCCT-GGG-CCAT----GGG----AG
+i HLpteBra2.HiC_scaffold_15       N 0 C 0
+s HLpteBra1.PJEN01000929              93034 29 +    308137 TCCAGGAC------------------CACCTGCCT-GGG-CCAT----GGG----AG
+i HLpteBra1.PJEN01000929          N 0 C 0
+s HLlonCan1.ML974477                3313696 28 -   6916460 TCCAGGAC------------------CACCTGCCT-GGG-CCAT----GGG----A-
+i HLlonCan1.ML974477              N 0 C 0
+s HLlutLut1.LR738409              143191717 29 + 149004807 TCCAGGAC------------------CACCTGCCT-GGG-CCAT----GGG----AG
+i HLlutLut1.LR738409              N 0 C 0
+s enhLutNer1.QQQE01000151v1         5073694 29 +   7671159 TCCAGGAC------------------CACCTGCCT-GGG-CCAT----GGG----AG
+i enhLutNer1.QQQE01000151v1       N 0 C 0
+s enhLutKen1.chrUn_NW_019154104v1  29900855 29 +  33646359 TCCAGGAC------------------CACCTGCCT-GGG-CCAT----GGG----AG
+i enhLutKen1.chrUn_NW_019154104v1 N 0 C 0
+s HLneoVis1.FNWR01000239             576300 29 +   3251689 TCCAGGAC------------------CACATGCCT-GGG-CCAT----GGG----AG
+i HLneoVis1.FNWR01000239          N 0 C 0
+s HLmusErm1.CM020572              142955769 29 + 148087453 TCCAGGAC------------------CACATGCCT-GGG-CCAT----GGG----AG
+i HLmusErm1.CM020572              N 0 C 0
+s HLmusPut1.CABPTA010000026        11062132 29 -  11797185 TCCAGGAC------------------CACATGCCT-GGG-CCAT----GGG----AG
+i HLmusPut1.CABPTA010000026       N 0 C 0
+s HLmusFur2.JAADYL010000038        49109128 29 +  53771274 TCCAGGAC------------------CACATGCCT-GGG-CCAT----GGG----AG
+i HLmusFur2.JAADYL010000038       N 0 C 0
+s HLpotFla1.HiC_scaffold_14       123288936 28 + 125392209 TCCAGGAC------------------CACATGCCT-GGG-CCAC----AAG----A-
+i HLpotFla1.HiC_scaffold_14       N 0 C 0
+s HLnasNar1.HiC_scaffold_1        122493043 29 + 125835695 TCCAGGAC------------------CACATGCCT-GGG-CAAC----AAG----AG
+i HLnasNar1.HiC_scaffold_1        N 0 C 0
+s HLbasSum1.HiC_scaffold_4        125867194 29 - 129368026 TCCAGGAC------------------CACAGGTCT-GGG-CGAC----AAG----AG
+i HLbasSum1.HiC_scaffold_4        N 0 C 0
+s HLproLot1.HiC_scaffold_7        117937915 29 + 120488774 TCCAGGAC------------------CACCTGTCT-GGG-CGAC----AAG----AG
+i HLproLot1.HiC_scaffold_7        N 0 C 0
+s HLeriBar1.HiC_scaffold_12       126506042 29 + 130090005 TCCAGAAT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i HLeriBar1.HiC_scaffold_12       N 0 C 0
+s lepWed1.KB718060                   124957 29 +    237132 TCCAGAAT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i lepWed1.KB718060                N 0 C 0
+s neoSch1.NW_018734275v1           30538287 29 +  34490463 TCCAGAAT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i neoSch1.NW_018734275v1          N 0 C 0
+s HLmirAng2.HiC_scaffold_13       128524967 29 + 132296729 TCCAGAAT------------------TACATGCCT-GGG-CCAC----GTG----AG
+i HLmirAng2.HiC_scaffold_13       N 0 C 0
+s HLmirLeo1.JAAMPH010000006        55352692 29 -  59607343 TCCAGAAT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i HLmirLeo1.JAAMPH010000006       N 0 C 0
+s HLphoVit1.ML169396               67470582 29 +  71172860 TCCAGAAT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i HLphoVit1.ML169396              N 0 C 0
+s HLhalGry1.JAAXOB010001091          716442 29 -    736525 TCCAGAAT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i HLhalGry1.JAAXOB010001091       N 0 C 0
+s odoRosDiv1.KB228920               1593416 29 +   5420022 TCCAGGAT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i odoRosDiv1.KB228920             N 0 C 0
+s HLodoRos1.HiC_scaffold_5        140098262 29 - 144946493 TCCAGGAT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i HLodoRos1.HiC_scaffold_5        N 0 C 0
+s HLcalUrs1.KZ836243               69280092 29 -  73029993 TCCAGGGT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i HLcalUrs1.KZ836243              N 0 C 0
+s HLarcGaz2.CAAAJK010000044       134879358 29 - 139181869 TCCAGGGT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i HLarcGaz2.CAAAJK010000044       N 0 C 0
+s HLzalCal1.CM019808              142587089 29 - 146931682 TCCAGGGT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i HLzalCal1.CM019808              N 0 C 0
+s HLeumJub1.ML137718               55957440 29 +  59229379 TCCAGGGT------------------CACATGCCT-GGG-CCAC----GTG----AG
+i HLeumJub1.ML137718              N 0 C 0
+s HLailMel2.CM022832               38040619 29 + 106650358 TCCAGGAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLailMel2.CM022832              N 0 C 0
+s HLursThi1.WEIE01000011           41433846 29 +  45077326 TCCAGGAC------------------CACATGTCT-GGG-CCAC----GTG----AG
+i HLursThi1.WEIE01000011          N 0 C 0
+s HLursAme1.LZNR01000833             120472 29 -    502526 TCCAGGAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLursAme1.LZNR01000833          N 0 C 0
+s HLursAme2.HiC_scaffold_10        42893395 29 +  47079795 TCCAGGAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLursAme2.HiC_scaffold_10       N 0 C 0
+s ursMar1.KK498517                 41467748 29 -  41692901 TCCAGGAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i ursMar1.KK498517                N 0 C 0
+s HLursArc1.KZ986307               13976654 29 -  17667266 TCCAGGAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLursArc1.KZ986307              N 0 C 0
+s HLaciJub2.QURD01000025           70941667 29 +  74907015 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLaciJub2.QURD01000025          N 0 C 0
+s HLpumCon1.QAVW01000421          148043745 29 + 151865409 TCCAGTAC------------------CACGTGTCT-GGG-CCTC----ATG----GG
+i HLpumCon1.QAVW01000421          N 0 C 0
+s HLpriBen1.BIMV01049474              95097 29 -    184552 TCTAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLpriBen1.BIMV01049474          N 0 C 0
+s HLlynCan1.CM017334              142101505 29 + 146106016 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLlynCan1.CM017334              N 0 C 0
+s HLlynPar1.CAAGRJ010007355          113106 29 -    355173 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLlynPar1.CAAGRJ010007355       N 0 C 0
+s HLpumYag1.JACEOH010000025        72348309 29 +  76219312 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLpumYag1.JACEOH010000025       N 0 C 0
+s felCat9.chrB3                   145430393 30 + 149751809 TCCAGTAC------------------CACGTGTCTGGGG-CCAC----ATG----GG
+i felCat9.chrB3                   N 0 C 0
+s HLfelNig1.PISY01138094                480 29 +      3774 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLfelNig1.PISY01138094          N 0 C 0
+s HLpanPar1.KV860310               19421599 29 +  21701857 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLpanPar1.KV860310              N 0 C 0
+s HLpanOnc1.PISV01007841              54227 29 +     95748 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLpanOnc1.PISV01007841          N 0 C 0
+s HLpanOnc2.HiC_scaffold_18       134148554 29 + 138099990 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLpanOnc2.HiC_scaffold_18       N 0 C 0
+s HLpanLeo1.CM018466              139403831 29 + 142744295 TCCAGGAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i HLpanLeo1.CM018466              N 0 C 0
+s HLparHer1.PITB01025293              21729 33 +     23040 TCTAGTGC------------------CACATGTCT-GGG-CCAC----GTGAGCAGG
+i HLparHer1.PITB01025293          N 0 C 0
+s HLhyaHya1.PEQU01000433            1465187 33 -   1650087 TCCGGTAC------------------CATGTGTCT-GGG-CCAT----GTGAGCTGG
+i HLhyaHya1.PEQU01000433          N 0 C 0
+s HLcroCro1.VOAJ01005846           12295804 33 -  14344330 TCCGGTAC------------------CATGTGTCT-GGG-CCAC----GTGAGCTGG
+i HLcroCro1.VOAJ01005846          N 0 C 0
+s HLcryFer2.HiC_scaffold_2        133902201 19 - 137528598 TCCGGTAT------------------CTCATGTCT--------------------GG
+i HLcryFer2.HiC_scaffold_2        N 0 C 0
+s HLhelPar1.PJEM01014695              16331 33 -     33823 TCCGGTAC------------------CACGTGTCT-GGG-CCAC----GTGAGCGGG
+i HLhelPar1.PJEM01014695          N 0 C 0
+s HLmunMug1.PISW01014559               2505 19 -     20575 TCTGGTAC------------------CACGTGTCC--------------------GG
+i HLmunMug1.PISW01014559          N 0 C 0
+s HLsurSur1.CM016979              136445020 33 - 140082955 TCTGGTAC------------------CACGTGTCT-GGG-CCAC----GTGAGCCGG
+i HLsurSur1.CM016979              N 0 C 0
+s HLsurSur2.PITD01003916             157453 33 -    174699 TCTGGTAC------------------CACGTGTCT-GGG-CCAC----GTGAGCCGG
+i HLsurSur2.PITD01003916          N 0 C 0
+s HLvulVul1.NBDQ01000094            4267068 28 +   8397903 TCCAT-AC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLvulVul1.NBDQ01000094          N 0 C 0
+s HLvulLag1.PISU010012519             39755 28 +     57808 TCCAT-AC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLvulLag1.PISU010012519         N 0 C 0
+s HLlycPic2.SIDF01000004           22480900 28 +  25844814 TCCAT-AC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLlycPic2.SIDF01000004          N 0 C 0
+s HLlycPic3.HiC_scaffold_32        68702832 28 -  73878326 TCCAT-AC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLlycPic3.HiC_scaffold_32       N 0 C 0
+s canFam4.chr8                     69487202 27 +  76405709 -CCAT-AC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i canFam4.chr8                    N 0 C 0
+s HLcanLupDin1.QKWQ01001014        67581092 27 -  72331038 -CCAT-AC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLcanLupDin1.QKWQ01001014       N 0 C 0
+s canFam5.chr8                     69023180 27 +  74192687 -CCAT-AC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i canFam5.chr8                    N 0 C 0
+s HLneoNeb1.HiC_scaffold_7        142450169 29 - 147111411 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GA
+i HLneoNeb1.HiC_scaffold_7        N 0 C 0
+s panTig1.KE722155                 37748240 29 -  41607841 TCCAGTAC------------------CACGTGTCT-GGG-CCAC----ATG----GG
+i panTig1.KE722155                N 0 C 0
+s HLmanTri1.SOZM010018079             15563 17 +     36523 TTCAGCAC------------------CACGT-----GG-----------------TG
+i HLmanTri1.SOZM010018079         N 0 C 0
+s HLphaTri2.HiC_scaffold_56        74476666 17 -  78838033 TTCAGCAC------------------CACGT-----GG-----------------TG
+i HLphaTri2.HiC_scaffold_56       N 0 C 0
+s manPen1.KN007316                   185547 17 +    207508 TTCAGCAC------------------CCCAT-----GG-----------------TG
+i manPen1.KN007316                N 0 C 0
+s HLmanPen2.VBRX01002214           19606002 17 +  23743210 TTCAGCAC------------------CCCAT-----GG-----------------TG
+i HLmanPen2.VBRX01002214          N 0 C 0
+s HLmanJav1.JSZB01021051              91528 17 -    353436 CTCAGCAC------------------CCCAT-----GG-----------------TG
+i HLmanJav1.JSZB01021051          N 0 C 0
+s HLmanJav2.VALM01000241           15765851 17 -  23343595 CTCAGCAC------------------CCCAT-----GG-----------------TG
+i HLmanJav2.VALM01000241          N 0 C 0
+s HLmacCal1.VMDR010014362             20523 29 +     23660 TCCTACAC------------------TGTGTGTCT-GGG-CCAC----GTG----AG
+i HLmacCal1.VMDR010014362         N 0 C 0
+s HLmicHir1.PVJI01024070              20412 29 -     22494 TCCTACGC------------------GGTGTGTCT-GGG-CCAT----GTG----AG
+i HLmicHir1.PVJI01024070          N 0 C 0
+s HLdesRot2.ScWXtkA_390            70419209 29 -  73323541 TCCTGCAC------------------AGTGTGTCT-GGG-CCAA----GTG----AG
+i HLdesRot2.ScWXtkA_390           N 0 C 0
+s HLtonSau1.PVIA01005678              95705 33 +    110754 TCCTGCAC------------------CGTGTGTCT-GGG-CCACATGAATG----AG
+i HLtonSau1.PVIA01005678          N 0 C 0
+s HLstuHon1.VSFL01022440           30534260 29 -  32057521 TCCTGCGC------------------CATGTATCT-GGG-CCAC----GTG----AA
+i HLstuHon1.VSFL01022440          N 0 C 0
+s HLartJam1.PVKR01016372              18251 28 +     35977 TCCTGC-C------------------TGTGTGTCC-GGG-CCAC----ACG----CG
+i HLartJam1.PVKR01016372          N 0 C 0
+s HLartJam2.VSFN01046644            9334144 29 +  10865310 TCCTGCGC------------------TGTGTGTCC-GGG-CCAC----ACG----TG
+i HLartJam2.VSFN01046644          N 0 C 0
+s HLphyDis3.scaffold_m19_p_1      212303610 29 - 214927246 TCCTGCAC------------------CGTGTGTCC-GGG-CCAC----GTG----AG
+i HLphyDis3.scaffold_m19_p_1      N 0 C 0
+s HLanoCau1.PVKU01011592              18912 28 -     36502 TCCTGCAC-------------------GTGTGTCG-GGG-CCAC----ATG----AG
+i HLanoCau1.PVKU01011592          N 0 C 0
+s HLlepYer1.Scaffold_368            3445711 29 -   4232449 TCCTGCAC------------------TGTGTGTCC-GGG-CCAC----GTG----AG
+i HLlepYer1.Scaffold_368          N 0 C 0
+s ptePar1.KE824199                     8275 29 +     23680 CGCTGCAC------------------CGTGTGTCT-GGG-CGCC----GTG----AG
+i ptePar1.KE824199                N 0 C 0
+s HLeidDup1.HiC_scaffold_3678          2314 29 +      8986 TGTGGCAC------------------CGCGTGTTT-GGC-CCAC----GTG----GA
+i HLeidDup1.HiC_scaffold_3678     N 0 C 0
+s HLeidHel2.HiC_scaffold_32221           90 29 -      6679 TGTGGCAG------------------CGCGTGTTT-GGC-CCAC----GTG----CA
+i HLeidHel2.HiC_scaffold_32221    N 0 C 0
+s pteAle1.KB031153                 21926405 29 +  24973953 TGTGGCAC------------------CGTGTGTTT-GGG-CCAC----ATG----GA
+i pteAle1.KB031153                N 0 C 0
+s HLptePse1.BMBI01006824             603273 29 +    795132 TGTGGCAC------------------CGTGTGTTT-GGG-CCAC----ATG----GA
+i HLptePse1.BMBI01006824          N 0 C 0
+s HLpteVam2.KN525895                 239609 29 -   1859071 TGTGGCAC------------------CGTGTGTTT-GGG-CCAC----ATG----GA
+i HLpteVam2.KN525895              N 0 C 0
+s HLpteGig1.CACVBW010009407        21792800 29 +  23596086 TGTGGCAC------------------CGTGTGTTT-GGG-CCAC----ATG----GA
+i HLpteGig1.CACVBW010009407       N 0 C 0
+s HLpteRuf1.HiC_scaffold_3        165890333 29 - 168885292 TGTGGCAC------------------CGTGTGTTT-GGG-CCAC----ATG----GA
+i HLpteRuf1.HiC_scaffold_3        N 0 C 0
+s HLeonSpe1.PUFA01000009           21480047 29 -  22291142 TGTGGCAC------------------CGCGTGTTA-GGG-CCAC----GTG----GA
+i HLeonSpe1.PUFA01000009          N 0 C 0
+s HLrouLes1.BNJM01000105           92816823 29 +  95982283 CGTGGCAC------------------CGCGTGTTA-GGG-CCAC----GTG----GA
+i HLrouLes1.BNJM01000105          N 0 C 0
+s HLcraTho1.PVKE010003690             22998 29 -     70186 TCGAGCAG------------------CAGGTGCCT-GGG-CCAT----GTG----AG
+i HLcraTho1.PVKE010003690         N 0 C 0
+s HLrhiFer5.scaffold_m29_p_8       97635499 29 - 100468962 TCGAGCAC------------------CTCATATCT-GGG-CCAC----GTG----AG
+i HLrhiFer5.scaffold_m29_p_8      N 0 C 0
+s HLrhiSin1.LVEH01000251             408904 29 -   3828993 TCGAGCAC------------------CTCATATCT-GGG-CCAC----ATG----AG
+i HLrhiSin1.LVEH01000251          N 0 C 0
+s HLhipGal1.PVLB01023287              23265 29 +     29441 TTGAGTGC------------------CACGTGTCT-GGA-CCAC----ATG----AG
+i HLhipGal1.PVLB01023287          N 0 C 0
+s HLhipArm1.JXIK01000044            1905784 29 -   5642379 TTGAGCAC------------------CACGTGTCT-GGG-CCAC----ATG----AG
+i HLhipArm1.JXIK01000044          N 0 C 0
+s HLmacSob1.PVKZ01004236              72196 18 -     91927 -----------------------------ATGTTT-GGG-CCAC----GTG----TT
+i HLmacSob1.PVKZ01004236          N 0 C 0
+s HLbalMys1.scaffold_73             1981145 21 -   2369401 --------------------------CACGTGTCT-GGG-TCAC----GTG----AG
+i HLbalMys1.scaffold_73           N 0 C 0
+s HLeubJap1.RJWP010051372                78 21 +     10560 --------------------------CACGTGTCT-GGG-TCAC----GTG----AG
+i HLeubJap1.RJWP010051372         N 0 C 0
+s HLeubGla1.HiC_scaffold_13       157804423 21 + 161762203 --------------------------CACGTGTCT-GGG-TCAC----GTG----AG
+i HLeubGla1.HiC_scaffold_13       N 0 C 0
+s HLplaMin1.RJWK010025729             10005 22 +     27495 -------A------------------CACGTGTCA-GGG-CCAT----GTG----AG
+i HLplaMin1.RJWK010025729         N 0 C 0
+s HLlniGeo1.RJWO010000149            232922 25 +    279675 ----GTAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLlniGeo1.RJWO010000149         N 0 C 0
+s HLponBla1.PGGH01087761               7179 25 +      7603 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLponBla1.PGGH01087761          N 0 C 0
+s HLphoPho1.RJWQ010002211            156913 25 +    214753 ----GTGC------------------CATGTGTCT-GGG-CCAC----GTG----AG
+i HLphoPho1.RJWQ010002211         N 0 C 0
+s HLphoPho2.HiC_scaffold_22       158068701 25 - 161866116 ----GTGC------------------CATGTGTCT-GGG-CCAC----GTG----AG
+i HLphoPho2.HiC_scaffold_22       N 0 C 0
+s HLphoSin1.CM018157              174149834 25 + 178563925 ----GTGC------------------CATGTGTCT-GGG-CCAC----GTG----AG
+i HLphoSin1.CM018157              N 0 C 0
+s HLneoAsi1.KZ686590                6908693 25 +  10857115 ----GTGC------------------CATGTGTCT-GGG-CCAC----GTG----AG
+i HLneoAsi1.KZ686590              N 0 C 0
+s HLmonMon1.SIHG01006964          170135268 25 + 174100690 ----GTGC------------------CATGTGTCT-GGG-CCAC----GTG----AG
+i HLmonMon1.SIHG01006964          N 0 C 0
+s HLturTru3.MRVK01001315           64716586 25 -  67133222 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLturTru3.MRVK01001315          N 0 C 0
+s turTru2.JH472808                   235614 25 +    328255 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i turTru2.JH472808                N 0 C 0
+s HLturTru4.CM022275              171955428 25 - 176472748 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLturTru4.CM022275              N 0 C 0
+s HLturAdu1.NCQN01016142             286900 25 -    629012 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLturAdu1.NCQN01016142          N 0 C 0
+s HLturAdu2.HiC_scaffold_17       173860361 25 - 177989964 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLturAdu2.HiC_scaffold_17       N 0 C 0
+s HLsouChi1.RWJT01021752           46551751 25 +  50907473 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLsouChi1.RWJT01021752          N 0 C 0
+s HLpepEle1.HiC_scaffold_6        161806200 25 + 165627627 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLpepEle1.HiC_scaffold_6        N 0 C 0
+s HLgloMel1.ML658841               14181111 25 -  18102937 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLgloMel1.ML658841              N 0 C 0
+s HLlagObl1.ML065009               24411182 25 +  28371583 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i HLlagObl1.ML065009              N 0 C 0
+s orcOrc1.NW_004438415v1           37164947 25 +  41399143 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i orcOrc1.NW_004438415v1          N 0 C 0
+s HLdelLeu2.ML702034               25184751 25 -  29396263 ----GTGC------------------CATGTGTCT-GGG-CCAC----GTG----AG
+i HLdelLeu2.ML702034              N 0 C 0
+s lipVex1.KE558730                  1741509 25 -   5449497 ----GTGC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i lipVex1.KE558730                N 0 C 0
+s HLoviCan1.CP011903               64527648 29 +  68687575 --------NNNNNNNNNNNNNNNNNNCACGTGTCA-GG-------------------
+i HLoviCan1.CP011903              N 0 I 35
+s HLsolPar1.RJWH01002867              92885 24 +    196281 TCCGGCAC------------------CCCATGT-------CTGG----GTG----TG
+i HLsolPar1.RJWH01002867          N 0 C 0
+s eriEur2.JH835375                  2634630 29 +   5100269 TCCAGCAC------------------CACGTGTCT-GGG-TCAC----GTG----AG
+i eriEur2.JH835375                N 0 C 0
+s sorAra2.JH798154                 37965451 29 +  40439880 TCCAGCAC------------------CACGTGTCT-GGG-CCAC----GTG----AG
+i sorAra2.JH798154                N 0 C 0
+s HLuroGra1.PVHY01021433              15400 30 -     24008 GCTAGTAC------------------CACGTGAGC-CGGGCCAC----GTG----AG
+i HLuroGra1.PVHY01021433          N 0 C 0
+s HLscaAqu1.PVIJ01015882              19826  7 +     34753 TCCCCCG--------------------------------------------------
+i HLscaAqu1.PVIJ01015882          N 0 C 0
+s HLtalOcc1.talOcc4_11              9809276  7 - 103683500 TCCCACA--------------------------------------------------
+i HLtalOcc1.talOcc4_11            N 0 C 0
+s HLmicTal1.PVJH01031229               5480 30 -     23901 TCCAGCAC------------------CAAGTGTCC-GGGCCCCC----GTG----AG
+i HLmicTal1.PVJH01031229          N 0 C 0
+s echTel2.JH980297                  6090310 29 -  88520344 TCCAGCAC------------------CAAGTGTCC-GGG-CCCC----GTG----AG
+i echTel2.JH980297                N 0 C 0
+s eleEdw1.JH947131                 34110599 30 +  47609318 TCCAGTAC------------------TAAGTGTCC-AGGCCCCA----GTG----AC
+i eleEdw1.JH947131                N 0 C 0
+s oryAfe1.JH864089                   160308 30 -   3337537 TCCAGCAC------------------CAAGTGTCC-GGGCCCCC----GTG----AG
+i oryAfe1.JH864089                N 0 C 0
+s chrAsi1.JH823281                  8695780 30 +  26272902 TCCAGCAC------------------CAAGTGTCC-GGGCCCCC----GTG----AG
+i chrAsi1.JH823281                N 0 C 0
+s HLhetBru1.PVJQ01003294             131119 30 +    154190 TCCAGCAC------------------CACATGTCC-AGGCCTCT----GTG----AG
+i HLhetBru1.PVJQ01003294          N 0 C 0
+s HLproCap3.PVIO02825926            1408118 30 -   2770349 TCCAGCAC------------------CACATGTAC-AGGCCTCT----GTG----AG
+i HLproCap3.PVIO02825926          N 0 C 0
+s HLdugDug1.BMBL01116843              49168 30 +    247966 TCCAGCAC------------------CAAGTGTCT-GGGCCCCC----GTG----CG
+i HLdugDug1.BMBL01116843          N 0 C 0
+s triMan1.JH594651                  7251890 30 -  18494253 TCCAGCAC------------------CAAGTGTCC-GGGCCCCC----GTG----AG
+i triMan1.JH594651                N 0 C 0
+s HLhydGig1.JACANZ010108035             538 30 +      2171 TCCAGCAC------------------CAAGTGTCT-GGGCCCCC----GTG----CG
+i HLhydGig1.JACANZ010108035       N 0 C 0
+s HLeleMax1.HiC_scaffold_1          6875988 30 - 100107381 TGGAGCAC------------------CAAGTGTCC-CGGTCCCT----ATG----AG
+i HLeleMax1.HiC_scaffold_1        N 0 C 0
+s dasNov3.JH578131                   206842 19 +    212650 TGCAGCAC------------------CAAGTGTCT-CC-------------------
+i dasNov3.JH578131                N 0 C 0
+s HLtamTet1.PVIF010003768             41766 16 -     76919 TCCAGCGC------------------GAAGTGTG-----------------------
+i HLtamTet1.PVIF010003768         N 0 C 0
+s HLmyrTri1.PVIY010022663             23683 16 +     40454 TCCAGTGC------------------CAAGTGTG-----------------------
+i HLmyrTri1.PVIY010022663         N 0 C 0
+s HLchoHof3.HiC_scaffold_8        186105323 19 + 191177992 TCTAGTCC------------------CAGGCCTGA-GC-------------------
+i HLchoHof3.HiC_scaffold_8        N 0 C 0
+e HLmacFul1.HiC_scaffold_1        318361194  0 + 639876811 N
+e macEug2.GL136397                    19021  0 +     49363 N
+e HLpseCor1.HiC_scaffold_1        234686054  0 - 553152306 N
+e monDom5.chr1                    430717470  0 - 748055161 N
+e HLgraAgi1.CM028236              416777854  0 + 725203407 N
+e HLpseOcc1.HiC_scaffold_3        321095402  0 - 326676023 N
+e HLtriVul1.CM021907               14089104  0 + 445409394 N
+e HLmacGig1.HiC_scaffold_1        352496116  0 - 696083378 N
+e HLospRuf1.HiC_scaffold_1        349450907  0 + 628932697 N
+e HLnotEug3.HiC_scaffold_1        349412954  0 + 653122438 N
+e HLvomUrs1.UNPS02007284            7859441  0 +  28641739 N
+e HLphaCin1.MSTS01000121            8048433  0 -   9538988 N
+e HLantFla1.CM028218              310654255  0 - 686337178 N
+e HLphaGym1.HiC_scaffold_4         10738141  0 + 353051754 N
+e tupBel1.scaffold_146323.1-13108     13096  0 +     13108 N
+e HLnycHum2.VMDQ010007047              9715  0 +     48001 N
+e HLpipPip1.PVIQ01003856              19277  0 -     79970 N
+e HLcarPer3.PVKM010065074              4879  0 -      7848 N
+e HLmorBla1.PVJD01005955              93741  0 -    105989 N
+e conCri1.JH655890                 53430851  0 -  55520359 N
+e ochPri3.JH802079                 27100083  0 -  29527457 N
+e cavPor3.scaffold_111               922936  0 +   4486175 N
+e cavApe1.AVPZ01000014v1             922420  0 +   4484023 N
+e HLdasPun1.RJWM01018013              23615  0 +     41894 N
+e HLoreAme1.WJNR01003193            3776927  0 -  40477561 N
+e HLdamLun1.SJXP01000748             898403  0 -   1151961 N
+e HLantMar1.SJYB01004565            1956336  0 +   2369668 N
+e HLsylGri1.SJYH01005401             233822  0 +    504822 N
+e HLbalPhy1.SGJD01005642             409777  0 +    490681 N
+e HLminSch1.PVJG01018187               7864  0 +     21549 N
+e HLminNat1.LDJU01000400             123963  0 -   1324913 N
+e HLcheMed1.VBSM01001979           24087061  0 -  26864180 N
+e myoLuc2.GL430690                   142876  0 +    144293 N
+e HLmyoLuc1.HiC_scaffold_22         6073341  0 + 218816382 N
+e HLrouAeg4.scaffold_m13_p_3      171286031  0 + 173785432 N
+e HLrouMad1.HiC_scaffold_1        152990325  0 - 155042175 N
+e HLmegLyr2.PVJL010008210             59858  0 +     69095 N
+e HLaeoCin1.JAAGEH010000195          717493  0 +   2381741 N
+e HLlasBor1.PVJN01031252              20161  0 +     25006 N
+e HLpipPip2.LR862356                4519422  0 - 203623556 N
+e HLpipKuh2.scaffold_m20_p_41       1176839  0 -   4120115 N
+e HLantPal1.VMDP01008547              20934  0 +     41650 N
+e eptFus1.JH977717                  3299574  0 -   4328132 N
+e HLmurAurFea1.PVJC01015100           20039  0 -     35619 N
+e HLmolMol2.scaffold_m16_p_1      248846626  0 + 252436072 N
+e HLnocLep1.PVIW01000544              18802  0 +    462009 N
+e myoBra1.KE164078                  2150544  0 -   4221827 N
+e HLmyoSep1.HiC_scaffold_18         6356697  0 + 221655331 N
+e myoDav1.KB109558                  2464399  0 +   3592612 N
+e HLmyoMyo6.scaffold_m19_p_1        3865119  0 - 223369599 N
+e HLtadBra1.PVIG010053298              3326  0 +      9871 N
+e HLchoDid1.PVKG010140130               117  0 -      5890 N
+e HLchoDid2.NC_051310             189893892  0 - 196373313 N
+e HLloxAfr4.chr9                    7629085  0 -  94531929 N
+
+a score=37343447.000000
+s hg38.chr14                      100852437 29 + 107043718 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+s panPan3.chr14                    81473931 29 +  87894197 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i panPan3.chr14                   C 0 C 0
+s panTro6.chr14                    81801591 29 +  87716528 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i panTro6.chr14                   C 0 C 0
+s gorGor6.chr14                    81592490 29 +  87619771 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i gorGor6.chr14                   C 0 C 0
+s ponAbe3.chr14                    82607045 29 +  88963417 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i ponAbe3.chr14                   C 0 C 0
+s HLhylMol2.WKKJ02000016           80936458 29 -  85660803 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLhylMol2.WKKJ02000016          C 0 C 0
+s HLnomLeu4.CM016966              137305221 29 - 142313534 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLnomLeu4.CM016966              C 0 C 0
+s HLpapAnu5.CM018186              156066519 29 - 161768468 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLpapAnu5.CM018186              C 0 C 0
+s HLtheGel1.CM009957              102361812 29 + 108639790 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLtheGel1.CM009957              C 0 C 0
+s manLeu1.NW_012104253v1           11146071 29 -  14486856 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i manLeu1.NW_012104253v1          C 0 C 0
+s HLmanSph1.SRPC01048805           14029271 29 +  19105867 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLmanSph1.SRPC01048805          C 0 C 0
+s cerAty1.NW_012001960v1           19513816 29 +  24410408 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i cerAty1.NW_012001960v1          C 0 C 0
+s macNem1.NW_012013355v1           20764272 29 -  23506373 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i macNem1.NW_012013355v1          C 0 C 0
+s HLmacFas6.BLPH01000007          161095244 29 + 166753685 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLmacFas6.BLPH01000007          C 0 C 0
+s HLmacFus1.HiC_scaffold_7        159699985 29 - 165769301 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLmacFus1.HiC_scaffold_7        C 0 C 0
+s rheMac10.chr7                   163071903 29 + 169868564 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i rheMac10.chr7                   C 0 C 0
+s HLcerMon1.JABBCR010001408        29136738 29 +  33269077 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLcerMon1.JABBCR010001408       C 0 C 0
+s HLcerNeg1.PVKI010009886             15146 29 -     35127 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLcerNeg1.PVKI010009886         C 0 C 0
+s HLallNig1.HiC_scaffold_24       148183686 29 - 153277761 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLallNig1.HiC_scaffold_24       C 0 C 0
+s HLeryPat1.PVJV010023214             15427 29 -     36282 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLeryPat1.PVJV010023214         C 0 C 0
+s chlSab2.chr24                    78813977 29 +  84932903 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i chlSab2.chr24                   C 0 C 0
+s HLpilTep2.CM019245              157691222 29 - 163413076 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLpilTep2.CM019245              C 0 C 0
+s colAng1.NW_012116488v1            7731989 29 -  12797210 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i colAng1.NW_012116488v1          C 0 C 0
+s HLsemEnt1.PVII010020960             14678 29 -     35876 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLsemEnt1.PVII010020960         C 0 C 0
+s HLtraFra1.VVIV01001009          158982577 29 - 164879359 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLtraFra1.VVIV01001009          C 0 C 0
+s nasLar1.chr7                    149299572 29 + 153844193 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i nasLar1.chr7                    C 0 C 0
+s HLpygNem1.PVHW010001731            169841 29 -    185431 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLpygNem1.PVHW010001731         C 0 C 0
+s HLrhiRox2.CM017355              159442755 29 + 177574763 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i HLrhiRox2.CM017355              C 0 C 0
+s rhiBie1.NW_016810565v1            1182608 29 -   5533159 C----TGG--GCCTCGT------GGGCCTGATGT-GGT-------G-----------------CT-----G
+i rhiBie1.NW_016810565v1          C 0 C 0
+s HLpleDon1.PVKP010003265            107181 29 +    111168 C----TGG--GCCTCGT------GGGCCTGACGT-GGT-------G-----------------CT-----G
+i HLpleDon1.PVKP010003265         C 0 C 0
+s HLpitPit1.PVIP01004276             117393 29 +    135705 C----TGG--GCCTCGT------GGGCCTGACGT-GGT-------G-----------------CT-----G
+i HLpitPit1.PVIP01004276          C 0 C 0
+s HLateGeo1.PVHS01038877               3186 29 +     13025 C----TGG--GCCTCGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i HLateGeo1.PVHS01038877          C 0 C 0
+s HLaloPal1.PVKV010005942             91567 29 +    110013 C----TGG--GCCTCGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i HLaloPal1.PVKV010005942         C 0 C 0
+s HLsaiBol1.HiC_scaffold_15       110152046 29 + 208287715 C----TGG--GCCTCGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i HLsaiBol1.HiC_scaffold_15       C 0 C 0
+s saiBol1.JH378253                  2868772 29 -   4236321 C----TGG--GCCTCGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i saiBol1.JH378253                C 0 C 0
+s HLcebAlb1.PVKJ010023280             22458 29 -     32414 C----TGG--GCCTCGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i HLcebAlb1.PVKJ010023280         C 0 C 0
+s cebCap1.NW_016107367v1            6189343 29 -   8749341 C----TGG--GCCTCGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i cebCap1.NW_016107367v1          C 0 C 0
+s HLsapApe1.ML771919               26991089 29 -  29592331 C----TGG--GCCTCGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i HLsapApe1.ML771919              C 0 C 0
+s HLsagImp1.PVHO010023849             13073 29 -     32605 C----TGG--GCATCGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i HLsagImp1.PVHO010023849         C 0 C 0
+s HLcalPym1.HiC_scaffold_18       115269406 15 - 119699178 C----TGG--GCATT---------------------GT-------G-----------------TT-----G
+i HLcalPym1.HiC_scaffold_18       C 0 C 0
+s HLcalJac4.CM021924              131654475 29 + 136971485 C----TGG--GCATTGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i HLcalJac4.CM021924              C 0 C 0
+s aotNan1.NW_018503652v1            4808740 29 +   9714854 C----TGG--GCCTCGT------GGGCCTGACAT-GGT-------G-----------------CT-----G
+i aotNan1.NW_018503652v1          C 0 C 0
+s tarSyr2.KE935878v1                  27419 29 -     71613 C----AGG--GCCACGT------AGGCCTGGAGT-GGT-------G-----------------CT-----A
+i tarSyr2.KE935878v1              C 0 C 0
+s HLdauMad1.PVJZ01001256             340085 29 -    488656 C----AGG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLdauMad1.PVJZ01001256          C 0 C 0
+s HLindInd1.RJWJ010003283             22599 29 +     88523 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLindInd1.RJWJ010003283         C 0 C 0
+s proCoq1.NW_012148130v1             203703 29 -   3825990 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i proCoq1.NW_012148130v1          C 0 C 0
+s micMur3.chr3                     12558122 29 + 119751181 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i micMur3.chr3                    C 0 C 0
+s HLmicSpe31.VSMF01020861             74421 29 -     84354 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLmicSpe31.VSMF01020861         C 0 C 0
+s HLmicTav1.VSME01323809               4861 29 -     52475 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLmicTav1.VSME01323809          C 0 C 0
+s HLmirZaz1.VSMD01001968              41168 29 +     60795 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLmirZaz1.VSMD01001968          C 0 C 0
+s HLmirCoq1.PVHQ01014407              23791 29 +     45674 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLmirCoq1.PVHQ01014407          C 0 C 0
+s HLlemCat1.PVHV01000019             874903 29 -   1223455 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLlemCat1.PVHV01000019          C 0 C 0
+s HLproSim1.MPIZ01000032            6558392 29 -   8166253 C----ACA--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLproSim1.MPIZ01000032          C 0 C 0
+s HLeulFul1.PVJU010000824             47798 29 -    116423 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLeulFul1.PVJU010000824         C 0 C 0
+s HLeulMon1.HiC_scaffold_2        105220450 29 + 108244268 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLeulMon1.HiC_scaffold_2        C 0 C 0
+s eulFla1.LGHW01000989v1             367393 29 -    606060 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i eulFla1.LGHW01000989v1          C 0 C 0
+s HLeulFla1.HiC_scaffold_21       146206438 29 - 149948850 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i HLeulFla1.HiC_scaffold_21       C 0 C 0
+s eulMac1.LGHX01000983v1             362957 29 -    600388 C----ACG--GCCACGT------GGGCCTGATGT-GGC-------G-----------------CT-----G
+i eulMac1.LGHX01000983v1          C 0 C 0
+s HLnycCou1.PVIV010001820             25062 29 -     91258 C----ATG--GCCACGT------GGGCCTGATGT-GGT-------G-----------------CG-----G
+i HLnycCou1.PVIV010001820         C 0 C 0
+s otoGar3.GL873539                 26730647 29 +  27606538 C----ATG--GCCACGT------GGGCCTGATGT-GGT-------G-----------------CG-----G
+i otoGar3.GL873539                C 0 C 0
+s HLacoRus1.LR877212              117459277 29 + 125099172 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLacoRus1.LR877212              C 0 C 0
+s HLacoCah1.PVKX01037052              11325 29 +     13810 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLacoCah1.PVKX01037052          C 0 C 0
+s HLpsaObe1.NESX02000004            1348352 29 +   4555500 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLpsaObe1.NESX02000004          C 0 C 0
+s HLmerUng1.NHTI01000358             916642 29 -   1007868 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmerUng1.NHTI01000358          C 0 C 0
+s HLrhoOpi1.REGO01000139            1502469 29 -   4617204 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLrhoOpi1.REGO01000139          C 0 C 0
+s HLarvNil1.JAAOMG010000028        37937116 29 -  47239466 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLarvNil1.JAAOMG010000028       C 0 C 0
+s HLgraSur1.SRMG01000052            5205970 29 +   8941766 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLgraSur1.SRMG01000052          C 0 C 0
+s HLapoSyl1.LIPJ01000504             289039 29 +   1164858 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLapoSyl1.LIPJ01000504          C 0 C 0
+s HLmasCou1.VSBT01000006          123300571 29 + 132969947 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmasCou1.VSBT01000006          C 0 C 0
+s HLmusPah1.LT608288              103568656 29 + 113323912 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmusPah1.LT608288              C 0 C 0
+s HLmusCar1.LT608234              104012919 29 + 114734182 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmusCar1.LT608234              C 0 C 0
+s HLmusSpr1.CM004106              104271705 29 + 114123490 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmusSpr1.CM004106              C 0 C 0
+s HLmusSpi1.QGOO01037276             456405 29 +   2653990 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmusSpi1.QGOO01037276          C 0 C 0
+s mm10.chr12                      109563735 29 + 120129022 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i mm10.chr12                      C 0 C 0
+s mm39.chr12                      109530169 29 + 120092757 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i mm39.chr12                      C 0 C 0
+s HLratRat7.CM021554              127112411 29 + 130838749 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLratRat7.CM021554              C 0 C 0
+s rn6.chr6                        133683000 29 + 147991367 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i rn6.chr6                        C 0 C 0
+s HLratNor7.CM026979              128515878 29 + 140994061 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLratNor7.CM026979              C 0 C 0
+s HLcriGri3.RAZU01000178            4449201 29 +   5616169 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLcriGri3.RAZU01000178          C 0 C 0
+s mesAur1.KB708140                 18010507 29 -  24332566 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i mesAur1.KB708140                C 0 C 0
+s HLsigHis1.PVIH01014333              36113 29 +     54412 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLsigHis1.PVIH01014333          C 0 C 0
+s HLneoLep1.LZPO01008023             254554 29 +    337728 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLneoLep1.LZPO01008023          C 0 C 0
+s HLonyTor1.LR877201               76791957 29 +  84754330 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLonyTor1.LR877201              C 0 C 0
+s HLperNas1.HiC_scaffold_17        72753654 29 -  81420696 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLperNas1.HiC_scaffold_17       C 0 C 0
+s HLperCri1.HiC_scaffold_20        73975541 29 +  82692919 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLperCri1.HiC_scaffold_20       C 0 C 0
+s HLperEre1.CACRXM010000014        33027579 29 +  91988365 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLperEre1.CACRXM010000014       C 0 C 0
+s HLperCal2.VALE02034092           76285521 29 +  85699326 C----AAT--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLperCal2.VALE02034092          C 0 C 0
+s HLperLeu1.NMRJ01000618             792061 29 -    904468 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLperLeu1.NMRJ01000618          C 0 C 0
+s HLperManBai2.CM010892             5080531 29 +  88525187 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLperManBai2.CM010892           C 0 C 0
+s HLperPol1.CM010916               87126718 29 +  92967854 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLperPol1.CM010916              C 0 C 0
+s HLondZib1.PVIU01006402              37738 29 +    102335 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLondZib1.PVIU01006402          C 0 C 0
+s HLmyoGla2.LR762064                5987877 29 +  10049017 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmyoGla2.LR762064              C 0 C 0
+s HLellTal1.LOJH01000017              38163 29 -    108968 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLellTal1.LOJH01000017          C 0 C 0
+s HLellLut1.LOEQ01000091             380243 29 +   1513830 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLellLut1.LOEQ01000091          C 0 C 0
+s HLarvAmp1.LR862386               66991409 29 - 138658583 C----AAT--GTCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLarvAmp1.LR862386              C 0 C 0
+s HLmicFor1.NMRL01000079            4538925 29 +   7842608 C----AAC--GTCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmicFor1.NMRL01000079          C 0 C 0
+s HLmicOec1.VIIU01003326              36996 29 +    158813 C----AAC--GTCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmicOec1.VIIU01003326          C 0 C 0
+s micOch1.chr1                     45035836 29 + 126672627 C----AAC--GTCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i micOch1.chr1                    C 0 C 0
+s HLmicArv1.VIIT010001201             72053 29 +    187952 C----AAC--GTCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmicArv1.VIIT010001201         C 0 C 0
+s HLmicAgr2.CADCXT010004607         7636706 29 -  11971889 C----AAC--GTCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmicAgr2.CADCXT010004607       C 0 C 0
+s HLcriGam1.PVKD010003492             21008 29 -    152155 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLcriGam1.PVKD010003492         C 0 C 0
+s nanGal1.KL205486                  5085268 29 -   8420578 C----AAC--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i nanGal1.KL205486                C 0 C 0
+s HLrhiPru1.VZQC01008633             285206 29 +    707449 C----AGT--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLrhiPru1.VZQC01008633          C 0 C 0
+s HLzapHud1.PVHP010012880             20015 29 +     42050 C----AAG--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLzapHud1.PVHP010012880         C 0 C 0
+s jacJac1.JH725518                  9074985 29 -  11016429 C----AGG--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i jacJac1.JH725518                C 0 C 0
+s HLallBul1.PVKW010063383              3738 29 +      9022 C----AGG--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLallBul1.PVKW010063383         C 0 C 0
+s HLcasCan3.HiC_scaffold_1        164412048 29 + 168659143 C----AGG--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLcasCan3.HiC_scaffold_1        C 0 C 0
+s HLperLonPac1.RJWR010026879           7807 29 +     21063 C----AGG--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----A
+i HLperLonPac1.RJWR010026879      C 0 C 0
+s HLdipSte1.PVHN010025582             12462 29 -     24910 C----ACG--GCCACGT------GGGCCTGACGT-GGG-------G-----------------CT-----A
+i HLdipSte1.PVHN010025582         C 0 C 0
+s dipOrd2.NW_012267218v1           33115724 29 -  36660411 C----ACG--GCCACGT------GGGCCTGACGT-GGG-------G-----------------CT-----A
+i dipOrd2.NW_012267218v1          C 0 C 0
+s HLpedCap1.VMDO01003117             132590 29 -    150917 C----AAA--GTCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLpedCap1.VMDO01003117          C 0 C 0
+s HLcteGun1.PVKB01002349             210987  8 -    292605 C----AGG-------------------------------------G-----------------CA-----G
+i HLcteGun1.PVKB01002349          C 0 C 0
+s HLhysCri1.PVJO010016020             23504 29 +     43318 C----AGG--GCCGTGC------CGGCCTGACGT-GGG-------G-----------------CT-----G
+i HLhysCri1.PVJO010016020         C 0 C 0
+s HLereDor1.ML655430                5421893 29 +   8972779 C----TGG--GCCACGT------GGGCCTGACAT-GGA-------G-----------------CT-----A
+i HLereDor1.ML655430              C 0 C 0
+s HLcoePre1.HiC_scaffold_20        33635147 29 +  36616793 C----TGG--GCCACAT------GGGCCTGACAT-GGA-------G-----------------CT-----A
+i HLcoePre1.HiC_scaffold_20       C 0 C 0
+s HLcavTsc1.PVKK010020110             22971 21 -     32630 --------------TGT------GGGCCTGACGT-TGG-------G-----------------TG-----A
+i HLcavTsc1.PVKK010020110         C 0 C 0
+s HLhydHyd1.PVLA01005166              22773 21 +    154489 --------------TAT------GGGCCTGGCAT-GCA-------G-----------------CA-----A
+i HLhydHyd1.PVLA01005166          C 0 C 0
+s HLdolPat1.PVJX010020232             17684 21 +     33650 --------------TGT------GGGCCTGGCGT-GGA-------G-----------------CG-----A
+i HLdolPat1.PVJX010020232         C 0 C 0
+s chiLan1.JH721998                   153537 29 +   3735699 C----TGG--GCCACAT------GGGCCTGACGT-GGA-------G-----------------CT-----A
+i chiLan1.JH721998                C 0 C 0
+s HLmyoCoy1.PVJA010012560             32550 28 -     51717 C----TG---GCCACGT------GGGCCTCACGT-GGA-------G-----------------CT-----A
+i HLmyoCoy1.PVJA010012560         C 0 C 0
+s HLcteSoc1.PVKA01006056              22493 29 -     86210 C----TGG--GCCACGT------GGGCCTCACGT-GGA-------G-----------------CT-----A
+i HLcteSoc1.PVKA01006056          C 0 C 0
+s octDeg1.JH651947                   288407 29 -    405198 C----TGA--GCCACGT------GGGCCTCACGT-GGA-------G-----------------CT-----A
+i octDeg1.JH651947                C 0 C 0
+s HLdinBra1.PVLD010003868            106431 29 -    134870 C----TGG--GCCACAT------GGGCCTGACGT-GGA-------G-----------------CT-----A
+i HLdinBra1.PVLD010003868         C 0 C 0
+s HLthrSwi1.PVIC010017105             13504 35 +     33200 C----TGGGCACGCTGT------G-GCCTGC--T-GGGCCTTCTTA-----------------CT-----C
+i HLthrSwi1.PVIC010017105         C 0 C 0
+s HLpetTyp1.PVIR01056391               1524 22 +      6723 G----TGG--ACCATGT------G-GGATGT--A-GGG---------------------------------
+i HLpetTyp1.PVIR01056391          C 0 C 0
+s hetGla2.JH602047                 38770198 27 -  42019962 C----AGG--GTCACGT------GTGCCTGA--C-GGG-------G-----------------CT-----G
+i hetGla2.JH602047                C 0 C 0
+s HLfukDam2.JAAHWF010000021        38642289 29 +  41870746 C----GGG--GCCATGT------GGGCCTAATGT-GGG-------G-----------------CT-----A
+i HLfukDam2.JAAHWF010000021       C 0 C 0
+s HLaplRuf1.PVKS010034280             12705 29 -     21026 C----AAG--GTCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----A
+i HLaplRuf1.PVKS010034280         C 0 C 0
+s HLsciCar1.LR738591              195838934 28 + 199827622 C-----AG--CTCACGT------GGCCCTGACGT-GGG-------G-----------------CT-----G
+i HLsciCar1.LR738591              C 0 C 0
+s HLsciVul1.LR738612              198035373 28 - 204367342 C-----AG--CTCACGT------GGCCCTGACGT-GGG-------G-----------------CT-----G
+i HLsciVul1.LR738612              C 0 C 0
+s HLxerIna1.PVHX01020687              22482 28 +     31507 C-----AG--CTCACGT------GGCCCTGACGT-GGG-------G-----------------CT-----G
+i HLxerIna1.PVHX01020687          C 0 C 0
+s HLmarHim1.RAQP01001946             188513 28 +    292766 C-----AG--CTCGCGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i HLmarHim1.RAQP01001946          C 0 C 0
+s HLmarMar1.CZRN01000002           64463104 28 +  69027483 C-----AG--CTCGCGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i HLmarMar1.CZRN01000002          C 0 C 0
+s HLmarVan1.ML555004                1596265 28 -   2054634 C-----AG--CTCGCGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i HLmarVan1.ML555004              C 0 C 0
+s HLmarMon1.CABDUW010001429          304556 28 -    537408 C-----AG--CTCGCGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i HLmarMon1.CABDUW010001429       C 0 C 0
+s HLmarMon2.WJEC01008012             132750 28 -   1023355 C-----AG--CTCGCGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i HLmarMon2.WJEC01008012          C 0 C 0
+s HLmarFla1.ML561927                2448372 28 +   6882330 C-----AG--CTCGCGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i HLmarFla1.ML561927              C 0 C 0
+s HLspeDau1.KZ294791                 600533 28 -   1141178 C-----AG--CTCACGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i HLspeDau1.KZ294791              C 0 C 0
+s HLuroPar1.QVIC01000657             210099 28 -    765883 C-----AG--CTCACGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i HLuroPar1.QVIC01000657          C 0 C 0
+s speTri2.JH393414                  4606763 28 +   5367406 C-----AG--CTCACGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i speTri2.JH393414                C 0 C 0
+s HLcynGun1.WBRW01005317            1668752 28 -   1678457 C-----AG--CTCACGT------GGCCCTGACGT-GGG-------G-----------------CT-----A
+i HLcynGun1.WBRW01005317          C 0 C 0
+s HLmusAve1.PVJB01022607              27324 29 -     34355 C----AAA--GCCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLmusAve1.PVJB01022607          C 0 C 0
+s HLgliGli1.PVJS01011261              26337 29 -     46165 C----AAA--GCCACAT------GGGCCTGACAT-GGA-------G-----------------CT-----G
+i HLgliGli1.PVJS01011261          C 0 C 0
+s HLgraMur1.PVLC010107320               143 29 +      3364 C----AAA--GTCACGT------GGGCCTGACGT-GGA-------G-----------------CT-----G
+i HLgraMur1.PVLC010107320         C 0 C 0
+s HLlepTim1.CM019675               57553587 25 - 174433500 C----AGA--GCCACG-------GGCTCTGACGT-----------G-----------------CT-----G
+i HLlepTim1.CM019675              C 0 C 0
+s HLlepAme1.PVJM010068782              4122 25 +     10626 C----AGA--GCCACG-------GGCTCTGACGT-----------G-----------------CT-----G
+i HLlepAme1.PVJM010068782         C 0 C 0
+s HLsylBac1.HiC_scaffold_6         37047636 24 +  39558118 C----AGA--GCCAC--------GGCTCTGACGT-----------G-----------------CT-----G
+i HLsylBac1.HiC_scaffold_6        C 0 C 0
+s HLoryCunCun4.CM023791            41825979 24 +  46215498 C-----GA--GCCACG-------GGCTCTGATGG-----------G-----------------CT-----G
+i HLoryCunCun4.CM023791           C 0 C 0
+s tupChi1.KB321140                  4704545 29 +   6168052 A----ATT--ccccccc------GAGCCTGCTGT-GGA-------G-----------------TT-----G
+i tupChi1.KB321140                C 0 C 0
+s panHod1.KE116344                   892722 29 +   1962698 C----AGG--GCTTCAT------GGGCCCGAGGT-GGT-------G-----------------CT-----G
+i panHod1.KE116344                C 0 C 0
+s HLoviCan2.PVIS010019196             23802 29 +     43306 C----AGG--GCTTCAT------GGGCCCGAGAT-GGT-------G-----------------CT-----G
+i HLoviCan2.PVIS010019196         C 0 C 0
+s HLoviNivLyd1.CAFBRR010001950        29036 29 +    130141 C----AGG--GCTTCAT------GGGCCCGAGAT-GGT-------G-----------------CT-----G
+i HLoviNivLyd1.CAFBRR010001950    C 0 C 0
+s HLoviAmm1.NIWH01025190           54103600 29 +  58171437 C----AGG--GCTTCAC------GGGCCCGAGAT-GGT-------G-----------------CT-----G
+i HLoviAmm1.NIWH01025190          C 0 C 0
+s HLoviAri5.CM022036               63578832 29 +  68735357 C----AGG--GCTTCAC------GGGCCCGAGAT-GGT-------G-----------------CT-----G
+i HLoviAri5.CM022036              C 0 C 0
+s HLoviOri1.CM025431               67278889 29 +  71829972 C----AGG--GCTTCAC------GGGCCCGAGAT-GGT-------G-----------------CT-----G
+i HLoviOri1.CM025431              C 0 C 0
+s HLhemHyl1.PVJR01020021              23678 29 -     43140 C----AGG--GCTTCAT------GGGCCCGAGAT-GGT-------G-----------------CT-----G
+i HLhemHyl1.PVJR01020021          C 0 C 0
+s HLammLer1.NIVO01034600            3520932 29 +   5351045 C----AGG--GCTTCAT------GGGCCCGAGAT-GGT-------G-----------------CT-----G
+i HLammLer1.NIVO01034600          C 0 C 0
+s HLcapSib1.NIYN02025621           10822824 29 +  17491638 C----AGG--GCTTCAT------GGGCCCGAGGT-GGT-------G-----------------CT-----G
+i HLcapSib1.NIYN02025621          C 0 C 0
+s HLcapIbe1.SJYO01014747           55726674 29 +  58533123 C----AGG--GCTTCAT------GGGCCCGAGGT-GGT-------G-----------------CT-----G
+i HLcapIbe1.SJYO01014747          C 0 C 0
+s HLcapHir2.CM004582               65021377 29 +  69425955 C----AGG--GCTTCAT------GGGCCCGAGGT-GGT-------G-----------------CT-----G
+i HLcapHir2.CM004582              C 0 C 0
+s HLcapAeg1.HG918308                3060870 29 -   5088253 C----AGG--GCTTCAT------GGGCCCGAGGT-GGT-------G-----------------CT-----G
+i HLcapAeg1.HG918308              C 0 C 0
+s HLconTau2.HiC_scaffold_20        62242206 29 -  66496368 C----AGG--GCTTTGT------GGGCCCGAGGT-GGC-------G-----------------CT-----G
+i HLconTau2.HiC_scaffold_20       C 0 C 0
+s HLbeaHun1.PVKQ01034107               4065 29 -     22047 C----AGG--GCTTTGT------GGGCCCGAGGT-GGC-------A-----------------CT-----G
+i HLbeaHun1.PVKQ01034107          C 0 C 0
+s HLoryGaz1.RAWW01002806            1328225 29 +   2865054 C----AGG--GCTTTGT------GGGCCCGAGGT-GGC-------G-----------------CT-----G
+i HLoryGaz1.RAWW01002806          C 0 C 0
+s HLoryDam1.HiC_scaffold_16        63748153 29 -  67964418 C----AGG--GCTTTGT------GGGCCCGAGGT-GGC-------G-----------------CT-----G
+i HLoryDam1.HiC_scaffold_16       C 0 C 0
+s HLhipNig1.VHQK01014861            6349404 29 -   8431261 C----AGG--GCTTTGT------GGGCCCGAGGT-GGC-------G-----------------CT-----G
+i HLhipNig1.VHQK01014861          C 0 C 0
+s HLhipEqu1.JAEFBM010000112         9383707 29 -  11389043 C----AGG--GCTTTGT------GGGTCCGAGGT-GGC-------G-----------------CT-----G
+i HLhipEqu1.JAEFBM010000112       C 0 C 0
+s HLredRed1.SJYQ01008646              23758 29 +    254362 C----AGG--GCTTCAT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLredRed1.SJYQ01008646          C 0 C 0
+s HLkobEll1.SJYR01000296             570232 29 -    995896 C----AGG--GCTTCAT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLkobEll1.SJYR01000296          C 0 C 0
+s HLkobLecLec1.JACEGT010019977      3277624 29 -   6117633 C----AGG--GCTTCAT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLkobLecLec1.JACEGT010019977    C 0 C 0
+s HLmadKir1.SJYC01111176               9597 28 +     28813 C----AGG--GCTTTGT------GGGCCTGAGGT-GGC-------------------------CT-----G
+i HLmadKir1.SJYC01111176          C 0 C 0
+s HLrapCam1.SJYW01000560             140601 29 +    789012 C----AGG--GCTTCAT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLrapCam1.SJYW01000560          C 0 C 0
+s HLproPrz1.SJYF01000094            6768589 29 +   9518530 C----AGG--GCTTCGT------GGGCCTGAGGT-GGC-------A-----------------CT-----G
+i HLproPrz1.SJYF01000094          C 0 C 0
+s HLnanGra1.SJYD01053834             571068 29 +    736451 C----AGG--GCCTCGT------GGGCCTGGGGT-GGC-------G-----------------CT-----G
+i HLnanGra1.SJYD01053834          C 0 C 0
+s HLeudTho1.SJYE01013292             134286 29 +   1001262 C----AGG--GCCTCGT------GGGCCTGGGGT-GGC-------G-----------------CT-----G
+i HLeudTho1.SJYE01013292          C 0 C 0
+s HLsaiTat1.PVIK010099566              4582 29 +      7381 C----AGG--GCCTCGT------GGGCCTGGGGT-GTC-------G-----------------CT-----G
+i HLsaiTat1.PVIK010099566         C 0 C 0
+s HLlitWal1.SJYG01000418            2019834 29 +   2176759 C----AGG--GCCTCGT------GGGCCTGGGGT-GGC-------G-----------------CT-----G
+i HLlitWal1.SJYG01000418          C 0 C 0
+s HLneoPyg1.SJYV01054064               4797 29 -     12846 C----AGG--GCTTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLneoPyg1.SJYV01054064          C 0 C 0
+s HLoreOre1.SJYX01005045             231012 27 +    647886 C----AGG--GCTTCGT------GGGCCTGA--T-GGT-------G-----------------CT-----G
+i HLoreOre1.SJYX01005045          C 0 C 0
+s HLphiMax1.SJYS01002514              71717 34 +    311373 C----AGG--GCTTCGTGTTCGCGGGCCTGAGGT-GGC-------------------------CT-----G
+i HLphiMax1.SJYS01002514          C 0 C 0
+s HLcepHar1.SJYT01068283             345085 29 +    634484 C----AGG--GCTTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLcepHar1.SJYT01068283          C 0 C 0
+s HLaepMel1.SJXQ01002300             267230 29 +    659042 C----AGG--GCTTCCT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLaepMel1.SJXQ01002300          C 0 C 0
+s HLneoMos1.SJYA01007639               4435 29 -     26454 C----AGG--GCTTCAT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i HLneoMos1.SJYA01007639          C 0 C 0
+s HLsynCaf1.CABVSG010000223        65240392 29 -  69160875 C----AGG--GCTTTGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLsynCaf1.CABVSG010000223       C 0 C 0
+s HLbubBub2.CM009859               65077624 29 -  68863396 C----AGG--GCTTTGT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i HLbubBub2.CM009859              C 0 C 0
+s bisBis1.KN265017v1                6277655 29 -   9196613 C----AGA--GCTTTGT------GGGCCTGAGGT-GGC-------T-----------------CT-----G
+i bisBis1.KN265017v1              C 0 C 0
+s HLbosInd2.CM009511               67393870 29 +  71592531 C----AGA--GCTTTGT------GGGCCTGAGGT-GGC-------T-----------------CT-----G
+i HLbosInd2.CM009511              C 0 C 0
+s bosTau9.chr21                    65750876 29 +  69862954 C----AGA--GCTTTGT------GGGCCTGAGGT-GGC-------T-----------------CT-----G
+i bosTau9.chr21                   C 0 C 0
+s HLbosMut2.VBQZ03000038           15425463 29 -  19560981 C----AGA--GCTTTGT------GGGCCTGAGGT-GGC-------T-----------------CT-----G
+i HLbosMut2.VBQZ03000038          C 0 C 0
+s HLbosGru1.CM016706               71114257 29 +  77378949 C----AGA--GCTTTGT------GGGCCTGAGGT-GGC-------T-----------------CT-----G
+i HLbosGru1.CM016706              C 0 C 0
+s HLbosGau1.CM024455               40916489 29 -  67684619 C----AGA--GCTTTGT------GGGCCTGAGGT-GGC-------T-----------------CT-----G
+i HLbosGau1.CM024455              C 0 C 0
+s HLbosFro1.RBVW01000235            1097678 29 +   1848730 C----AGA--GCTTTGT------GGGCCTGAGGT-GGC-------T-----------------CT-----G
+i HLbosFro1.RBVW01000235          C 0 C 0
+s HLtraImb1.SJYM01012930             152986 29 -    162928 C----AAG--GCTTTGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLtraImb1.SJYM01012930          C 0 C 0
+s HLtraStr1.SJYU01005092             244132 29 +    264057 C----AAG--GCTTTGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLtraStr1.SJYU01005092          C 0 C 0
+s HLtraScr1.SJXY01004321             446247 29 -   1771316 C----AAG--GCTTTGT------GGGCCTGAGGC-GGC-------G-----------------CT-----G
+i HLtraScr1.SJXY01004321          C 0 C 0
+s HLmosMos1.PVHU020023298          10637147 29 -  27596027 C----AGG--GCTTCAT------GGGCCTGAGGT-GGC-------A-----------------CT-----G
+i HLmosMos1.PVHU020023298         C 0 C 0
+s HLmosBer1.SGQJ01002919            3527958 29 +   6870264 C----AGG--GCTTCAT------GGGCCTGAGGT-GGC-------A-----------------CT-----G
+i HLmosBer1.SGQJ01002919          C 0 C 0
+s HLmosChr1.SPDY01014104              34366 29 +    234259 C----AGG--GCTTCAT------GGGCCTGAGGT-GGC-------A-----------------CT-----G
+i HLmosChr1.SPDY01014104          C 0 C 0
+s HLhydIne1.SPDZ01000855           28452131 29 +  32669822 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLhydIne1.SPDZ01000855          C 0 C 0
+s HLcapPyg1.SNSB01003710            6017224 29 -   8859782 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLcapPyg1.SNSB01003710          C 0 C 0
+s HLalcAlc1.SSNK01125895              23481 29 +     30114 C----AGG--GCTTCCT------GGGCCTGAGAT-GGT-------G-----------------CT-----G
+i HLalcAlc1.SSNK01125895          C 0 C 0
+s HLelaDav1.JRFZ01010281            6057438 29 +   7379564 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLelaDav1.JRFZ01010281          C 0 C 0
+s HLranTar1.PVIN010018020             23546 29 +     43492 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLranTar1.PVIN010018020         C 0 C 0
+s HLranTarGra2.JACGUM010000067      5981431 29 +   9978328 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLranTarGra2.JACGUM010000067    C 0 C 0
+s HLodoHem1.RCHL01009114             871840 29 -   3277885 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLodoHem1.RCHL01009114          C 0 C 0
+s HLodoVir1.KZ102737                 873319 29 -   3296679 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLodoVir1.KZ102737              C 0 C 0
+s HLodoVir2.HiC_scaffold_33        58122469 29 +  62298052 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLodoVir2.HiC_scaffold_33       C 0 C 0
+s HLodoVir3.JAAVWD010002496        33860079 29 -  35663065 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLodoVir3.JAAVWD010002496       C 0 C 0
+s HLmunRee1.CM018492               61504086 29 -  65571547 C----AGG--GCTTCCT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLmunRee1.CM018492              C 0 C 0
+s HLmunMun1.CM018502              203277888 29 - 682452208 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------T-----------------CT-----G
+i HLmunMun1.CM018502              C 0 C 0
+s HLmunCri1.SJXS01012007             193344 29 -   1979782 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------T-----------------CT-----G
+i HLmunCri1.SJXS01012007          C 0 C 0
+s HLcerHanYar1.CM021204            64911752 29 +  69131755 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------A-----------------CT-----G
+i HLcerHanYar1.CM021204           C 0 C 0
+s HLaxiPor1.QQTR01078530           46214946 29 +  50514970 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------G-----------------CT-----G
+i HLaxiPor1.QQTR01078530          C 0 C 0
+s HLprzAlb1.SJXR01000674            3990778 29 +   4813752 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------A-----------------CT-----G
+i HLprzAlb1.SJXR01000674          C 0 C 0
+s HLcerEla1.CM008020               84238465 29 +  89791019 C----AGG--GCTTCCT------GGGCCTGAGAT-GGC-------A-----------------CT-----G
+i HLcerEla1.CM008020              C 0 C 0
+s HLantAme1.ML661902               25494613 19 +  27338260 C----AGG--GCTTCGT------GGGCCTGA----------------------------------------
+i HLantAme1.ML661902              C 0 C 0
+s HLokaJoh2.HiC_scaffold_17        58362219 29 +  62630987 C----AGG--ACTTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLokaJoh2.HiC_scaffold_17       C 0 C 0
+s HLgirTip1.LVKQ01S005969             29989 29 -    247409 C----AGG--GCTTCGT------GGGCCTGAGGT-GGC-------A-----------------CT-----G
+i HLgirTip1.LVKQ01S005969         C 0 C 0
+s HLgirCam2.HiC_scaffold_11       135362616 29 + 139680656 C----AGG--GCTTCGT------GGGCCTGAGGT-GGC-------A-----------------CT-----G
+i HLgirCam2.HiC_scaffold_11       C 0 C 0
+s HLgirCam1.SJXV01004655            5160295 29 +   9480039 C----AGG--GCTTCGT------GGGCCTGAGGT-GGC-------A-----------------CT-----G
+i HLgirCam1.SJXV01004655          C 0 C 0
+s HLtraJav1.PVHZ021082409            645044 29 +   2799931 C----ATG--GCTTCGT------GGGCCTGGGGT-GGC-------G-----------------CT-----G
+i HLtraJav1.PVHZ021082409         C 0 C 0
+s HLtraKan1.SJXW01025393             205737 29 -    452316 C----ATG--GCTTCGT------GGGCCTGGGGT-GGC-------G-----------------CT-----G
+i HLtraKan1.SJXW01025393          C 0 C 0
+s lipVex1.KE558730                  1741534 29 -   5449497 C----AGG--GCCTCGC------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i lipVex1.KE558730                C 0 C 0
+s HLdelLeu2.ML702034               25184776 29 -  29396263 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------C-----------------CT-----G
+i HLdelLeu2.ML702034              C 0 C 0
+s orcOrc1.NW_004438415v1           37164972 29 +  41399143 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i orcOrc1.NW_004438415v1          C 0 C 0
+s HLlagObl1.ML065009               24411207 29 +  28371583 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLlagObl1.ML065009              C 0 C 0
+s HLgloMel1.ML658841               14181136 29 -  18102937 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLgloMel1.ML658841              C 0 C 0
+s HLpepEle1.HiC_scaffold_6        161806225 29 + 165627627 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLpepEle1.HiC_scaffold_6        C 0 C 0
+s HLsouChi1.RWJT01021752           46551776 29 +  50907473 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLsouChi1.RWJT01021752          C 0 C 0
+s HLturAdu2.HiC_scaffold_17       173860386 29 - 177989964 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLturAdu2.HiC_scaffold_17       C 0 C 0
+s HLturAdu1.NCQN01016142             286925 29 -    629012 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLturAdu1.NCQN01016142          C 0 C 0
+s HLturTru4.CM022275              171955453 29 - 176472748 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLturTru4.CM022275              C 0 C 0
+s turTru2.JH472808                   235639 29 +    328255 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i turTru2.JH472808                C 0 C 0
+s HLturTru3.MRVK01001315           64716611 29 -  67133222 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLturTru3.MRVK01001315          C 0 C 0
+s HLmonMon1.SIHG01006964          170135293 29 + 174100690 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLmonMon1.SIHG01006964          C 0 C 0
+s HLneoAsi1.KZ686590                6908718 29 +  10857115 C----AGG--GCCTCGT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i HLneoAsi1.KZ686590              C 0 C 0
+s HLphoSin1.CM018157              174149859 29 + 178563925 C----AGG--GCCTCGT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i HLphoSin1.CM018157              C 0 C 0
+s HLphoPho2.HiC_scaffold_22       158068726 29 - 161866116 C----AGG--GCCTCGT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i HLphoPho2.HiC_scaffold_22       C 0 C 0
+s HLphoPho1.RJWQ010002211            156938 29 +    214753 C----AGG--GCCTCGT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i HLphoPho1.RJWQ010002211         C 0 C 0
+s HLponBla1.PGGH01087761               7204 29 +      7603 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLponBla1.PGGH01087761          C 0 C 0
+s HLlniGeo1.RJWO010000149            232947 29 +    279675 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLlniGeo1.RJWO010000149         C 0 C 0
+s HLmesBid1.PVJJ010001318            107284 29 +    124499 C----AGG--ACCTCGT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i HLmesBid1.PVJJ010001318         C 0 C 0
+s HLzipCav1.RJWS010137069              2516 29 -      4500 C----AGG--ACCTCGT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i HLzipCav1.RJWS010137069         C 0 C 0
+s HLplaMin1.RJWK010025729             10027 29 +     27495 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLplaMin1.RJWK010025729         C 0 C 0
+s HLkogBre1.RJWL010022601             14838 29 -     31253 C----AGG--GCCTCGT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i HLkogBre1.RJWL010022601         C 0 C 0
+s phyCat1.KI403444                   313872 29 +    395051 C----AGG--GCCTCGT------GGGCCTGAGGT-GGT-------G-----------------CT-----G
+i phyCat1.KI403444                C 0 C 0
+s HLphyCat2.CM014795              178500318 29 + 182843547 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLphyCat2.CM014795              C 0 C 0
+s balAcu1.KI537651                  6219024 29 -  20250593 C----AGG--ACCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i balAcu1.KI537651                C 0 C 0
+s HLbalBon1.DF459135                  25588 29 +     41945 C----AGG--ACCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLbalBon1.DF459135              C 0 C 0
+s HLmegNov1.RYZJ01000028            5644386 29 -   9556408 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLmegNov1.RYZJ01000028          C 0 C 0
+s HLbalMus1.VNFC01000011          171867605 29 + 176072231 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLbalMus1.VNFC01000011          C 0 C 0
+s HLbalEde1.HiC_scaffold_20       159177909 29 - 162936684 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLbalEde1.HiC_scaffold_20       C 0 C 0
+s HLescRob1.RJWN010017694             23383 29 -     40556 C----AGG--ACCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLescRob1.RJWN010017694         C 0 C 0
+s HLeubGla1.HiC_scaffold_13       157804444 29 + 161762203 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLeubGla1.HiC_scaffold_13       C 0 C 0
+s HLeubJap1.RJWP010051372                99 29 +     10560 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLeubJap1.RJWP010051372         C 0 C 0
+s HLbalMys1.scaffold_73             1981166 29 -   2369401 C----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLbalMys1.scaffold_73           C 0 C 0
+s HLhipAmp3.PVJP02000055             885708 29 -   1024955 G----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLhipAmp3.PVJP02000055          C 0 C 0
+s HLhipAmp1.NKPW01006942              84481 29 -    138923 G----AGG--GCCTCGT------GGGCCTGAGGT-GGC-------G-----------------CT-----G
+i HLhipAmp1.NKPW01006942          C 0 C 0
+s HLcatWag1.PVHT021183632          11845987 29 +  13167923 C----AGG--GTCTTGT------GGGCCTGATGT-GAC-------G-----------------CT-----G
+i HLcatWag1.PVHT021183632         C 0 C 0
+s susScr11.chr7                   121682421 29 + 121844099 C----AGG--GCCTTGT------GGGCCTGATGT-GAC-------G-----------------CT-----G
+i susScr11.chr7                   C 0 C 0
+s HLcamFer3.CM020773               90241557 29 +  94313465 C----AGC--GCCTTGT------GGGCCTCATGT-GGC-------G-----------------CT-----G
+i HLcamFer3.CM020773              C 0 C 0
+s HLcamDro2.CM016632               93448706 29 +  97504898 C----AGC--GCCTTGT------GGGCCTCATGT-GGC-------G-----------------CT-----G
+i HLcamDro2.CM016632              C 0 C 0
+s HLcamBac1.KN277607               10738364 29 +  14296351 C----AGC--GCCTTGT------GGGCCTCATGT-GGC-------G-----------------CT-----G
+i HLcamBac1.KN277607              C 0 C 0
+s HLlamGla1.HiC_scaffold_8         84744209 29 -  88294224 C----AGC--GCCTTGT------GGGCCTCATGT-GGC-------G-----------------CT-----G
+i HLlamGla1.HiC_scaffold_8        C 0 C 0
+s HLlamGuaCac1.MU057073             5176477 29 -   8771564 C----AGC--GCCTTGT------GGGCCTCATGT-GGC-------G-----------------CT-----G
+i HLlamGuaCac1.MU057073           C 0 C 0
+s HLlamGlaCha1.MU048766             3192854 29 +   4396766 C----AGC--GCCTTGT------GGGCCTCATGT-GGC-------G-----------------CT-----G
+i HLlamGlaCha1.MU048766           C 0 C 0
+s HLvicPacHua3.KN268831              464603 29 +    589182 C----AGC--GCCTTGT------GGGCCTCATGT-GGC-------G-----------------CT-----G
+i HLvicPacHua3.KN268831           C 0 C 0
+s HLvicVicMen1.MU063554            11301411 29 +  11445924 C----AGC--GCCTTGT------GGGCCTCATGT-GGC-------G-----------------CT-----G
+i HLvicVicMen1.MU063554           C 0 C 0
+s vicPac2.KB632524                  5174704 29 +   6896314 C----AGC--GCCTTGT------GGGCCTCATGT-GGC-------G-----------------CT-----G
+i vicPac2.KB632524                C 0 C 0
+s HLtapTer1.PVID01012794              23550 29 -     39952 C----AAG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLtapTer1.PVID01012794          C 0 I 1
+s HLtapInd1.PVIE01010494              23558 29 +     34245 C----AAG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLtapInd1.PVIE01010494          C 0 I 1
+s HLtapInd2.HiC_scaffold_15        38618362 29 - 127426742 C----AAG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLtapInd2.HiC_scaffold_15       C 0 I 1
+s HLrhiUni1.HiC_scaffold_19        39326241 29 -  42286649 C----AGG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLrhiUni1.HiC_scaffold_19       C 0 I 1
+s HLdicSum1.PEKH010001043            759998 29 -   2880872 C----AGG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLdicSum1.PEKH010001043         C 0 I 1
+s HLdicBic1.PVJY021981212           5807741 29 -   7945529 C----AGG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLdicBic1.PVJY021981212         C 0 I 1
+s cerSim1.JH767771                 12870010 29 +  18387346 C----AGG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i cerSim1.JH767771                C 0 I 1
+s HLcerSimCot1.PVLE01073683             243 29 -     10596 C----AGG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLcerSimCot1.PVLE01073683       C 0 I 1
+s equPrz1.KK951908                   139924 29 -    333790 C----AAG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i equPrz1.KK951908                C 0 I 1
+s equCab3.chr24                    43150371 29 +  48288683 C----AAG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i equCab3.chr24                   C 0 I 1
+s HLequQuaBoe1.HiC_scaffold_20     39157260 29 +  43189114 C----AAG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLequQuaBoe1.HiC_scaffold_20    C 0 I 1
+s HLequAsi1.JREZ01000036            4512495 29 -   8320675 C----AAG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLequAsi1.JREZ01000036          C 0 I 1
+s HLequAsiAsi2.PSZQ01003339        21437770 29 +  25799906 C----AAG--GTCACAT------GGGCCCGATGT-GGT-------G-----------------CT-----G
+i HLequAsiAsi2.PSZQ01003339       C 0 I 1
+s HLspiGra1.PITA01018425              22374 25 +     40390 C----AGG--ACCACGT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLspiGra1.PITA01018425          C 0 C 0
+s HLailFul2.HiC_scaffold_15       175841321 25 + 180246513 C----AGG--TCCACGT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLailFul2.HiC_scaffold_15       C 0 C 0
+s HLtaxTax1.RCUC01158531               6713 24 -     12117 C----AGG--GCCACCT--------GCCTAA-----AT-------G-----------------CTG----G
+i HLtaxTax1.RCUC01158531          C 0 C 0
+s HLmelCap1.PISX010006819             93882 25 +     94190 C----AGG--GCCACGT------GGGTCCAA-----AT-------G-----------------CT-----G
+i HLmelCap1.PISX010006819         C 0 C 0
+s HLmarZib1.RDFD01008225            1413400 25 +   2124102 C----CGG--GCCACGT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLmarZib1.RDFD01008225          C 0 C 0
+s HLgulGul1.CYRY02044975              49756 25 -     98245 C----AGG--GCCACGT------GGGCCTGT-----AT-------G-----------------CT-----G
+i HLgulGul1.CYRY02044975          C 0 C 0
+s HLpteBra2.HiC_scaffold_15       134254394 25 - 138135531 C----AGG--GCCACGT------GGGCCTAT-----AT-------G-----------------CT-----C
+i HLpteBra2.HiC_scaffold_15       C 0 C 0
+s HLpteBra1.PJEN01000929              93063 25 +    308137 C----AGG--GCCACGT------GGGCCTAT-----AT-------G-----------------CT-----C
+i HLpteBra1.PJEN01000929          C 0 C 0
+s HLlutLut1.LR738409              143191746 25 + 149004807 C----AGG--GCCATGT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLlutLut1.LR738409              C 0 C 0
+s enhLutNer1.QQQE01000151v1         5073723 25 +   7671159 C----AGG--GCCACGT------GGGCCTAT-----AT-------G-----------------CT-----G
+i enhLutNer1.QQQE01000151v1       C 0 C 0
+s enhLutKen1.chrUn_NW_019154104v1  29900884 25 +  33646359 C----AGG--GCCACGT------GGGCCTAT-----AT-------G-----------------CT-----G
+i enhLutKen1.chrUn_NW_019154104v1 C 0 C 0
+s HLneoVis1.FNWR01000239             576329 24 +   3251689 C----AGG--GCCATGT------GGGCCTA------AT-------G-----------------CT-----G
+i HLneoVis1.FNWR01000239          C 0 C 0
+s HLmusErm1.CM020572              142955798 24 + 148087453 C----AGG--GCCACGT------GGGCCTA------AT-------G-----------------CT-----G
+i HLmusErm1.CM020572              C 0 C 0
+s HLmusPut1.CABPTA010000026        11062161 24 -  11797185 C----AGG--GCCACGT------GGGCCTA------AT-------G-----------------CT-----G
+i HLmusPut1.CABPTA010000026       C 0 C 0
+s HLmusFur2.JAADYL010000038        49109157 24 +  53771274 C----AGG--GCCACGT------GGGCCTA------AT-------G-----------------CT-----G
+i HLmusFur2.JAADYL010000038       C 0 C 0
+s HLpotFla1.HiC_scaffold_14       123288964 14 + 125392209 -----------------------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLpotFla1.HiC_scaffold_14       C 0 C 0
+s HLnasNar1.HiC_scaffold_1        122493072 25 + 125835695 C----AGG--TCCACGT------GGGCCTAC-----AT-------G-----------------CT-----G
+i HLnasNar1.HiC_scaffold_1        C 0 C 0
+s HLbasSum1.HiC_scaffold_4        125867223 25 - 129368026 C----AGG--TCCATGT------GGGCCTCT-----AT-------G-----------------CT-----G
+i HLbasSum1.HiC_scaffold_4        C 0 C 0
+s HLproLot1.HiC_scaffold_7        117937944 25 + 120488774 C----AGG--TCCCAGT------GGGCCTCT-----AT-------G-----------------CT-----G
+i HLproLot1.HiC_scaffold_7        C 0 C 0
+s HLeriBar1.HiC_scaffold_12       126506071 25 + 130090005 C----AAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLeriBar1.HiC_scaffold_12       C 0 C 0
+s lepWed1.KB718060                   124986 25 +    237132 C----AAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i lepWed1.KB718060                C 0 C 0
+s neoSch1.NW_018734275v1           30538316 25 +  34490463 C----AAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i neoSch1.NW_018734275v1          C 0 C 0
+s HLmirAng2.HiC_scaffold_13       128524996 25 + 132296729 C----AAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLmirAng2.HiC_scaffold_13       C 0 C 0
+s HLmirLeo1.JAAMPH010000006        55352721 25 -  59607343 C----AAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLmirLeo1.JAAMPH010000006       C 0 C 0
+s HLphoVit1.ML169396               67470611 25 +  71172860 C----AAG--GCCACAT------GGGCCTAT-----AT-------T-----------------CT-----G
+i HLphoVit1.ML169396              C 0 C 0
+s HLhalGry1.JAAXOB010001091          716471 25 -    736525 C----AAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLhalGry1.JAAXOB010001091       C 0 C 0
+s odoRosDiv1.KB228920               1593445 25 +   5420022 C----AAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i odoRosDiv1.KB228920             C 0 C 0
+s HLodoRos1.HiC_scaffold_5        140098291 25 - 144946493 C----AAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLodoRos1.HiC_scaffold_5        C 0 C 0
+s HLcalUrs1.KZ836243               69280121 29 -  73029993 CAAGGAAG--GCCACGT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLcalUrs1.KZ836243              C 0 C 0
+s HLarcGaz2.CAAAJK010000044       134879387 29 - 139181869 CAAGGAAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLarcGaz2.CAAAJK010000044       C 0 C 0
+s HLzalCal1.CM019808              142587118 29 - 146931682 CAAGGAAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLzalCal1.CM019808              C 0 C 0
+s HLeumJub1.ML137718               55957469 29 +  59229379 CAAGGAAG--GCCACAT------GGGCCTAT-----AT-------G-----------------CT-----G
+i HLeumJub1.ML137718              C 0 C 0
+s HLailMel2.CM022832               38040648 25 + 106650358 C----AGG--GCCACAT------GGGCCTGT-----AT-------G-----------------CT-----G
+i HLailMel2.CM022832              C 0 C 0
+s HLursThi1.WEIE01000011           41433875 25 +  45077326 C----AGG--GCCACAT------GGGCCTGT-----AT-------G-----------------CT-----G
+i HLursThi1.WEIE01000011          C 0 C 0
+s HLursAme1.LZNR01000833             120501 25 -    502526 C----AGG--GCCACAT------GGGCCTGT-----AT-------G-----------------CT-----G
+i HLursAme1.LZNR01000833          C 0 C 0
+s HLursAme2.HiC_scaffold_10        42893424 25 +  47079795 C----AGG--GCCACAT------GGGCCTGT-----AT-------G-----------------CT-----G
+i HLursAme2.HiC_scaffold_10       C 0 C 0
+s ursMar1.KK498517                 41467777 25 -  41692901 C----AGG--GCCACAT------GGGCCTGT-----AT-------G-----------------CT-----G
+i ursMar1.KK498517                C 0 C 0
+s HLursArc1.KZ986307               13976683 25 -  17667266 C----AGG--GCCACAT------GGGCCTGT-----AT-------G-----------------CT-----G
+i HLursArc1.KZ986307              C 0 C 0
+s HLaciJub2.QURD01000025           70941696 11 +  74907015 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLaciJub2.QURD01000025          C 0 C 0
+s HLpumCon1.QAVW01000421          148043774 11 + 151865409 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLpumCon1.QAVW01000421          C 0 C 0
+s HLpriBen1.BIMV01049474              95126 11 -    184552 C--------------------------CTAC-----GT-------G-----------------AC-----G
+i HLpriBen1.BIMV01049474          C 0 C 0
+s HLlynCan1.CM017334              142101534 11 + 146106016 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLlynCan1.CM017334              C 0 C 0
+s HLlynPar1.CAAGRJ010007355          113135 11 -    355173 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLlynPar1.CAAGRJ010007355       C 0 C 0
+s HLpumYag1.JACEOH010000025        72348338 11 +  76219312 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLpumYag1.JACEOH010000025       C 0 C 0
+s felCat9.chrB3                   145430423 11 + 149751809 C--------------------------CTGC-----GT-------G-----------------AT-----G
+i felCat9.chrB3                   C 0 C 0
+s HLfelNig1.PISY01138094                509 11 +      3774 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLfelNig1.PISY01138094          C 0 C 0
+s HLpanPar1.KV860310               19421628 11 +  21701857 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLpanPar1.KV860310              C 0 C 0
+s HLpanOnc1.PISV01007841              54256 11 +     95748 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLpanOnc1.PISV01007841          C 0 C 0
+s HLpanOnc2.HiC_scaffold_18       134148583 11 + 138099990 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLpanOnc2.HiC_scaffold_18       C 0 C 0
+s HLpanLeo1.CM018466              139403860 11 + 142744295 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLpanLeo1.CM018466              C 0 C 0
+s HLparHer1.PITB01025293              21762 11 +     23040 G--------------------------CCAC-----GT-------G-----------------AT-----G
+i HLparHer1.PITB01025293          C 0 C 0
+s HLhyaHya1.PEQU01000433            1465220 11 -   1650087 G--------------------------CCAC-----GT-------G-----------------GT-----G
+i HLhyaHya1.PEQU01000433          C 0 C 0
+s HLcroCro1.VOAJ01005846           12295837 11 -  14344330 G--------------------------CCAC-----GT-------G-----------------GT-----G
+i HLcroCro1.VOAJ01005846          C 0 C 0
+s HLcryFer2.HiC_scaffold_2        133902220 16 - 137528598 G--------------------------CCAC-----GT-------G-----------------CTGTGAGG
+i HLcryFer2.HiC_scaffold_2        C 0 C 0
+s HLhelPar1.PJEM01014695              16364 15 -     33823 G--------------------------CCAC-----GT-------G-----------------CTGTGA-G
+i HLhelPar1.PJEM01014695          C 0 C 0
+s HLmunMug1.PISW01014559               2524 15 -     20575 G--------------------------CCAC-----GT-------G-----------------CTGTGA-G
+i HLmunMug1.PISW01014559          C 0 C 0
+s HLsurSur1.CM016979              136445053 15 - 140082955 G--------------------------CCGT-----GT-------G-----------------ATGTGA-G
+i HLsurSur1.CM016979              C 0 C 0
+s HLsurSur2.PITD01003916             157486 15 -    174699 G--------------------------CCGT-----GT-------G-----------------ATGTGA-G
+i HLsurSur2.PITD01003916          C 0 C 0
+s HLvulVul1.NBDQ01000094            4267096 11 +   8397903 C--------------------------CCAT-----GT-------G-----------------TT-----G
+i HLvulVul1.NBDQ01000094          C 0 C 0
+s HLvulLag1.PISU010012519             39783 11 +     57808 C--------------------------CCAT-----GT-------G-----------------TA-----G
+i HLvulLag1.PISU010012519         C 0 C 0
+s HLlycPic2.SIDF01000004           22480928 11 +  25844814 C--------------------------CCAT-----GT-------G-----------------TT-----G
+i HLlycPic2.SIDF01000004          C 0 C 0
+s HLlycPic3.HiC_scaffold_32        68702860 11 -  73878326 C--------------------------CCAT-----GT-------G-----------------TT-----G
+i HLlycPic3.HiC_scaffold_32       C 0 C 0
+s canFam4.chr8                     69487229 11 +  76405709 C--------------------------CCAT-----GT-------G-----------------TT-----G
+i canFam4.chr8                    C 0 C 0
+s HLcanLupDin1.QKWQ01001014        67581119 11 -  72331038 C--------------------------CCAT-----GT-------G-----------------TT-----G
+i HLcanLupDin1.QKWQ01001014       C 0 C 0
+s canFam5.chr8                     69023207 11 +  74192687 C--------------------------CCAT-----GT-------G-----------------TT-----G
+i canFam5.chr8                    C 0 C 0
+s HLneoNeb1.HiC_scaffold_7        142450198 11 - 147111411 C--------------------------CTAC-----GT-------G-----------------AT-----G
+i HLneoNeb1.HiC_scaffold_7        C 0 C 0
+s panTig1.KE722155                 37748269 11 -  41607841 C--------------------------CTAC-----GG-------G-----------------AT-----G
+i panTig1.KE722155                C 0 C 0
+s HLmanTri1.SOZM010018079             15580  5 +     36523 C--------------------------CCA----------------------------------------G
+i HLmanTri1.SOZM010018079         C 0 C 0
+s HLphaTri2.HiC_scaffold_56        74476683  5 -  78838033 C--------------------------CCA----------------------------------------G
+i HLphaTri2.HiC_scaffold_56       C 0 C 0
+s manPen1.KN007316                   185564  5 +    207508 C--------------------------CCA----------------------------------------G
+i manPen1.KN007316                C 0 C 0
+s HLmanPen2.VBRX01002214           19606019  5 +  23743210 C--------------------------CCA----------------------------------------G
+i HLmanPen2.VBRX01002214          C 0 C 0
+s HLmanJav1.JSZB01021051              91545  5 -    353436 C--------------------------CCA----------------------------------------G
+i HLmanJav1.JSZB01021051          C 0 C 0
+s HLmanJav2.VALM01000241           15765868  5 -  23343595 C--------------------------CCA----------------------------------------G
+i HLmanJav2.VALM01000241          C 0 C 0
+s HLmacCal1.VMDR010014362             20552 29 +     23660 C----AGG--GCCATGT------GGGCTGGATGT-AGT-------G-----------------CT-----G
+i HLmacCal1.VMDR010014362         C 0 C 0
+s HLmicHir1.PVJI01024070              20441 29 -     22494 C----AGG--GCCGTGT------GGGCTGGATGT-AGT-------G-----------------CT-----G
+i HLmicHir1.PVJI01024070          C 0 C 0
+s HLdesRot2.ScWXtkA_390            70419238 29 -  73323541 C----AGG--GCCGTGT------GGGCTGGATGT-AGT-------G-----------------CT-----G
+i HLdesRot2.ScWXtkA_390           C 0 C 0
+s HLtonSau1.PVIA01005678              95738 29 +    110754 C----AGG--GCCACGT------GGGCTGGATGT-GGT-------G-----------------CT-----G
+i HLtonSau1.PVIA01005678          C 0 C 0
+s HLstuHon1.VSFL01022440           30534289 29 -  32057521 C----AGG--GCCATGT------GGGCTGGATGT-AGT-------G-----------------CT-----G
+i HLstuHon1.VSFL01022440          C 0 C 0
+s HLartJam1.PVKR01016372              18279 29 +     35977 C----AGG--GCCACGT------GGGCTGGATGT-AGT-------G-----------------CT-----G
+i HLartJam1.PVKR01016372          C 0 C 0
+s HLartJam2.VSFN01046644            9334173 29 +  10865310 C----AGG--GCCACGT------GGGCTGGATGT-AGT-------G-----------------CT-----G
+i HLartJam2.VSFN01046644          C 0 C 0
+s HLphyDis3.scaffold_m19_p_1      212303639 29 - 214927246 C----AGG--GCCACGT------GGGCTAGATGT-GGT-------G-----------------CT-----G
+i HLphyDis3.scaffold_m19_p_1      C 0 C 0
+s HLanoCau1.PVKU01011592              18940 29 -     36502 C----AGG--GCCATGC------GGGCTGGATGT-AGT-------G-----------------CT-----G
+i HLanoCau1.PVKU01011592          C 0 C 0
+s HLlepYer1.Scaffold_368            3445740 28 -   4232449 C----AGG--GCCACGT------GGGCTGGATGT-AGT-------G-----------------T------G
+i HLlepYer1.Scaffold_368          C 0 C 0
+s ptePar1.KE824199                     8304 29 +     23680 C----AGG--GCCGTGT------GGACCTGCGGT-GGG-------A-----------------CT-----G
+i ptePar1.KE824199                C 0 C 0
+s HLmorBla1.PVJD01005955              93758 29 -    105989 C----TGG--GCCACGT------GGACCTGATGC-GGC-------G-----------------CC-----A
+i HLmorBla1.PVJD01005955          I 17 C 0
+s HLmacSob1.PVKZ01004236              72214 10 -     91927 G------------------------------CCC-AGC-------G------------------T-----G
+i HLmacSob1.PVKZ01004236          C 0 C 0
+s HLeidDup1.HiC_scaffold_3678          2343 11 +      8986 C------------------------------CGT-GGC-------G-----------------CT-----G
+i HLeidDup1.HiC_scaffold_3678     C 0 C 0
+s HLeidHel2.HiC_scaffold_32221          119 28 -      6679 G------------------------------ACG-GGC-------AGGCGGGTGGTTTGGGGTCC-----G
+i HLeidHel2.HiC_scaffold_32221    C 0 C 0
+s pteAle1.KB031153                 21926434 11 +  24973953 C------------------------------CGT-GGT-------G-----------------CT-----G
+i pteAle1.KB031153                C 0 C 0
+s HLptePse1.BMBI01006824             603302 11 +    795132 C------------------------------CAT-GGT-------G-----------------CT-----G
+i HLptePse1.BMBI01006824          C 0 C 0
+s HLpteVam2.KN525895                 239638 11 -   1859071 C------------------------------CAT-GGT-------G-----------------CT-----G
+i HLpteVam2.KN525895              C 0 C 0
+s HLpteGig1.CACVBW010009407        21792829 11 +  23596086 C------------------------------CAT-GGT-------G-----------------CT-----G
+i HLpteGig1.CACVBW010009407       C 0 C 0
+s HLpteRuf1.HiC_scaffold_3        165890362 11 - 168885292 C------------------------------CAT-GGT-------G-----------------CT-----G
+i HLpteRuf1.HiC_scaffold_3        C 0 C 0
+s HLeonSpe1.PUFA01000009           21480076  8 -  22291142 C------------------------------CGT-GGT--------------------------------G
+i HLeonSpe1.PUFA01000009          C 0 C 0
+s HLrouLes1.BNJM01000105           92816852 11 +  95982283 C------------------------------CGC-GGT-------G-----------------CC-----G
+i HLrouLes1.BNJM01000105          C 0 C 0
+s HLcraTho1.PVKE010003690             23027 29 -     70186 C----AGG--GCTGAGT------GGAGCTGACGG-GAT-------G-----------------TT-----G
+i HLcraTho1.PVKE010003690         C 0 C 0
+s HLmegLyr2.PVJL010008210             59875 29 +     69095 C----AGG--GCTGCGG------GGAGCTGATGA-GGT-------G-----------------CA-----G
+i HLmegLyr2.PVJL010008210         I 17 C 0
+s HLrhiFer5.scaffold_m29_p_8       97635528 29 - 100468962 C----AGA--ACAGTGT------GGACCAGATGT-GGT-------G-----------------CT-----G
+i HLrhiFer5.scaffold_m29_p_8      C 0 C 0
+s HLrhiSin1.LVEH01000251             408933 29 -   3828993 C----AGA--ACAGTGT------GGACCGGATGT-GGT-------G-----------------CT-----G
+i HLrhiSin1.LVEH01000251          C 0 C 0
+s HLhipGal1.PVLB01023287              23294 29 +     29441 C----AGA--GCAGGGT------GGGCCGGATGT-AGT-------G-----------------CT-----G
+i HLhipGal1.PVLB01023287          C 0 C 0
+s HLhipArm1.JXIK01000044            1905813 28 -   5642379 C----AGA--GCAGGGT------GGG-CGGATGT-AGT-------G-----------------CT-----G
+i HLhipArm1.JXIK01000044          C 0 C 0
+s HLsolPar1.RJWH01002867              92909 15 +    196281 A----TGG--GGCACGG------GGCC--------------------------------------------
+i HLsolPar1.RJWH01002867          C 0 C 0
+s eriEur2.JH835375                  2634659 29 +   5100269 C----AGG--CCCACGT------GGTCCTGATGT-GGT-------GTTG----------------------
+i eriEur2.JH835375                C 0 C 0
+s sorAra2.JH798154                 37965480 29 +  40439880 C----AGG--CCCACGT------GGTCCTGATGT-GGT-------GCTG----------------------
+i sorAra2.JH798154                C 0 C 0
+s HLuroGra1.PVHY01021433              15430 22 -     24008 C----CGG--GCCACGT------GGCACT-------GC-------GTT-----------------------
+i HLuroGra1.PVHY01021433          C 0 C 0
+s HLmicTal1.PVJH01031229               5510 30 -     23901 C----AGG--GCCACAT------GGGCCCGAATTCGGT-------G-----------------CT-----G
+i HLmicTal1.PVJH01031229          C 0 C 0
+s echTel2.JH980297                  6090339 30 -  88520344 C----AGG--GCCACAT------GGGCCCGAATTCGGT-------G-----------------CT-----G
+i echTel2.JH980297                C 0 C 0
+s eleEdw1.JH947131                 34110629 30 +  47609318 C----AGG--GCCACAT------GGGCCCGGAGTCAGT-------G-----------------CT-----G
+i eleEdw1.JH947131                C 0 C 0
+s oryAfe1.JH864089                   160338 30 -   3337537 C----AGG--GCCACAT------GGGCCCGAATTCGGT-------G-----------------CT-----G
+i oryAfe1.JH864089                C 0 C 0
+s chrAsi1.JH823281                  8695810 30 +  26272902 C----AGG--GCCACAT------GGGCCCGAATTCGGT-------G-----------------CT-----G
+i chrAsi1.JH823281                C 0 C 0
+s HLhetBru1.PVJQ01003294             131149 30 +    154190 T----AGG--ACCACTG------GGTCCCCAACTGAGT-------G-----------------CT-----G
+i HLhetBru1.PVJQ01003294          C 0 C 0
+s HLproCap3.PVIO02825926            1408148 30 -   2770349 T----AGG--ACCACTG------GGTCCCCAACTGAGT-------G-----------------CT-----G
+i HLproCap3.PVIO02825926          C 0 C 0
+s HLdugDug1.BMBL01116843              49198 30 +    247966 C----AGG--GCCACAT------GGGCCCGAATTCGGT-------G-----------------CT-----G
+i HLdugDug1.BMBL01116843          C 0 C 0
+s triMan1.JH594651                  7251920 30 -  18494253 C----AGG--GCCACAT------GGGCCCGAATTCGGT-------G-----------------CT-----G
+i triMan1.JH594651                C 0 C 0
+s HLhydGig1.JACANZ010108035             568 30 +      2171 C----AGG--GCCACAT------GGGCCCGAATTCGGT-------G-----------------CT-----G
+i HLhydGig1.JACANZ010108035       C 0 C 0
+s HLeleMax1.HiC_scaffold_1          6876018 30 - 100107381 C----AGG--GCCACAT------GGGCAGGAATTCAGT-------C-----------------CT-----G
+i HLeleMax1.HiC_scaffold_1        C 0 C 0
+s HLchoHof3.HiC_scaffold_8        186105342 15 + 191177992 T----GGG--GCC---------------------CAGA-------G-----------------TT-----G
+i HLchoHof3.HiC_scaffold_8        C 0 C 0
+e HLmacFul1.HiC_scaffold_1        318361194 4151 + 639876811 I
+e macEug2.GL136397                    19021 4560 +     49363 I
+e HLpseCor1.HiC_scaffold_1        234686054 6742 - 553152306 I
+e monDom5.chr1                    430717470 62640 - 748055161 I
+e HLgraAgi1.CM028236              416777854 6948 + 725203407 I
+e HLpseOcc1.HiC_scaffold_3        321095402 25252 - 326676023 I
+e HLtriVul1.CM021907               14089104 5049 + 445409394 I
+e HLmacGig1.HiC_scaffold_1        352496116 4138 - 696083378 I
+e HLospRuf1.HiC_scaffold_1        349450907 42765 + 628932697 I
+e HLnotEug3.HiC_scaffold_1        349412954 4196 + 653122438 I
+e HLvomUrs1.UNPS02007284            7859441 3965 +  28641739 I
+e HLphaCin1.MSTS01000121            8048433 4390 -   9538988 I
+e HLantFla1.CM028218              310654255 4022 - 686337178 I
+e HLphaGym1.HiC_scaffold_4         10738141 14 + 353051754 I
+e tupBel1.scaffold_146323.1-13108     13096  0 +     13108 I
+e HLnycHum2.VMDQ010007047              9715 26 +     48001 I
+e HLpipPip1.PVIQ01003856              19277 32 -     79970 I
+e HLcarPer3.PVKM010065074              4879 11 -      7848 I
+e conCri1.JH655890                 53430851 1229 -  55520359 I
+e ochPri3.JH802079                 27100083 10 -  29527457 I
+e HLlonCan1.ML974477                3313724  0 -   6916460 C
+e cavPor3.scaffold_111               922936 2929 +   4486175 I
+e cavApe1.AVPZ01000014v1             922420 2929 +   4484023 I
+e HLdasPun1.RJWM01018013              23615  0 +     41894 C
+e HLoviCan1.CP011903               64527677 35 +  68687575 I
+e HLoreAme1.WJNR01003193            3776927 125 -  40477561 I
+e HLdamLun1.SJXP01000748             898403 2387 -   1151961 I
+e HLantMar1.SJYB01004565            1956336 6160 +   2369668 I
+e HLsylGri1.SJYH01005401             233822 3847 +    504822 I
+e HLbalPhy1.SGJD01005642             409777 873 +    490681 I
+e HLtamTet1.PVIF010003768             41782  0 -     76919 C
+e HLmyrTri1.PVIY010022663             23699  0 +     40454 C
+e HLminSch1.PVJG01018187               7864 26 +     21549 I
+e HLminNat1.LDJU01000400             123963 26 -   1324913 I
+e HLcheMed1.VBSM01001979           24087061 124 -  26864180 I
+e HLgalVar2.PVJT020000615           6123357  0 +  10137246 C
+e myoLuc2.GL430690                   142876 26 +    144293 I
+e HLmyoLuc1.HiC_scaffold_22         6073341 26 + 218816382 I
+e HLrouAeg4.scaffold_m13_p_3      171286031 36 + 173785432 I
+e HLrouMad1.HiC_scaffold_1        152990325 36 - 155042175 I
+e HLaeoCin1.JAAGEH010000195          717493 33 +   2381741 I
+e HLlasBor1.PVJN01031252              20161 33 +     25006 I
+e HLpipPip2.LR862356                4519422 32 - 203623556 I
+e HLpipKuh2.scaffold_m20_p_41       1176839 32 -   4120115 I
+e HLantPal1.VMDP01008547              20934 33 +     41650 I
+e eptFus1.JH977717                  3299574 40 -   4328132 I
+e HLmurAurFea1.PVJC01015100           20039 26 -     35619 I
+e HLmolMol2.scaffold_m16_p_1      248846626  0 + 252436072 C
+e HLnocLep1.PVIW01000544              18802  2 +    462009 I
+e myoBra1.KE164078                  2150544 26 -   4221827 I
+e HLmyoSep1.HiC_scaffold_18         6356697 26 + 221655331 I
+e myoDav1.KB109558                  2464399 26 +   3592612 I
+e HLmyoMyo6.scaffold_m19_p_1        3865119 26 - 223369599 I
+e HLtadBra1.PVIG010053298              3326  0 +      9871 C
+e HLtalOcc1.talOcc4_11              9809283  0 - 103683500 C
+e HLscaAqu1.PVIJ01015882              19833  0 +     34753 C
+e dasNov3.JH578131                   206861  0 +    212650 C
+e HLchoDid1.PVKG010140130               117  8 -      5890 I
+e HLchoDid2.NC_051310             189893892  0 - 196373313 C
+e HLloxAfr4.chr9                    7629085 860 -  94531929 I
+
+a score=0.000000
+s hg38.chr14                      100852466 4 + 107043718 GGGC
+s panPan3.chr14                    81473960 4 +  87894197 GGGC
+i panPan3.chr14                   C 0 N 0
+s panTro6.chr14                    81801620 4 +  87716528 GGGC
+i panTro6.chr14                   C 0 N 0
+s gorGor6.chr14                    81592519 4 +  87619771 GGGC
+i gorGor6.chr14                   C 0 N 0
+s ponAbe3.chr14                    82607074 4 +  88963417 GGGC
+i ponAbe3.chr14                   C 0 N 0
+s HLhylMol2.WKKJ02000016           80936487 4 -  85660803 GGGC
+i HLhylMol2.WKKJ02000016          C 0 N 0
+s HLnomLeu4.CM016966              137305250 4 - 142313534 GGGC
+i HLnomLeu4.CM016966              C 0 N 0
+s HLpapAnu5.CM018186              156066548 4 - 161768468 GGGC
+i HLpapAnu5.CM018186              C 0 N 0
+s HLtheGel1.CM009957              102361841 4 + 108639790 GGGC
+i HLtheGel1.CM009957              C 0 N 0
+s manLeu1.NW_012104253v1           11146100 4 -  14486856 GGGC
+i manLeu1.NW_012104253v1          C 0 N 0
+s HLmanSph1.SRPC01048805           14029300 4 +  19105867 GGGC
+i HLmanSph1.SRPC01048805          C 0 N 0
+s cerAty1.NW_012001960v1           19513845 4 +  24410408 GGGC
+i cerAty1.NW_012001960v1          C 0 N 0
+s macNem1.NW_012013355v1           20764301 4 -  23506373 GGGC
+i macNem1.NW_012013355v1          C 0 N 0
+s HLmacFas6.BLPH01000007          161095273 4 + 166753685 GGGC
+i HLmacFas6.BLPH01000007          C 0 N 0
+s HLmacFus1.HiC_scaffold_7        159700014 4 - 165769301 GGGC
+i HLmacFus1.HiC_scaffold_7        C 0 N 0
+s rheMac10.chr7                   163071932 4 + 169868564 GGGC
+i rheMac10.chr7                   C 0 N 0
+s HLcerMon1.JABBCR010001408        29136767 4 +  33269077 GGGC
+i HLcerMon1.JABBCR010001408       C 0 N 0
+s HLcerNeg1.PVKI010009886             15175 4 -     35127 GGGC
+i HLcerNeg1.PVKI010009886         C 0 N 0
+s HLallNig1.HiC_scaffold_24       148183715 4 - 153277761 GGGC
+i HLallNig1.HiC_scaffold_24       C 0 N 0
+s HLeryPat1.PVJV010023214             15456 4 -     36282 GGGC
+i HLeryPat1.PVJV010023214         C 0 N 0
+s chlSab2.chr24                    78814006 4 +  84932903 GGGC
+i chlSab2.chr24                   C 0 N 0
+s HLpilTep2.CM019245              157691251 4 - 163413076 GGGC
+i HLpilTep2.CM019245              C 0 N 0
+s colAng1.NW_012116488v1            7732018 4 -  12797210 GGGC
+i colAng1.NW_012116488v1          C 0 N 0
+s HLsemEnt1.PVII010020960             14707 4 -     35876 GGGC
+i HLsemEnt1.PVII010020960         C 0 N 0
+s HLtraFra1.VVIV01001009          158982606 4 - 164879359 GGGC
+i HLtraFra1.VVIV01001009          C 0 N 0
+s nasLar1.chr7                    149299601 4 + 153844193 GGGC
+i nasLar1.chr7                    C 0 N 0
+s HLpygNem1.PVHW010001731            169870 4 -    185431 GGGC
+i HLpygNem1.PVHW010001731         C 0 N 0
+s HLrhiRox2.CM017355              159442784 4 + 177574763 GGGC
+i HLrhiRox2.CM017355              C 0 N 0
+s rhiBie1.NW_016810565v1            1182637 4 -   5533159 GGGC
+i rhiBie1.NW_016810565v1          C 0 N 0
+s HLpleDon1.PVKP010003265            107210 4 +    111168 GGGC
+i HLpleDon1.PVKP010003265         C 0 N 0
+s HLpitPit1.PVIP01004276             117422 4 +    135705 GGGC
+i HLpitPit1.PVIP01004276          C 0 N 0
+s HLateGeo1.PVHS01038877               3215 4 +     13025 GGGC
+i HLateGeo1.PVHS01038877          C 0 N 0
+s HLaloPal1.PVKV010005942             91596 4 +    110013 GGGC
+i HLaloPal1.PVKV010005942         C 0 N 0
+s HLsaiBol1.HiC_scaffold_15       110152075 4 + 208287715 GGGC
+i HLsaiBol1.HiC_scaffold_15       C 0 N 0
+s saiBol1.JH378253                  2868801 4 -   4236321 GGGC
+i saiBol1.JH378253                C 0 N 0
+s HLcebAlb1.PVKJ010023280             22487 4 -     32414 GGGC
+i HLcebAlb1.PVKJ010023280         C 0 N 0
+s cebCap1.NW_016107367v1            6189372 4 -   8749341 GGGC
+i cebCap1.NW_016107367v1          C 0 N 0
+s HLsapApe1.ML771919               26991118 4 -  29592331 GGGC
+i HLsapApe1.ML771919              C 0 N 0
+s HLsagImp1.PVHO010023849             13102 4 -     32605 TGGC
+i HLsagImp1.PVHO010023849         C 0 N 0
+s HLcalPym1.HiC_scaffold_18       115269421 4 - 119699178 GGGC
+i HLcalPym1.HiC_scaffold_18       C 0 N 0
+s HLcalJac4.CM021924              131654504 4 + 136971485 GGGC
+i HLcalJac4.CM021924              C 0 N 0
+s aotNan1.NW_018503652v1            4808769 4 +   9714854 GGGC
+i aotNan1.NW_018503652v1          C 0 N 0
+s tarSyr2.KE935878v1                  27448 4 -     71613 GGGT
+i tarSyr2.KE935878v1              C 0 N 0
+s HLdauMad1.PVJZ01001256             340114 4 -    488656 GGGG
+i HLdauMad1.PVJZ01001256          C 0 N 0
+s HLindInd1.RJWJ010003283             22628 4 +     88523 GGGG
+i HLindInd1.RJWJ010003283         C 0 N 0
+s proCoq1.NW_012148130v1             203732 4 -   3825990 GGGG
+i proCoq1.NW_012148130v1          C 0 N 0
+s micMur3.chr3                     12558151 4 + 119751181 GGGG
+i micMur3.chr3                    C 0 N 0
+s HLmicSpe31.VSMF01020861             74450 4 -     84354 GGGG
+i HLmicSpe31.VSMF01020861         C 0 N 0
+s HLmicTav1.VSME01323809               4890 4 -     52475 GGGG
+i HLmicTav1.VSME01323809          C 0 N 0
+s HLmirZaz1.VSMD01001968              41197 4 +     60795 GGGG
+i HLmirZaz1.VSMD01001968          C 0 N 0
+s HLmirCoq1.PVHQ01014407              23820 4 +     45674 GGGG
+i HLmirCoq1.PVHQ01014407          C 0 N 0
+s HLlemCat1.PVHV01000019             874932 4 -   1223455 GGGG
+i HLlemCat1.PVHV01000019          C 0 N 0
+s HLproSim1.MPIZ01000032            6558421 4 -   8166253 GGGG
+i HLproSim1.MPIZ01000032          C 0 N 0
+s HLeulFul1.PVJU010000824             47827 4 -    116423 GGGG
+i HLeulFul1.PVJU010000824         C 0 N 0
+s HLeulMon1.HiC_scaffold_2        105220479 4 + 108244268 GGGG
+i HLeulMon1.HiC_scaffold_2        C 0 N 0
+s eulFla1.LGHW01000989v1             367422 4 -    606060 GCGG
+i eulFla1.LGHW01000989v1          C 0 N 0
+s HLeulFla1.HiC_scaffold_21       146206467 4 - 149948850 GCGG
+i HLeulFla1.HiC_scaffold_21       C 0 N 0
+s eulMac1.LGHX01000983v1             362986 4 -    600388 GCGG
+i eulMac1.LGHX01000983v1          C 0 N 0
+s HLnycCou1.PVIV010001820             25091 4 -     91258 GCGG
+i HLnycCou1.PVIV010001820         C 0 N 0
+s otoGar3.GL873539                 26730676 4 +  27606538 GCGG
+i otoGar3.GL873539                C 0 N 0
+s HLacoRus1.LR877212              117459306 4 + 125099172 GGGC
+i HLacoRus1.LR877212              C 0 N 0
+s HLacoCah1.PVKX01037052              11354 4 +     13810 GGGC
+i HLacoCah1.PVKX01037052          C 0 N 0
+s HLpsaObe1.NESX02000004            1348381 4 +   4555500 GGGC
+i HLpsaObe1.NESX02000004          C 0 N 0
+s HLmerUng1.NHTI01000358             916671 4 -   1007868 GGGC
+i HLmerUng1.NHTI01000358          C 0 N 0
+s HLrhoOpi1.REGO01000139            1502498 4 -   4617204 GGGC
+i HLrhoOpi1.REGO01000139          C 0 N 0
+s HLarvNil1.JAAOMG010000028        37937145 4 -  47239466 GGGC
+i HLarvNil1.JAAOMG010000028       C 0 N 0
+s HLgraSur1.SRMG01000052            5205999 4 +   8941766 GGGC
+i HLgraSur1.SRMG01000052          C 0 N 0
+s HLapoSyl1.LIPJ01000504             289068 4 +   1164858 GGGC
+i HLapoSyl1.LIPJ01000504          C 0 N 0
+s HLmasCou1.VSBT01000006          123300600 4 + 132969947 GGGC
+i HLmasCou1.VSBT01000006          C 0 N 0
+s HLmusPah1.LT608288              103568685 4 + 113323912 GGGC
+i HLmusPah1.LT608288              C 0 N 0
+s HLmusCar1.LT608234              104012948 4 + 114734182 GGGC
+i HLmusCar1.LT608234              C 0 N 0
+s HLmusSpr1.CM004106              104271734 4 + 114123490 GGGC
+i HLmusSpr1.CM004106              C 0 N 0
+s HLmusSpi1.QGOO01037276             456434 4 +   2653990 GGGC
+i HLmusSpi1.QGOO01037276          C 0 N 0
+s mm10.chr12                      109563764 4 + 120129022 GGGC
+i mm10.chr12                      C 0 N 0
+s mm39.chr12                      109530198 4 + 120092757 GGGC
+i mm39.chr12                      C 0 N 0
+s HLratRat7.CM021554              127112440 4 + 130838749 GGGC
+i HLratRat7.CM021554              C 0 N 0
+s rn6.chr6                        133683029 4 + 147991367 GGGC
+i rn6.chr6                        C 0 N 0
+s HLratNor7.CM026979              128515907 4 + 140994061 GGGC
+i HLratNor7.CM026979              C 0 N 0
+s HLcriGri3.RAZU01000178            4449230 4 +   5616169 GGGC
+i HLcriGri3.RAZU01000178          C 0 N 0
+s mesAur1.KB708140                 18010536 4 -  24332566 GGGC
+i mesAur1.KB708140                C 0 N 0
+s HLsigHis1.PVIH01014333              36142 4 +     54412 GGGC
+i HLsigHis1.PVIH01014333          C 0 N 0
+s HLneoLep1.LZPO01008023             254583 4 +    337728 GGGC
+i HLneoLep1.LZPO01008023          C 0 N 0
+s HLonyTor1.LR877201               76791986 4 +  84754330 GGGC
+i HLonyTor1.LR877201              C 0 N 0
+s HLperNas1.HiC_scaffold_17        72753683 4 -  81420696 GGGC
+i HLperNas1.HiC_scaffold_17       C 0 N 0
+s HLperCri1.HiC_scaffold_20        73975570 4 +  82692919 GGGC
+i HLperCri1.HiC_scaffold_20       C 0 N 0
+s HLperEre1.CACRXM010000014        33027608 4 +  91988365 GGGC
+i HLperEre1.CACRXM010000014       C 0 N 0
+s HLperCal2.VALE02034092           76285550 4 +  85699326 GGGC
+i HLperCal2.VALE02034092          C 0 N 0
+s HLperLeu1.NMRJ01000618             792090 4 -    904468 GGGC
+i HLperLeu1.NMRJ01000618          C 0 N 0
+s HLperManBai2.CM010892             5080560 4 +  88525187 GGGC
+i HLperManBai2.CM010892           C 0 N 0
+s HLperPol1.CM010916               87126747 4 +  92967854 GGGC
+i HLperPol1.CM010916              C 0 N 0
+s HLondZib1.PVIU01006402              37767 4 +    102335 GGGC
+i HLondZib1.PVIU01006402          C 0 N 0
+s HLmyoGla2.LR762064                5987906 4 +  10049017 GGGC
+i HLmyoGla2.LR762064              C 0 N 0
+s HLellTal1.LOJH01000017              38192 4 -    108968 GGGC
+i HLellTal1.LOJH01000017          C 0 N 0
+s HLellLut1.LOEQ01000091             380272 4 +   1513830 GGGC
+i HLellLut1.LOEQ01000091          C 0 N 0
+s HLarvAmp1.LR862386               66991438 4 - 138658583 GGGC
+i HLarvAmp1.LR862386              C 0 N 0
+s HLmicFor1.NMRL01000079            4538954 4 +   7842608 GGGC
+i HLmicFor1.NMRL01000079          C 0 N 0
+s HLmicOec1.VIIU01003326              37025 4 +    158813 GGGC
+i HLmicOec1.VIIU01003326          C 0 N 0
+s micOch1.chr1                     45035865 4 + 126672627 GGGC
+i micOch1.chr1                    C 0 N 0
+s HLmicArv1.VIIT010001201             72082 4 +    187952 GGGC
+i HLmicArv1.VIIT010001201         C 0 N 0
+s HLmicAgr2.CADCXT010004607         7636735 4 -  11971889 GGGC
+i HLmicAgr2.CADCXT010004607       C 0 N 0
+s HLcriGam1.PVKD010003492             21037 4 -    152155 GGGC
+i HLcriGam1.PVKD010003492         C 0 N 0
+s nanGal1.KL205486                  5085297 4 -   8420578 GGGC
+i nanGal1.KL205486                C 0 N 0
+s HLrhiPru1.VZQC01008633             285235 4 +    707449 GGGC
+i HLrhiPru1.VZQC01008633          C 0 N 0
+s HLzapHud1.PVHP010012880             20044 4 +     42050 GGGC
+i HLzapHud1.PVHP010012880         C 0 N 0
+s jacJac1.JH725518                  9075014 4 -  11016429 GGGC
+i jacJac1.JH725518                C 0 N 0
+s HLallBul1.PVKW010063383              3767 4 +      9022 GGGC
+i HLallBul1.PVKW010063383         C 0 N 0
+s HLcasCan3.HiC_scaffold_1        164412077 4 + 168659143 GGGC
+i HLcasCan3.HiC_scaffold_1        C 0 N 0
+s HLperLonPac1.RJWR010026879           7836 4 +     21063 GGGC
+i HLperLonPac1.RJWR010026879      C 0 N 0
+s HLdipSte1.PVHN010025582             12491 4 -     24910 GGGC
+i HLdipSte1.PVHN010025582         C 0 N 0
+s dipOrd2.NW_012267218v1           33115753 4 -  36660411 GGGC
+i dipOrd2.NW_012267218v1          C 0 N 0
+s HLpedCap1.VMDO01003117             132619 4 -    150917 GGGC
+i HLpedCap1.VMDO01003117          C 0 N 0
+s HLcteGun1.PVKB01002349             210995 4 -    292605 GGGC
+i HLcteGun1.PVKB01002349          C 0 N 0
+s HLhysCri1.PVJO010016020             23533 4 +     43318 GGGC
+i HLhysCri1.PVJO010016020         C 0 N 0
+s HLereDor1.ML655430                5421922 4 +   8972779 GGAC
+i HLereDor1.ML655430              C 0 N 0
+s HLcoePre1.HiC_scaffold_20        33635176 4 +  36616793 GGAC
+i HLcoePre1.HiC_scaffold_20       C 0 N 0
+e HLdasPun1.RJWM01018013              23615 0 +     41894 C
+s HLcavTsc1.PVKK010020110             22992 3 -     32630 -GGT
+i HLcavTsc1.PVKK010020110         C 0 N 0
+s HLhydHyd1.PVLA01005166              22794 4 +    154489 GGGG
+i HLhydHyd1.PVLA01005166          C 0 N 0
+s HLdolPat1.PVJX010020232             17705 4 +     33650 GGGC
+i HLdolPat1.PVJX010020232         C 0 N 0
+s chiLan1.JH721998                   153566 4 +   3735699 GGGC
+i chiLan1.JH721998                C 0 N 0
+s HLmyoCoy1.PVJA010012560             32578 4 -     51717 GGGC
+i HLmyoCoy1.PVJA010012560         C 0 N 0
+s HLcteSoc1.PVKA01006056              22522 4 -     86210 GGGC
+i HLcteSoc1.PVKA01006056          C 0 N 0
+s octDeg1.JH651947                   288436 4 -    405198 GGGC
+i octDeg1.JH651947                C 0 N 0
+s HLdinBra1.PVLD010003868            106460 4 -    134870 GGGC
+i HLdinBra1.PVLD010003868         C 0 N 0
+s HLthrSwi1.PVIC010017105             13539 4 +     33200 GGGC
+i HLthrSwi1.PVIC010017105         C 0 N 0
+s HLpetTyp1.PVIR01056391               1546 4 +      6723 GGGC
+i HLpetTyp1.PVIR01056391          C 0 N 0
+s hetGla2.JH602047                 38770225 4 -  42019962 GGGC
+i hetGla2.JH602047                C 0 N 0
+s HLfukDam2.JAAHWF010000021        38642318 4 +  41870746 GGGC
+i HLfukDam2.JAAHWF010000021       C 0 N 0
+s HLaplRuf1.PVKS010034280             12734 4 -     21026 GGGC
+i HLaplRuf1.PVKS010034280         C 0 N 0
+s HLsciCar1.LR738591              195838962 4 + 199827622 GGGC
+i HLsciCar1.LR738591              C 0 N 0
+s HLsciVul1.LR738612              198035401 4 - 204367342 GGGC
+i HLsciVul1.LR738612              C 0 N 0
+s HLxerIna1.PVHX01020687              22510 4 +     31507 GGGC
+i HLxerIna1.PVHX01020687          C 0 N 0
+s HLmarHim1.RAQP01001946             188541 4 +    292766 GGGC
+i HLmarHim1.RAQP01001946          C 0 N 0
+s HLmarMar1.CZRN01000002           64463132 4 +  69027483 GGGC
+i HLmarMar1.CZRN01000002          C 0 N 0
+s HLmarVan1.ML555004                1596293 4 -   2054634 GGGC
+i HLmarVan1.ML555004              C 0 N 0
+s HLmarMon1.CABDUW010001429          304584 4 -    537408 GGGC
+i HLmarMon1.CABDUW010001429       C 0 N 0
+s HLmarMon2.WJEC01008012             132778 4 -   1023355 GGGC
+i HLmarMon2.WJEC01008012          C 0 N 0
+s HLmarFla1.ML561927                2448400 4 +   6882330 GGGC
+i HLmarFla1.ML561927              C 0 N 0
+s HLspeDau1.KZ294791                 600561 4 -   1141178 GGGC
+i HLspeDau1.KZ294791              C 0 N 0
+s HLuroPar1.QVIC01000657             210127 4 -    765883 GGGC
+i HLuroPar1.QVIC01000657          C 0 N 0
+s speTri2.JH393414                  4606791 4 +   5367406 GGGC
+i speTri2.JH393414                C 0 N 0
+s HLcynGun1.WBRW01005317            1668780 4 -   1678457 GGGC
+i HLcynGun1.WBRW01005317          C 0 N 0
+s HLmusAve1.PVJB01022607              27353 4 -     34355 GGGC
+i HLmusAve1.PVJB01022607          C 0 N 0
+s HLgliGli1.PVJS01011261              26366 4 -     46165 GGGC
+i HLgliGli1.PVJS01011261          C 0 N 0
+s HLgraMur1.PVLC010107320               172 4 +      3364 GGGC
+i HLgraMur1.PVLC010107320         C 0 N 0
+s HLlepTim1.CM019675               57553612 4 - 174433500 AGGC
+i HLlepTim1.CM019675              C 0 N 0
+s HLlepAme1.PVJM010068782              4147 4 +     10626 AGGC
+i HLlepAme1.PVJM010068782         C 0 N 0
+s HLsylBac1.HiC_scaffold_6         37047660 4 +  39558118 AGGC
+i HLsylBac1.HiC_scaffold_6        C 0 N 0
+s HLoryCunCun4.CM023791            41826003 4 +  46215498 AGGC
+i HLoryCunCun4.CM023791           C 0 N 0
+s tupChi1.KB321140                  4704574 4 +   6168052 GGGC
+i tupChi1.KB321140                C 0 N 0
+s panHod1.KE116344                   892751 4 +   1962698 GGGC
+i panHod1.KE116344                C 0 N 0
+s HLoviCan2.PVIS010019196             23831 4 +     43306 GGGC
+i HLoviCan2.PVIS010019196         C 0 N 0
+s HLoviNivLyd1.CAFBRR010001950        29065 4 +    130141 GGGC
+i HLoviNivLyd1.CAFBRR010001950    C 0 N 0
+s HLoviAmm1.NIWH01025190           54103629 4 +  58171437 GGGC
+i HLoviAmm1.NIWH01025190          C 0 N 0
+s HLoviAri5.CM022036               63578861 4 +  68735357 GGGC
+i HLoviAri5.CM022036              C 0 N 0
+s HLoviOri1.CM025431               67278918 4 +  71829972 GGGC
+i HLoviOri1.CM025431              C 0 N 0
+s HLhemHyl1.PVJR01020021              23707 4 -     43140 GGGC
+i HLhemHyl1.PVJR01020021          C 0 N 0
+s HLammLer1.NIVO01034600            3520961 4 +   5351045 GGGC
+i HLammLer1.NIVO01034600          C 0 N 0
+s HLcapSib1.NIYN02025621           10822853 4 +  17491638 GGGC
+i HLcapSib1.NIYN02025621          C 0 N 0
+s HLcapIbe1.SJYO01014747           55726703 4 +  58533123 GGGC
+i HLcapIbe1.SJYO01014747          C 0 N 0
+s HLcapHir2.CM004582               65021406 4 +  69425955 GGGC
+i HLcapHir2.CM004582              C 0 N 0
+s HLcapAeg1.HG918308                3060899 4 -   5088253 GGGC
+i HLcapAeg1.HG918308              C 0 N 0
+s HLconTau2.HiC_scaffold_20        62242235 4 -  66496368 GGGC
+i HLconTau2.HiC_scaffold_20       C 0 N 0
+s HLbeaHun1.PVKQ01034107               4094 4 -     22047 GGGC
+i HLbeaHun1.PVKQ01034107          C 0 N 0
+s HLoryGaz1.RAWW01002806            1328254 4 +   2865054 GGGC
+i HLoryGaz1.RAWW01002806          C 0 N 0
+s HLoryDam1.HiC_scaffold_16        63748182 4 -  67964418 GGGC
+i HLoryDam1.HiC_scaffold_16       C 0 N 0
+s HLhipNig1.VHQK01014861            6349433 4 -   8431261 GGGC
+i HLhipNig1.VHQK01014861          C 0 N 0
+s HLhipEqu1.JAEFBM010000112         9383736 4 -  11389043 GGGC
+i HLhipEqu1.JAEFBM010000112       C 0 N 0
+s HLredRed1.SJYQ01008646              23787 4 +    254362 GGGC
+i HLredRed1.SJYQ01008646          C 0 N 0
+s HLkobEll1.SJYR01000296             570261 4 -    995896 GGGC
+i HLkobEll1.SJYR01000296          C 0 N 0
+s HLkobLecLec1.JACEGT010019977      3277653 4 -   6117633 GGGC
+i HLkobLecLec1.JACEGT010019977    C 0 N 0
+s HLmadKir1.SJYC01111176               9625 4 +     28813 GGGG
+i HLmadKir1.SJYC01111176          C 0 N 0
+s HLrapCam1.SJYW01000560             140630 4 +    789012 GGGC
+i HLrapCam1.SJYW01000560          C 0 N 0
+s HLproPrz1.SJYF01000094            6768618 4 +   9518530 GGGC
+i HLproPrz1.SJYF01000094          C 0 N 0
+s HLnanGra1.SJYD01053834             571097 3 +    736451 -GGG
+i HLnanGra1.SJYD01053834          C 0 N 0
+s HLeudTho1.SJYE01013292             134315 3 +   1001262 -GGG
+i HLeudTho1.SJYE01013292          C 0 N 0
+s HLsaiTat1.PVIK010099566              4611 3 +      7381 -GGG
+i HLsaiTat1.PVIK010099566         C 0 N 0
+s HLantMar1.SJYB01004565            1962496 4 +   2369668 GGGG
+i HLantMar1.SJYB01004565          I 6160 N 0
+s HLlitWal1.SJYG01000418            2019863 3 +   2176759 -GGG
+i HLlitWal1.SJYG01000418          C 0 N 0
+s HLneoPyg1.SJYV01054064               4826 4 -     12846 GGGC
+i HLneoPyg1.SJYV01054064          C 0 N 0
+s HLoreOre1.SJYX01005045             231039 4 +    647886 GGGC
+i HLoreOre1.SJYX01005045          C 0 N 0
+s HLphiMax1.SJYS01002514              71751 4 +    311373 GGGC
+i HLphiMax1.SJYS01002514          C 0 N 0
+s HLcepHar1.SJYT01068283             345114 4 +    634484 GGGC
+i HLcepHar1.SJYT01068283          C 0 N 0
+s HLaepMel1.SJXQ01002300             267259 4 +    659042 GGGC
+i HLaepMel1.SJXQ01002300          C 0 N 0
+s HLneoMos1.SJYA01007639               4464 4 -     26454 GGGC
+i HLneoMos1.SJYA01007639          C 0 N 0
+s HLsynCaf1.CABVSG010000223        65240421 4 -  69160875 GGGC
+i HLsynCaf1.CABVSG010000223       C 0 N 0
+s HLbubBub2.CM009859               65077653 4 -  68863396 GGGC
+i HLbubBub2.CM009859              C 0 N 0
+s bisBis1.KN265017v1                6277684 4 -   9196613 GGGC
+i bisBis1.KN265017v1              C 0 N 0
+s HLbosInd2.CM009511               67393899 4 +  71592531 GGGC
+i HLbosInd2.CM009511              C 0 N 0
+s bosTau9.chr21                    65750905 4 +  69862954 GGGC
+i bosTau9.chr21                   C 0 N 0
+s HLbosMut2.VBQZ03000038           15425492 4 -  19560981 GGGC
+i HLbosMut2.VBQZ03000038          C 0 N 0
+s HLbosGru1.CM016706               71114286 4 +  77378949 GGGC
+i HLbosGru1.CM016706              C 0 N 0
+s HLbosGau1.CM024455               40916518 4 -  67684619 GGGC
+i HLbosGau1.CM024455              C 0 N 0
+s HLbosFro1.RBVW01000235            1097707 4 +   1848730 GGGC
+i HLbosFro1.RBVW01000235          C 0 N 0
+s HLtraImb1.SJYM01012930             153015 4 -    162928 GGGC
+i HLtraImb1.SJYM01012930          C 0 N 0
+s HLtraStr1.SJYU01005092             244161 4 +    264057 GGGC
+i HLtraStr1.SJYU01005092          C 0 N 0
+s HLtraScr1.SJXY01004321             446276 4 -   1771316 GGGC
+i HLtraScr1.SJXY01004321          C 0 N 0
+s HLmosMos1.PVHU020023298          10637176 4 -  27596027 GGGC
+i HLmosMos1.PVHU020023298         C 0 N 0
+s HLmosBer1.SGQJ01002919            3527987 4 +   6870264 GGGC
+i HLmosBer1.SGQJ01002919          C 0 N 0
+s HLmosChr1.SPDY01014104              34395 4 +    234259 GGGC
+i HLmosChr1.SPDY01014104          C 0 N 0
+s HLhydIne1.SPDZ01000855           28452160 4 +  32669822 GGGC
+i HLhydIne1.SPDZ01000855          C 0 N 0
+s HLcapPyg1.SNSB01003710            6017253 4 -   8859782 GGGC
+i HLcapPyg1.SNSB01003710          C 0 N 0
+s HLalcAlc1.SSNK01125895              23510 4 +     30114 GGGC
+i HLalcAlc1.SSNK01125895          C 0 N 0
+s HLelaDav1.JRFZ01010281            6057467 4 +   7379564 GGGC
+i HLelaDav1.JRFZ01010281          C 0 N 0
+s HLranTar1.PVIN010018020             23575 4 +     43492 GGGC
+i HLranTar1.PVIN010018020         C 0 N 0
+s HLranTarGra2.JACGUM010000067      5981460 4 +   9978328 GGGC
+i HLranTarGra2.JACGUM010000067    C 0 N 0
+s HLodoHem1.RCHL01009114             871869 4 -   3277885 GGGC
+i HLodoHem1.RCHL01009114          C 0 N 0
+s HLodoVir1.KZ102737                 873348 4 -   3296679 GGGC
+i HLodoVir1.KZ102737              C 0 N 0
+s HLodoVir2.HiC_scaffold_33        58122498 4 +  62298052 GGGC
+i HLodoVir2.HiC_scaffold_33       C 0 N 0
+s HLodoVir3.JAAVWD010002496        33860108 4 -  35663065 GGGC
+i HLodoVir3.JAAVWD010002496       C 0 N 0
+s HLmunRee1.CM018492               61504115 4 -  65571547 GGGC
+i HLmunRee1.CM018492              C 0 N 0
+s HLmunMun1.CM018502              203277917 4 - 682452208 AGGC
+i HLmunMun1.CM018502              C 0 N 0
+s HLmunCri1.SJXS01012007             193373 4 -   1979782 AGGC
+i HLmunCri1.SJXS01012007          C 0 N 0
+s HLcerHanYar1.CM021204            64911781 4 +  69131755 GGGC
+i HLcerHanYar1.CM021204           C 0 N 0
+s HLaxiPor1.QQTR01078530           46214975 4 +  50514970 GGGC
+i HLaxiPor1.QQTR01078530          C 0 N 0
+s HLprzAlb1.SJXR01000674            3990807 4 +   4813752 GGGC
+i HLprzAlb1.SJXR01000674          C 0 N 0
+s HLcerEla1.CM008020               84238494 4 +  89791019 GGGC
+i HLcerEla1.CM008020              C 0 N 0
+s HLantAme1.ML661902               25494632 3 +  27338260 -AGC
+i HLantAme1.ML661902              C 0 N 0
+s HLokaJoh2.HiC_scaffold_17        58362248 4 +  62630987 GGGC
+i HLokaJoh2.HiC_scaffold_17       C 0 N 0
+s HLgirTip1.LVKQ01S005969             30018 4 -    247409 GGGC
+i HLgirTip1.LVKQ01S005969         C 0 N 0
+s HLgirCam2.HiC_scaffold_11       135362645 4 + 139680656 GGGC
+i HLgirCam2.HiC_scaffold_11       C 0 N 0
+s HLgirCam1.SJXV01004655            5160324 4 +   9480039 GGGC
+i HLgirCam1.SJXV01004655          C 0 N 0
+s HLtraJav1.PVHZ021082409            645073 4 +   2799931 GGGC
+i HLtraJav1.PVHZ021082409         C 0 N 0
+s HLtraKan1.SJXW01025393             205766 4 -    452316 GGGC
+i HLtraKan1.SJXW01025393          C 0 N 0
+s lipVex1.KE558730                  1741563 4 -   5449497 GGGC
+i lipVex1.KE558730                C 0 N 0
+s HLdelLeu2.ML702034               25184805 4 -  29396263 GGGC
+i HLdelLeu2.ML702034              C 0 N 0
+s orcOrc1.NW_004438415v1           37165001 4 +  41399143 GGGC
+i orcOrc1.NW_004438415v1          C 0 N 0
+s HLlagObl1.ML065009               24411236 4 +  28371583 GGGC
+i HLlagObl1.ML065009              C 0 N 0
+s HLgloMel1.ML658841               14181165 4 -  18102937 GGGC
+i HLgloMel1.ML658841              C 0 N 0
+s HLpepEle1.HiC_scaffold_6        161806254 4 + 165627627 GGGC
+i HLpepEle1.HiC_scaffold_6        C 0 N 0
+s HLsouChi1.RWJT01021752           46551805 4 +  50907473 GGGC
+i HLsouChi1.RWJT01021752          C 0 N 0
+s HLturAdu2.HiC_scaffold_17       173860415 4 - 177989964 GGGC
+i HLturAdu2.HiC_scaffold_17       C 0 N 0
+s HLturAdu1.NCQN01016142             286954 4 -    629012 GGGC
+i HLturAdu1.NCQN01016142          C 0 N 0
+s HLturTru4.CM022275              171955482 4 - 176472748 GGGC
+i HLturTru4.CM022275              C 0 N 0
+s turTru2.JH472808                   235668 4 +    328255 GGGC
+i turTru2.JH472808                C 0 N 0
+s HLturTru3.MRVK01001315           64716640 4 -  67133222 GGGC
+i HLturTru3.MRVK01001315          C 0 N 0
+s HLmonMon1.SIHG01006964          170135322 4 + 174100690 GGGC
+i HLmonMon1.SIHG01006964          C 0 N 0
+s HLneoAsi1.KZ686590                6908747 4 +  10857115 GGGC
+i HLneoAsi1.KZ686590              C 0 N 0
+s HLphoSin1.CM018157              174149888 4 + 178563925 GGGC
+i HLphoSin1.CM018157              C 0 N 0
+s HLphoPho2.HiC_scaffold_22       158068755 4 - 161866116 GGGC
+i HLphoPho2.HiC_scaffold_22       C 0 N 0
+s HLphoPho1.RJWQ010002211            156967 4 +    214753 GGGC
+i HLphoPho1.RJWQ010002211         C 0 N 0
+s HLponBla1.PGGH01087761               7233 4 +      7603 GGGC
+i HLponBla1.PGGH01087761          C 0 N 0
+s HLlniGeo1.RJWO010000149            232976 4 +    279675 GGGC
+i HLlniGeo1.RJWO010000149         C 0 N 0
+s HLmesBid1.PVJJ010001318            107313 4 +    124499 GGGC
+i HLmesBid1.PVJJ010001318         C 0 N 0
+s HLzipCav1.RJWS010137069              2545 4 -      4500 GGGC
+i HLzipCav1.RJWS010137069         C 0 N 0
+s HLplaMin1.RJWK010025729             10056 4 +     27495 GGGC
+i HLplaMin1.RJWK010025729         C 0 N 0
+s HLkogBre1.RJWL010022601             14867 4 -     31253 GGGC
+i HLkogBre1.RJWL010022601         C 0 N 0
+s phyCat1.KI403444                   313901 4 +    395051 GGGC
+i phyCat1.KI403444                C 0 N 0
+s HLphyCat2.CM014795              178500347 4 + 182843547 GGGC
+i HLphyCat2.CM014795              C 0 N 0
+s balAcu1.KI537651                  6219053 4 -  20250593 GGGC
+i balAcu1.KI537651                C 0 N 0
+s HLbalBon1.DF459135                  25617 4 +     41945 GGGC
+i HLbalBon1.DF459135              C 0 N 0
+s HLmegNov1.RYZJ01000028            5644415 4 -   9556408 GGGC
+i HLmegNov1.RYZJ01000028          C 0 N 0
+s HLbalMus1.VNFC01000011          171867634 4 + 176072231 GGGC
+i HLbalMus1.VNFC01000011          C 0 N 0
+s HLbalEde1.HiC_scaffold_20       159177938 4 - 162936684 GGGC
+i HLbalEde1.HiC_scaffold_20       C 0 N 0
+s HLescRob1.RJWN010017694             23412 4 -     40556 GGGC
+i HLescRob1.RJWN010017694         C 0 N 0
+s HLeubGla1.HiC_scaffold_13       157804473 4 + 161762203 GGGC
+i HLeubGla1.HiC_scaffold_13       C 0 N 0
+s HLeubJap1.RJWP010051372               128 4 +     10560 GGGC
+i HLeubJap1.RJWP010051372         C 0 N 0
+s HLbalMys1.scaffold_73             1981195 4 -   2369401 GGGC
+i HLbalMys1.scaffold_73           C 0 N 0
+s HLhipAmp3.PVJP02000055             885737 4 -   1024955 GGGC
+i HLhipAmp3.PVJP02000055          C 0 N 0
+s HLhipAmp1.NKPW01006942              84510 4 -    138923 GGGC
+i HLhipAmp1.NKPW01006942          C 0 N 0
+s HLcatWag1.PVHT021183632          11846016 4 +  13167923 GGGC
+i HLcatWag1.PVHT021183632         C 0 N 0
+s susScr11.chr7                   121682450 4 + 121844099 GGGC
+i susScr11.chr7                   C 0 N 0
+s HLcamFer3.CM020773               90241586 4 +  94313465 GGGC
+i HLcamFer3.CM020773              C 0 N 0
+s HLcamDro2.CM016632               93448735 4 +  97504898 GGGC
+i HLcamDro2.CM016632              C 0 N 0
+s HLcamBac1.KN277607               10738393 4 +  14296351 GGGC
+i HLcamBac1.KN277607              C 0 N 0
+s HLlamGla1.HiC_scaffold_8         84744238 4 -  88294224 GGGC
+i HLlamGla1.HiC_scaffold_8        C 0 N 0
+s HLlamGuaCac1.MU057073             5176506 4 -   8771564 GGGC
+i HLlamGuaCac1.MU057073           C 0 N 0
+s HLlamGlaCha1.MU048766             3192883 4 +   4396766 GGGC
+i HLlamGlaCha1.MU048766           C 0 N 0
+s HLvicPacHua3.KN268831              464632 4 +    589182 GGGC
+i HLvicPacHua3.KN268831           C 0 N 0
+s HLvicVicMen1.MU063554            11301440 4 +  11445924 GGGC
+i HLvicVicMen1.MU063554           C 0 N 0
+s vicPac2.KB632524                  5174733 4 +   6896314 GGGC
+i vicPac2.KB632524                C 0 N 0
+s HLtapTer1.PVID01012794              23580 4 -     39952 GGGC
+i HLtapTer1.PVID01012794          I 1 N 0
+s HLtapInd1.PVIE01010494              23588 4 +     34245 GGGC
+i HLtapInd1.PVIE01010494          I 1 N 0
+s HLtapInd2.HiC_scaffold_15        38618392 4 - 127426742 GGGC
+i HLtapInd2.HiC_scaffold_15       I 1 N 0
+s HLrhiUni1.HiC_scaffold_19        39326271 4 -  42286649 GGGC
+i HLrhiUni1.HiC_scaffold_19       I 1 N 0
+s HLdicSum1.PEKH010001043            760028 4 -   2880872 GGGC
+i HLdicSum1.PEKH010001043         I 1 N 0
+s HLdicBic1.PVJY021981212           5807771 4 -   7945529 GGGC
+i HLdicBic1.PVJY021981212         I 1 N 0
+s cerSim1.JH767771                 12870040 4 +  18387346 GGGC
+i cerSim1.JH767771                I 1 N 0
+s HLcerSimCot1.PVLE01073683             273 4 -     10596 GGGC
+i HLcerSimCot1.PVLE01073683       I 1 N 0
+s equPrz1.KK951908                   139954 4 -    333790 GGGC
+i equPrz1.KK951908                I 1 N 0
+s equCab3.chr24                    43150401 4 +  48288683 GGGC
+i equCab3.chr24                   I 1 N 0
+s HLequQuaBoe1.HiC_scaffold_20     39157290 4 +  43189114 GGGC
+i HLequQuaBoe1.HiC_scaffold_20    I 1 N 0
+s HLequAsi1.JREZ01000036            4512525 4 -   8320675 GGGC
+i HLequAsi1.JREZ01000036          I 1 N 0
+s HLequAsiAsi2.PSZQ01003339        21437800 4 +  25799906 GGGC
+i HLequAsiAsi2.PSZQ01003339       I 1 N 0
+s HLspiGra1.PITA01018425              22399 4 +     40390 GGGC
+i HLspiGra1.PITA01018425          C 0 N 0
+s HLailFul2.HiC_scaffold_15       175841346 4 + 180246513 GGGC
+i HLailFul2.HiC_scaffold_15       C 0 N 0
+s HLtaxTax1.RCUC01158531               6737 4 -     12117 GGGC
+i HLtaxTax1.RCUC01158531          C 0 N 0
+s HLmelCap1.PISX010006819             93907 4 +     94190 GGGC
+i HLmelCap1.PISX010006819         C 0 N 0
+s HLmarZib1.RDFD01008225            1413425 4 +   2124102 GGGC
+i HLmarZib1.RDFD01008225          C 0 N 0
+s HLgulGul1.CYRY02044975              49781 4 -     98245 GGGC
+i HLgulGul1.CYRY02044975          C 0 N 0
+s HLpteBra2.HiC_scaffold_15       134254419 4 - 138135531 GGGC
+i HLpteBra2.HiC_scaffold_15       C 0 N 0
+s HLpteBra1.PJEN01000929              93088 4 +    308137 GGGC
+i HLpteBra1.PJEN01000929          C 0 N 0
+e HLlonCan1.ML974477                3313724 0 -   6916460 C
+s HLlutLut1.LR738409              143191771 4 + 149004807 GGGC
+i HLlutLut1.LR738409              C 0 N 0
+s enhLutNer1.QQQE01000151v1         5073748 4 +   7671159 GGGC
+i enhLutNer1.QQQE01000151v1       C 0 N 0
+s enhLutKen1.chrUn_NW_019154104v1  29900909 4 +  33646359 GGGC
+i enhLutKen1.chrUn_NW_019154104v1 C 0 N 0
+s HLneoVis1.FNWR01000239             576353 4 +   3251689 GGGC
+i HLneoVis1.FNWR01000239          C 0 N 0
+s HLmusErm1.CM020572              142955822 4 + 148087453 GGGC
+i HLmusErm1.CM020572              C 0 N 0
+s HLmusPut1.CABPTA010000026        11062185 4 -  11797185 GGGC
+i HLmusPut1.CABPTA010000026       C 0 N 0
+s HLmusFur2.JAADYL010000038        49109181 4 +  53771274 GGGC
+i HLmusFur2.JAADYL010000038       C 0 N 0
+s HLpotFla1.HiC_scaffold_14       123288978 4 + 125392209 GGGC
+i HLpotFla1.HiC_scaffold_14       C 0 N 0
+s HLnasNar1.HiC_scaffold_1        122493097 3 + 125835695 GGG-
+i HLnasNar1.HiC_scaffold_1        C 0 N 0
+s HLbasSum1.HiC_scaffold_4        125867248 4 - 129368026 GGGC
+i HLbasSum1.HiC_scaffold_4        C 0 N 0
+s HLproLot1.HiC_scaffold_7        117937969 4 + 120488774 GGCC
+i HLproLot1.HiC_scaffold_7        C 0 N 0
+s HLeriBar1.HiC_scaffold_12       126506096 4 + 130090005 GGGC
+i HLeriBar1.HiC_scaffold_12       C 0 N 0
+s lepWed1.KB718060                   125011 4 +    237132 GGGC
+i lepWed1.KB718060                C 0 N 0
+s neoSch1.NW_018734275v1           30538341 4 +  34490463 GGGC
+i neoSch1.NW_018734275v1          C 0 N 0
+s HLmirAng2.HiC_scaffold_13       128525021 4 + 132296729 GGGC
+i HLmirAng2.HiC_scaffold_13       C 0 N 0
+s HLmirLeo1.JAAMPH010000006        55352746 4 -  59607343 GGGC
+i HLmirLeo1.JAAMPH010000006       C 0 N 0
+s HLphoVit1.ML169396               67470636 4 +  71172860 GGGC
+i HLphoVit1.ML169396              C 0 N 0
+s HLhalGry1.JAAXOB010001091          716496 4 -    736525 GGGC
+i HLhalGry1.JAAXOB010001091       C 0 N 0
+s odoRosDiv1.KB228920               1593470 4 +   5420022 GGGC
+i odoRosDiv1.KB228920             C 0 N 0
+s HLodoRos1.HiC_scaffold_5        140098316 4 - 144946493 GGGC
+i HLodoRos1.HiC_scaffold_5        C 0 N 0
+s HLcalUrs1.KZ836243               69280150 4 -  73029993 GGGC
+i HLcalUrs1.KZ836243              C 0 N 0
+s HLarcGaz2.CAAAJK010000044       134879416 4 - 139181869 GGGC
+i HLarcGaz2.CAAAJK010000044       C 0 N 0
+s HLzalCal1.CM019808              142587147 4 - 146931682 GGGC
+i HLzalCal1.CM019808              C 0 N 0
+s HLeumJub1.ML137718               55957498 4 +  59229379 GGGC
+i HLeumJub1.ML137718              C 0 N 0
+s HLailMel2.CM022832               38040673 4 + 106650358 GGGC
+i HLailMel2.CM022832              C 0 N 0
+s HLursThi1.WEIE01000011           41433900 4 +  45077326 GGGC
+i HLursThi1.WEIE01000011          C 0 N 0
+s HLursAme1.LZNR01000833             120526 4 -    502526 GGGC
+i HLursAme1.LZNR01000833          C 0 N 0
+s HLursAme2.HiC_scaffold_10        42893449 4 +  47079795 GGGC
+i HLursAme2.HiC_scaffold_10       C 0 N 0
+s ursMar1.KK498517                 41467802 4 -  41692901 GGGC
+i ursMar1.KK498517                C 0 N 0
+s HLursArc1.KZ986307               13976708 4 -  17667266 GGGC
+i HLursArc1.KZ986307              C 0 N 0
+s HLaciJub2.QURD01000025           70941707 4 +  74907015 GGGC
+i HLaciJub2.QURD01000025          C 0 N 0
+s HLpumCon1.QAVW01000421          148043785 4 + 151865409 GGGC
+i HLpumCon1.QAVW01000421          C 0 N 0
+s HLpriBen1.BIMV01049474              95137 4 -    184552 GGGC
+i HLpriBen1.BIMV01049474          C 0 N 0
+s HLlynCan1.CM017334              142101545 4 + 146106016 GGGC
+i HLlynCan1.CM017334              C 0 N 0
+s HLlynPar1.CAAGRJ010007355          113146 4 -    355173 GGGC
+i HLlynPar1.CAAGRJ010007355       C 0 N 0
+s HLpumYag1.JACEOH010000025        72348349 4 +  76219312 GGGC
+i HLpumYag1.JACEOH010000025       C 0 N 0
+s felCat9.chrB3                   145430434 4 + 149751809 GGGC
+i felCat9.chrB3                   C 0 N 0
+s HLfelNig1.PISY01138094                520 4 +      3774 GGGC
+i HLfelNig1.PISY01138094          C 0 N 0
+s HLpanPar1.KV860310               19421639 4 +  21701857 GGGC
+i HLpanPar1.KV860310              C 0 N 0
+s HLpanOnc1.PISV01007841              54267 4 +     95748 GGGC
+i HLpanOnc1.PISV01007841          C 0 N 0
+s HLpanOnc2.HiC_scaffold_18       134148594 4 + 138099990 GGGC
+i HLpanOnc2.HiC_scaffold_18       C 0 N 0
+s HLpanLeo1.CM018466              139403871 4 + 142744295 GGGC
+i HLpanLeo1.CM018466              C 0 N 0
+s HLparHer1.PITB01025293              21773 4 +     23040 GGGC
+i HLparHer1.PITB01025293          C 0 N 0
+s HLhyaHya1.PEQU01000433            1465231 4 -   1650087 GGGC
+i HLhyaHya1.PEQU01000433          C 0 N 0
+s HLcroCro1.VOAJ01005846           12295848 4 -  14344330 GGGC
+i HLcroCro1.VOAJ01005846          C 0 N 0
+s HLcryFer2.HiC_scaffold_2        133902236 4 - 137528598 GGGC
+i HLcryFer2.HiC_scaffold_2        C 0 N 0
+s HLhelPar1.PJEM01014695              16379 4 -     33823 GGGC
+i HLhelPar1.PJEM01014695          C 0 N 0
+s HLmunMug1.PISW01014559               2539 4 -     20575 GGGC
+i HLmunMug1.PISW01014559          C 0 N 0
+s HLsurSur1.CM016979              136445068 4 - 140082955 GGGC
+i HLsurSur1.CM016979              C 0 N 0
+s HLsurSur2.PITD01003916             157501 4 -    174699 GGGC
+i HLsurSur2.PITD01003916          C 0 N 0
+s HLvulVul1.NBDQ01000094            4267107 4 +   8397903 GGAC
+i HLvulVul1.NBDQ01000094          C 0 N 0
+s HLvulLag1.PISU010012519             39794 4 +     57808 GGAC
+i HLvulLag1.PISU010012519         C 0 N 0
+s HLlycPic2.SIDF01000004           22480939 4 +  25844814 GGAC
+i HLlycPic2.SIDF01000004          C 0 N 0
+s HLlycPic3.HiC_scaffold_32        68702871 4 -  73878326 GGAC
+i HLlycPic3.HiC_scaffold_32       C 0 N 0
+s canFam4.chr8                     69487240 4 +  76405709 GGAC
+i canFam4.chr8                    C 0 N 0
+s HLcanLupDin1.QKWQ01001014        67581130 4 -  72331038 GGAC
+i HLcanLupDin1.QKWQ01001014       C 0 N 0
+s canFam5.chr8                     69023218 4 +  74192687 GGAC
+i canFam5.chr8                    C 0 N 0
+s HLneoNeb1.HiC_scaffold_7        142450209 4 - 147111411 GGGC
+i HLneoNeb1.HiC_scaffold_7        C 0 N 0
+s panTig1.KE722155                 37748280 4 -  41607841 GGGC
+i panTig1.KE722155                C 0 N 0
+e HLmanTri1.SOZM010018079             15585 0 +     36523 C
+e HLphaTri2.HiC_scaffold_56        74476688 0 -  78838033 C
+e manPen1.KN007316                   185569 0 +    207508 C
+e HLmanPen2.VBRX01002214           19606024 0 +  23743210 C
+e HLmanJav1.JSZB01021051              91550 0 -    353436 C
+e HLmanJav2.VALM01000241           15765873 0 -  23343595 C
+s HLmacCal1.VMDR010014362             20581 4 +     23660 AGGC
+i HLmacCal1.VMDR010014362         C 0 N 0
+s HLmicHir1.PVJI01024070              20470 4 -     22494 GGGC
+i HLmicHir1.PVJI01024070          C 0 N 0
+s HLdesRot2.ScWXtkA_390            70419267 4 -  73323541 GGGC
+i HLdesRot2.ScWXtkA_390           C 0 N 0
+s HLtonSau1.PVIA01005678              95767 4 +    110754 GGGC
+i HLtonSau1.PVIA01005678          C 0 N 0
+s HLstuHon1.VSFL01022440           30534318 4 -  32057521 GGGC
+i HLstuHon1.VSFL01022440          C 0 N 0
+s HLartJam1.PVKR01016372              18308 4 +     35977 GGGC
+i HLartJam1.PVKR01016372          C 0 N 0
+s HLartJam2.VSFN01046644            9334202 4 +  10865310 GGGC
+i HLartJam2.VSFN01046644          C 0 N 0
+s HLphyDis3.scaffold_m19_p_1      212303668 4 - 214927246 GGCC
+i HLphyDis3.scaffold_m19_p_1      C 0 N 0
+s HLanoCau1.PVKU01011592              18969 4 -     36502 GGGC
+i HLanoCau1.PVKU01011592          C 0 N 0
+s HLlepYer1.Scaffold_368            3445768 4 -   4232449 GGCC
+i HLlepYer1.Scaffold_368          C 0 N 0
+s ptePar1.KE824199                     8333 4 +     23680 GGGC
+i ptePar1.KE824199                C 0 N 0
+s HLmorBla1.PVJD01005955              93787 4 -    105989 TGGC
+i HLmorBla1.PVJD01005955          C 0 N 0
+s HLmacSob1.PVKZ01004236              72224 4 -     91927 GGAC
+i HLmacSob1.PVKZ01004236          C 0 N 0
+s HLeidDup1.HiC_scaffold_3678          2354 4 +      8986 AGGC
+i HLeidDup1.HiC_scaffold_3678     C 0 N 0
+s HLeidHel2.HiC_scaffold_32221          147 4 -      6679 AGGA
+i HLeidHel2.HiC_scaffold_32221    C 0 N 0
+s pteAle1.KB031153                 21926445 4 +  24973953 GGGC
+i pteAle1.KB031153                C 0 N 0
+s HLptePse1.BMBI01006824             603313 4 +    795132 GGGC
+i HLptePse1.BMBI01006824          C 0 N 0
+s HLpteVam2.KN525895                 239649 4 -   1859071 GGGC
+i HLpteVam2.KN525895              C 0 N 0
+s HLpteGig1.CACVBW010009407        21792840 4 +  23596086 GGGC
+i HLpteGig1.CACVBW010009407       C 0 N 0
+s HLpteRuf1.HiC_scaffold_3        165890373 4 - 168885292 GGGC
+i HLpteRuf1.HiC_scaffold_3        C 0 N 0
+s HLeonSpe1.PUFA01000009           21480084 4 -  22291142 GGGC
+i HLeonSpe1.PUFA01000009          C 0 N 0
+s HLrouLes1.BNJM01000105           92816863 4 +  95982283 GGGC
+i HLrouLes1.BNJM01000105          C 0 N 0
+s HLcraTho1.PVKE010003690             23056 4 -     70186 GGGC
+i HLcraTho1.PVKE010003690         C 0 N 0
+s HLmegLyr2.PVJL010008210             59904 4 +     69095 GGGC
+i HLmegLyr2.PVJL010008210         C 0 N 0
+s HLrhiFer5.scaffold_m29_p_8       97635557 4 - 100468962 GGGC
+i HLrhiFer5.scaffold_m29_p_8      C 0 N 0
+s HLrhiSin1.LVEH01000251             408962 4 -   3828993 GGGC
+i HLrhiSin1.LVEH01000251          C 0 N 0
+s HLhipGal1.PVLB01023287              23323 4 +     29441 GGGT
+i HLhipGal1.PVLB01023287          C 0 N 0
+s HLhipArm1.JXIK01000044            1905841 4 -   5642379 GGGT
+i HLhipArm1.JXIK01000044          C 0 N 0
+e HLsolPar1.RJWH01002867              92924 0 +    196281 C
+s eriEur2.JH835375                  2634688 4 +   5100269 GGGC
+i eriEur2.JH835375                C 0 N 0
+s sorAra2.JH798154                 37965509 4 +  40439880 GGGC
+i sorAra2.JH798154                C 0 N 0
+e HLuroGra1.PVHY01021433              15452 0 -     24008 C
+e HLscaAqu1.PVIJ01015882              19833 0 +     34753 C
+e HLtalOcc1.talOcc4_11              9809283 0 - 103683500 C
+s HLmicTal1.PVJH01031229               5540 4 -     23901 GGGC
+i HLmicTal1.PVJH01031229          C 0 N 0
+s echTel2.JH980297                  6090369 4 -  88520344 GGGC
+i echTel2.JH980297                C 0 N 0
+s eleEdw1.JH947131                 34110659 4 +  47609318 GAGC
+i eleEdw1.JH947131                C 0 N 0
+s oryAfe1.JH864089                   160368 4 -   3337537 GGGC
+i oryAfe1.JH864089                C 0 N 0
+s chrAsi1.JH823281                  8695840 4 +  26272902 GGGC
+i chrAsi1.JH823281                C 0 N 0
+s HLhetBru1.PVJQ01003294             131179 4 +    154190 GGGC
+i HLhetBru1.PVJQ01003294          C 0 N 0
+s HLproCap3.PVIO02825926            1408178 4 -   2770349 GGGC
+i HLproCap3.PVIO02825926          C 0 N 0
+s HLdugDug1.BMBL01116843              49228 4 +    247966 GGGC
+i HLdugDug1.BMBL01116843          C 0 N 0
+s triMan1.JH594651                  7251950 4 -  18494253 GGGC
+i triMan1.JH594651                C 0 N 0
+s HLhydGig1.JACANZ010108035             598 4 +      2171 GGGC
+i HLhydGig1.JACANZ010108035       C 0 N 0
+s HLeleMax1.HiC_scaffold_1          6876048 4 - 100107381 GGGC
+i HLeleMax1.HiC_scaffold_1        C 0 N 0
+e dasNov3.JH578131                   206861 0 +    212650 C
+e HLtamTet1.PVIF010003768             41782 0 -     76919 C
+e HLmyrTri1.PVIY010022663             23699 0 +     40454 C
+s HLchoHof3.HiC_scaffold_8        186105357 4 + 191177992 GGGT
+i HLchoHof3.HiC_scaffold_8        C 0 N 0
+e HLchoDid2.NC_051310             189893892 0 - 196373313 C
+e HLmacFul1.HiC_scaffold_1        318361194 4151 + 639876811 I
+e macEug2.GL136397                    19021 4560 +     49363 I
+e HLpseCor1.HiC_scaffold_1        234686054 6742 - 553152306 I
+e monDom5.chr1                    430717470 62640 - 748055161 I
+e HLgraAgi1.CM028236              416777854 6948 + 725203407 I
+e HLpseOcc1.HiC_scaffold_3        321095402 25252 - 326676023 I
+e HLtriVul1.CM021907               14089104 5049 + 445409394 I
+e HLmacGig1.HiC_scaffold_1        352496116 4138 - 696083378 I
+e HLospRuf1.HiC_scaffold_1        349450907 42765 + 628932697 I
+e HLnotEug3.HiC_scaffold_1        349412954 4196 + 653122438 I
+e HLvomUrs1.UNPS02007284            7859441 3965 +  28641739 I
+e HLphaCin1.MSTS01000121            8048433 4390 -   9538988 I
+e HLantFla1.CM028218              310654255 4022 - 686337178 I
+e HLphaGym1.HiC_scaffold_4         10738141 14 + 353051754 I
+e tupBel1.scaffold_146323.1-13108     13096 0 +     13108 I
+e HLnycHum2.VMDQ010007047              9715 26 +     48001 I
+e HLpipPip1.PVIQ01003856              19277 32 -     79970 I
+e HLcarPer3.PVKM010065074              4879 11 -      7848 I
+e conCri1.JH655890                 53430851 1229 -  55520359 I
+e ochPri3.JH802079                 27100083 10 -  29527457 I
+e cavPor3.scaffold_111               922936 2929 +   4486175 I
+e cavApe1.AVPZ01000014v1             922420 2929 +   4484023 I
+e HLoviCan1.CP011903               64527677 35 +  68687575 I
+e HLoreAme1.WJNR01003193            3776927 125 -  40477561 I
+e HLdamLun1.SJXP01000748             898403 2387 -   1151961 I
+e HLsylGri1.SJYH01005401             233822 3847 +    504822 I
+e HLbalPhy1.SGJD01005642             409777 873 +    490681 I
+e HLminSch1.PVJG01018187               7864 26 +     21549 I
+e HLminNat1.LDJU01000400             123963 26 -   1324913 I
+e HLcheMed1.VBSM01001979           24087061 124 -  26864180 I
+e HLgalVar2.PVJT020000615           6123357 0 +  10137246 C
+e myoLuc2.GL430690                   142876 26 +    144293 I
+e HLmyoLuc1.HiC_scaffold_22         6073341 26 + 218816382 I
+e HLrouAeg4.scaffold_m13_p_3      171286031 36 + 173785432 I
+e HLrouMad1.HiC_scaffold_1        152990325 36 - 155042175 I
+e HLaeoCin1.JAAGEH010000195          717493 33 +   2381741 I
+e HLlasBor1.PVJN01031252              20161 33 +     25006 I
+e HLpipPip2.LR862356                4519422 32 - 203623556 I
+e HLpipKuh2.scaffold_m20_p_41       1176839 32 -   4120115 I
+e HLantPal1.VMDP01008547              20934 33 +     41650 I
+e eptFus1.JH977717                  3299574 40 -   4328132 I
+e HLmurAurFea1.PVJC01015100           20039 26 -     35619 I
+e HLmolMol2.scaffold_m16_p_1      248846626 0 + 252436072 C
+e HLnocLep1.PVIW01000544              18802 2 +    462009 I
+e myoBra1.KE164078                  2150544 26 -   4221827 I
+e HLmyoSep1.HiC_scaffold_18         6356697 26 + 221655331 I
+e myoDav1.KB109558                  2464399 26 +   3592612 I
+e HLmyoMyo6.scaffold_m19_p_1        3865119 26 - 223369599 I
+e HLtadBra1.PVIG010053298              3326 0 +      9871 C
+e HLchoDid1.PVKG010140130               117 8 -      5890 I
+e HLloxAfr4.chr9                    7629085 860 -  94531929 I
+

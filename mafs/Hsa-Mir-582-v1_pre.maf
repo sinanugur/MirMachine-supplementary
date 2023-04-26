@@ -1,0 +1,1776 @@
+##maf version=1 scoring=mafExtract
+a score=0.000000
+s hg38.chr5                           59703628 25 + 181538259 gggttcagttgttcaaccagttaca
+s panPan3.chr5                       122193416 25 - 176502593 GGGTTCAGTTGTTCAACCAGTTACA
+i panPan3.chr5                       N 0 C 0
+s panTro6.chr5_NW_019932885v1_random   2879281 25 -   5402389 GGGTTCAGTTGTTCAACCAGTTACA
+i panTro6.chr5_NW_019932885v1_random N 0 C 0
+s gorGor6.chr17                       39919432 25 +  90905695 GGGTTCAGTTGTTCAACCAGTTACA
+i gorGor6.chr17                      N 0 C 0
+s ponAbe3.chr5                        57522234 25 + 179185813 GGGTTCAGTTGTTCAACCAGTTACA
+i ponAbe3.chr5                       N 0 C 0
+s HLhylMol2.WKKJ02000023               9196739 25 +  42084912 gggttcagttgttcaaccagttaca
+i HLhylMol2.WKKJ02000023             N 0 C 0
+s HLnomLeu4.CM016962                  69856407 25 + 103066776 gggttcagttgttcaaccagttaca
+i HLnomLeu4.CM016962                 N 0 C 0
+s HLpapAnu5.CM018184                  54331940 25 + 173900761 GGGTTCAGTTGTTCAACCAGTTACA
+i HLpapAnu5.CM018184                 N 0 C 0
+s HLtheGel1.CM009955                  56612356 25 + 177691375 gggttcagttgttcaaccagttaCA
+i HLtheGel1.CM009955                 N 0 C 0
+s cerAty1.NW_012003525v1               1132440 25 +   2140168 gggttcagttgttcaaccagttaCA
+i cerAty1.NW_012003525v1             N 0 C 0
+s HLmanSph1.SRPC01031000                544353 25 +   1148838 GGGTTCAGTTGTTCAACCAGTTACA
+i HLmanSph1.SRPC01031000             N 0 C 0
+s manLeu1.NW_012099766v1                885398 25 +   1613015 gggttcagttgttcaaccagttaCA
+i manLeu1.NW_012099766v1             N 0 C 0
+s macNem1.NW_012012244v1              10507474 25 +  17223502 gggttcagttgttcaaccagttaCA
+i macNem1.NW_012012244v1             N 0 C 0
+s HLmacFas6.BLPH01000006              56639594 25 + 176725130 GGGTTCAGTTGTTCAACCAGTTACA
+i HLmacFas6.BLPH01000006             N 0 C 0
+s HLmacFus1.HiC_scaffold_5            56209386 25 + 176711529 GGGTTCAGTTGTTCAACCAGTTACA
+i HLmacFus1.HiC_scaffold_5           N 0 C 0
+s rheMac10.chr6                       58047908 25 + 179085566 GGGTTCAGTTGTTCAACCAGTTACA
+i rheMac10.chr6                      N 0 C 0
+s HLcerNeg1.PVKI010009047                 3011 25 -     36521 gggttcagttgttcaaccagttaca
+i HLcerNeg1.PVKI010009047            N 0 C 0
+s HLallNig1.HiC_scaffold_17           50416060 25 + 161743863 GGGTTCAGTTGTTCAACCAGTTACA
+i HLallNig1.HiC_scaffold_17          N 0 C 0
+s HLeryPat1.PVJV010000007               193596 25 +    370159 gggttcagttgttcaaccagttaCA
+i HLeryPat1.PVJV010000007            N 0 C 0
+s chlSab2.chr4                        55879738 25 +  91010382 gggttcagttgttcaaccagttaca
+i chlSab2.chr4                       N 0 C 0
+s HLpilTep2.CM019243                 119245521 25 - 178867606 GGGTTCAGTTGTTCAACCAGTTACA
+i HLpilTep2.CM019243                 N 0 C 0
+s colAng1.NW_012115289v1               4272197 25 -   5440318 gggttcagttgttcaaccagttaCA
+i colAng1.NW_012115289v1             N 0 C 0
+s HLsemEnt1.PVII010016844                11091 25 -     41091 gggttcagttgttcaaccagttaca
+i HLsemEnt1.PVII010016844            N 0 C 0
+s HLtraFra1.VVIV01001006              91061017 25 + 178942783 gggttcagttgttcaaccagttaCA
+i HLtraFra1.VVIV01001006             N 0 C 0
+s nasLar1.chr6                        55252529 25 + 170588018 gggttcagttgttcaaccagttaCA
+i nasLar1.chr6                       N 0 C 0
+s HLpygNem1.PVHW010039685                12657 25 -     15623 gggttcagttgttcaaccagttaCA
+i HLpygNem1.PVHW010039685            N 0 C 0
+s HLrhiRox2.CM017353                 180248709 25 - 185537619 gggttcagttgttcaaccagttaCA
+i HLrhiRox2.CM017353                 N 0 C 0
+s rhiBie1.NW_016805931v1               5106436 25 +   6067031 gggttcagttgttcaaccagttaCA
+i rhiBie1.NW_016805931v1             N 0 C 0
+s HLpitPit1.PVIP01002914                 55348 25 -    161462 gggttcagttgttcaaccagttaca
+i HLpitPit1.PVIP01002914             N 0 C 0
+s HLpleDon1.PVKP010018092                38136 25 -     44878 gggttcagttgttcaaccagttaca
+i HLpleDon1.PVKP010018092            N 0 C 0
+s HLsaiBol1.HiC_scaffold_18           49938127 25 - 272094191 GGGTTCAGTTGTTCAACCAGTTACA
+i HLsaiBol1.HiC_scaffold_18          N 0 C 0
+s saiBol1.JH378120                    19986432 25 -  32907957 gggttcagttgttcaaccagttaca
+i saiBol1.JH378120                   N 0 C 0
+s aotNan1.NW_018492988v1               4651025 25 -   6122732 gggttcagttgttcaaccagttaca
+i aotNan1.NW_018492988v1             N 0 C 0
+s HLsagImp1.PVHO010001214                80168 25 +    236711 gggttcagttgttcaaccagttaca
+i HLsagImp1.PVHO010001214            N 0 C 0
+s tarSyr2.KE946583v1                     17895 25 -    708123 gagttcagttgttcaaccggttaCA
+i tarSyr2.KE946583v1                 N 0 C 0
+s HLindInd1.RJWJ010012832                 2529 25 +     41197 gggttcagttgttcaaccggttaca
+i HLindInd1.RJWJ010012832            N 0 C 0
+s proCoq1.NW_012155284v1                 41148 25 -  20122155 GGGTTCAGTTGTTCGACCGGTTACA
+i proCoq1.NW_012155284v1             N 0 C 0
+s HLeulMon1.HiC_scaffold_17           32651206 25 +  82429097 GAGTTCAGTTGTTCAACTGGTTACA
+i HLeulMon1.HiC_scaffold_17          N 0 C 0
+s eulFla1.LGHW01003502v1                485659 25 -    784699 GAGTTCAGTTGTTCAACTGGTTACA
+i eulFla1.LGHW01003502v1             N 0 C 0
+s HLeulFla1.HiC_scaffold_3            37807251 25 + 191253396 GAGTTCAGTTGTTCAACTGGTTACA
+i HLeulFla1.HiC_scaffold_3           N 0 C 0
+s eulMac1.LGHX01003463v1                482506 25 -    779971 GAGTTCAGTTGTTCAACTGGTTACA
+i eulMac1.LGHX01003463v1             N 0 C 0
+s HLeulFul1.PVJU010006333                55460 25 -     58870 GAGTTCAGTTGTTCAACTGGTTACA
+i HLeulFul1.PVJU010006333            N 0 C 0
+s HLlemCat1.PVHV01005057                 13409 25 +    133335 gggttcagttgttcaaccggttaca
+i HLlemCat1.PVHV01005057             N 0 C 0
+s HLcheMed1.VBSM01002608               9647462 25 + 174638116 gggttcagttgttcaaccggttaca
+i HLcheMed1.VBSM01002608             N 0 C 0
+s HLmirCoq1.PVHQ01001594                174936 25 +    193673 gggttcagttgttcaaccggttaca
+i HLmirCoq1.PVHQ01001594             N 0 C 0
+s HLmirZaz1.VSMD01094518                167733 25 +    520884 gggttcagttgttcaaccggttaca
+i HLmirZaz1.VSMD01094518             N 0 C 0
+s micMur3.chr12                       53473664 25 + 108143057 GGGTTCAGTTGTTCAACCGGTTACA
+i micMur3.chr12                      N 0 C 0
+s HLmicSpe31.VSMF01057358                11801 25 +     40844 gggttcagttgttcaaccggttaca
+i HLmicSpe31.VSMF01057358            N 0 C 0
+s HLmicTav1.VSME01200034                 42662 25 +    115155 gggttcagttgttcaaccggttaca
+i HLmicTav1.VSME01200034             N 0 C 0
+s HLproSim1.MPIZ01000018               1140044 25 -   4772337 gggttcagttgttcaaccggttaca
+i HLproSim1.MPIZ01000018             N 0 C 0
+s HLdauMad1.PVJZ01003790                 18571 25 -    208988 gggttcagttgttcaaccggttaca
+i HLdauMad1.PVJZ01003790             N 0 C 0
+s otoGar3.GL873524                     9186480 25 -  47208961 GGGTTCAGTTGTTCAACGGGTtaca
+i otoGar3.GL873524                   N 0 C 0
+s HLnycCou1.PVIV010000889                98800 25 +    111310 gggttcagttgttcaactggttaca
+i HLnycCou1.PVIV010000889            N 0 C 0
+s HLcalPym1.HiC_scaffold_5            47871090 25 + 177151415 GGGTTCAGTTGTTCAACCAGTTACA
+i HLcalPym1.HiC_scaffold_5           N 0 C 0
+s HLcalJac4.CM021916                  55925700 25 - 202808461 GGGTTCAGTTGTTCAACCAGTTACA
+i HLcalJac4.CM021916                 N 0 C 0
+s HLcebAlb1.PVKJ010007042                41035 25 +     68601 gggttcagttgttcaaccagttaca
+i HLcebAlb1.PVKJ010007042            N 0 C 0
+s cebCap1.NW_016107570v1                904486 25 +   3202302 gggttcagttgttcaaccagttaca
+i cebCap1.NW_016107570v1             N 0 C 0
+s HLsapApe1.ML771900                  11969057 25 -  90605281 gggttcagttgttcaaccagttaca
+i HLsapApe1.ML771900                 N 0 C 0
+s HLaloPal1.PVKV010003122                24198 25 -    151008 gggtccagttgttcaaccagttaca
+i HLaloPal1.PVKV010003122            N 0 C 0
+s HLateGeo1.PVHS01001761                  4531 25 -    185275 gggtccagttgttcaaccagttaca
+i HLateGeo1.PVHS01001761             N 0 C 0
+s HLcerMon1.JABBCR010001755           10346089 25 -  48533304 gggttcagttgttcaaccagttaCA
+i HLcerMon1.JABBCR010001755          N 0 C 0
+s HLgalVar2.PVJT021523486              8749241 25 +  26774732 gggttcagttgttcaactggttaca
+i HLgalVar2.PVJT021523486            N 0 C 0
+s HLacoCah1.PVKX01007630                 32515 25 +     78299 GGGTTCAGTTGTTCAACAGGTtaca
+i HLacoCah1.PVKX01007630             N 0 C 0
+s HLmerUng1.NHTI01000494                385899 25 +    841253 GGGTTCAGTTGTTCAACAGGTtaca
+i HLmerUng1.NHTI01000494             N 0 C 0
+s HLrhoOpi1.REGO01000015               7499351 25 +  10599012 GGGTTCAGTTGTTCAACAGGTtaca
+i HLrhoOpi1.REGO01000015             N 0 C 0
+s HLpsaObe1.NESX02000128              39179565 25 +  54616910 GGGTTCAGTTGTTCAACAGGTtaca
+i HLpsaObe1.NESX02000128             N 0 C 0
+s HLacoRus1.LR877241                   9790589 25 +  40934070 GGGTTCAGTTGTTCAACAGGTtaca
+i HLacoRus1.LR877241                 N 0 C 0
+s HLarvNil1.CM022269                  44578922 25 +  53135676 GGGTTCAGTTGTTCAACAGGTtaca
+i HLarvNil1.CM022269                 N 0 C 0
+s HLgraSur1.SRMG01000028               9764561 25 +  18112254 GGGTTCAGTTGTTCAACAGGTtaca
+i HLgraSur1.SRMG01000028             N 0 C 0
+s HLapoSyl1.LIPJ01016463                352950 25 +    466855 GGGTTCAGTTGTTCAACAGGTtaca
+i HLapoSyl1.LIPJ01016463             N 0 C 0
+s HLmasCou1.VSBT01000008              10384522 25 -  80121174 GGGTTCAGTTGTTCAACAGGTtaca
+i HLmasCou1.VSBT01000008             N 0 C 0
+s HLmusPah1.LT608304                  37660802 25 -  77350604 GGGTTCAGTTGTTCAACAGGTtaca
+i HLmusPah1.LT608304                 N 0 C 0
+s HLmusSpr1.CM004107                  10944186 25 - 117181667 GGGTTCAGTTGTTCAACAGGTTACA
+i HLmusSpr1.CM004107                 N 0 C 0
+s HLmusSpi1.QGOO01037346               2032094 25 +   3038343 GGGTTCAGTTGTTCAACAGGTtaca
+i HLmusSpi1.QGOO01037346             N 0 C 0
+s mm39.chr13                          11421829 25 - 120883175 gggttcagttgttcaacaggttaca
+i mm39.chr13                         N 0 C 0
+s mm10.chr13                          11096827 25 - 120421639 GGGTTCAGTTGTTCAACAGGTtaca
+i mm10.chr13                         N 0 C 0
+s HLmusCar1.LT608247                  10069550 25 - 112758220 GGGTTCAGTTGTTCAACAGGTtaca
+i HLmusCar1.LT608247                 N 0 C 0
+s HLratRat7.CM021550                 187650241 25 + 223390290 GGGTTCAGTTGTTCAACAGGTtaca
+i HLratRat7.CM021550                 N 0 C 0
+s rn6.chr2                           225571307 25 - 266435125 GGGTTCAGTTGTTCAACAGGTtaca
+i rn6.chr2                           N 0 C 0
+s HLratNor7.CM026975                 208124628 25 - 249053267 GGGTTCAGTTGTTCAACAGGTtaca
+i HLratNor7.CM026975                 N 0 C 0
+s HLcriGri3.RAZU01000096              21465032 25 +  52794863 GGGTTCAGTTGTTCAACAGGTtaca
+i HLcriGri3.RAZU01000096             N 0 C 0
+s mesAur1.KB708130                     4275924 25 +  37932696 GGGTTCAGTTGTTCAACAGGTtaca
+i mesAur1.KB708130                   N 0 C 0
+s HLneoLep1.LZPO01056443                 10798 25 +     23501 GGGTTCAGTTGTTCAACAGGTtaca
+i HLneoLep1.LZPO01056443             N 0 C 0
+s HLonyTor1.LR877202                  45207118 25 -  78039327 GGGTTCAGTTGTTCAACAGGTtaca
+i HLonyTor1.LR877202                 N 0 C 0
+s HLperNas1.HiC_scaffold_18           42729886 25 -  74446599 GGGTTCAGTTGTTCAACAGGTTACA
+i HLperNas1.HiC_scaffold_18          N 0 C 0
+s HLperCri1.HiC_scaffold_8            43450059 25 +  75687604 GGGTTCAGTTGTTCAACAGGTTACA
+i HLperCri1.HiC_scaffold_8           N 0 C 0
+s HLperEre1.CACRXM010000015           63275241 25 +  80037048 GGGTTCAGTTGTTCAACAGGTtaca
+i HLperEre1.CACRXM010000015          N 0 C 0
+s HLperCal2.VALE02034100              38333133 25 +  77065821 GGGTTCAGTTGTTCAACAGGTtaca
+i HLperCal2.VALE02034100             N 0 C 0
+s HLperLeu1.NMRJ01000009               8256934 25 -  14129550 GGGTTCAGTTGTTCAACAGGTtaca
+i HLperLeu1.NMRJ01000009             N 0 C 0
+s HLperManBai2.CM010893               45279997 25 +  78974444 GGGTTCAGTTGTTCAACAGGTtaca
+i HLperManBai2.CM010893              N 0 C 0
+s HLperPol1.CM010917                  47127431 25 +  81991769 GGGTTCAGTTGTTCAACAGGTtaca
+i HLperPol1.CM010917                 N 0 C 0
+s HLondZib1.PVIU01000296                321127 25 +    363153 GGGTTCAGTTGTTCAACAGGTtaca
+i HLondZib1.PVIU01000296             N 0 C 0
+s HLellTal1.LOJH01100907                  3688 25 +      9714 GGGTTCAGTTGTTCAACAGGTtaca
+i HLellTal1.LOJH01100907             N 0 C 0
+s HLellLut1.LOEQ01006695                 55364 25 -    118244 GGGTTCAGTTGTTCAACAGGTtaca
+i HLellLut1.LOEQ01006695             N 0 C 0
+s HLarvAmp1.LR862382                  39142590 25 + 189600082 GGGTTCAGTTGTTCAACAGGTtaca
+i HLarvAmp1.LR862382                 N 0 C 0
+s micOch1.chr19                        9339828 25 -  65020687 GGGTTCAGTTGTTCAACAGGTtaca
+i micOch1.chr19                      N 0 C 0
+s HLmicArv1.VIIT010009087                35099 25 -     66052 GGGTTCAGTTGTTCAACAGGTtaca
+i HLmicArv1.VIIT010009087            N 0 C 0
+s HLmicAgr2.CADCXT010000394              68159 25 +    154722 GGGTTCAGTTGTTCAACAGGTTACA
+i HLmicAgr2.CADCXT010000394          N 0 C 0
+s HLmicFor1.NMRL01000108                947209 25 +   8927230 GGGTTCAGTTGTTCAACAGGTTACA
+i HLmicFor1.NMRL01000108             N 0 C 0
+s HLmicOec1.VIIU01003657                 51922 25 +    150632 GGGTTCAGTTGTTCAACAGGTtaca
+i HLmicOec1.VIIU01003657             N 0 C 0
+s HLmyoGla2.LR761986                   9889924 25 -  18370670 GGGTTCAGTTGTTCAACAGGTtaca
+i HLmyoGla2.LR761986                 N 0 C 0
+s HLcriGam1.PVKD010017931                 6339 25 -     22415 GGGTTCAGTTGTTCAACAGGTtaca
+i HLcriGam1.PVKD010017931            N 0 C 0
+s nanGal1.KL199246                      134547 25 -   6326310 GGGTTCAGTTGTTCAACCGGTTACA
+i nanGal1.KL199246                   N 0 C 0
+s HLrhiPru1.VZQC01012994               1307982 25 +   1809147 GGGTTCAGTTGTTCAACCGGTTACA
+i HLrhiPru1.VZQC01012994             N 0 C 0
+s HLzapHud1.PVHP010002529                54017 25 -     88772 gggttcagttgttcaaccggttaca
+i HLzapHud1.PVHP010002529            N 0 C 0
+s HLallBul1.PVKW010025784                26983 25 +     30388 gggttcagttgttcaaccggttaca
+i HLallBul1.PVKW010025784            N 0 C 0
+s jacJac1.JH725511                     9927741 25 -  12829143 gggttcagttgttcaaccggttaca
+i jacJac1.JH725511                   N 0 C 0
+s HLcasCan3.HiC_scaffold_20           46557169 25 - 155650876 GGGTTCAGTTGTTCAACCGGTTACA
+i HLcasCan3.HiC_scaffold_20          N 0 C 0
+s HLperLonPac1.RJWR010002841             55377 25 +     92347 gggttcagttgttcaactggttaca
+i HLperLonPac1.RJWR010002841         N 0 C 0
+s dipOrd2.NW_012267299v1               1910074 25 -   9551901 gggttcagttgttcaactggttaca
+i dipOrd2.NW_012267299v1             N 0 C 0
+s HLdipSte1.PVHN010017547                24383 25 +     35866 gggttcagttgttcaactggttaca
+i HLdipSte1.PVHN010017547            N 0 C 0
+s HLpedCap1.VMDO01028568                  8850 25 +     23753 gggttcagttgttcaaccggttaca
+i HLpedCap1.VMDO01028568             N 0 C 0
+s HLcteGun1.PVKB01000351                370605 25 -    816684 gggttcagttgttcaaccggttaca
+i HLcteGun1.PVKB01000351             N 0 C 0
+s HLhysCri1.PVJO010016512                28366 25 +     41771 GGGTTCAGTTGTTCAGCCGGTtaca
+i HLhysCri1.PVJO010016512            N 0 C 0
+s HLdolPat1.PVJX010008107                47749 25 -     67327 GGGTTCAGTTGTTCAGCCGGTTACA
+i HLdolPat1.PVJX010008107            N 0 C 0
+s chiLan1.JH721906                    10486783 25 -  19132341 gggttcagttgttcaaccggttaca
+i chiLan1.JH721906                   N 0 C 0
+s HLcteSoc1.PVKA01000131                114574 25 +    258702 gggttcagttgttcaactggttaca
+i HLcteSoc1.PVKA01000131             N 0 C 0
+s octDeg1.JH651516                     7206994 25 -  41204401 GGGTTCAGTTGTTCAACTGGTtaca
+i octDeg1.JH651516                   N 0 C 0
+s HLdinBra1.PVLD010000573                38663 25 +    268741 gggttcagttgttcaaccggttaca
+i HLdinBra1.PVLD010000573            N 0 C 0
+s HLmyoCoy1.PVJA010016019                25909 25 +     44161 gggttcagttgttcaactggttaca
+i HLmyoCoy1.PVJA010016019            N 0 C 0
+s HLcavTsc1.PVKK010016082                21987 25 -     46349 gggttcagttgttcaaccggttaca
+i HLcavTsc1.PVKK010016082            N 0 C 0
+s cavPor3.scaffold_29                 24323013 25 -  26790417 GGGTTCAGTTGTTCAACCGGTTAca
+i cavPor3.scaffold_29                N 0 C 0
+s cavApe1.AVPZ01000222v1              24309216 25 -  26775304 GGGTTCAGTTGTTCAACCGGTTACA
+i cavApe1.AVPZ01000222v1             N 0 C 0
+s HLhydHyd1.PVLA01009312                 21456 25 +     76917 gggttcagttgttcaaccggttaca
+i HLhydHyd1.PVLA01009312             N 0 C 0
+s HLdasPun1.RJWM01028510                 23474 25 +     24611 gggttcagttgttcaaccggttaca
+i HLdasPun1.RJWM01028510             N 0 C 0
+s HLereDor1.ML655408                   3338637 25 +  11930728 gggttcagttgttcaaccggttaca
+i HLereDor1.ML655408                 N 0 C 0
+s HLthrSwi1.PVIC010025284                22409 25 -     25469 gggttcagttgttcaaccggttaca
+i HLthrSwi1.PVIC010025284            N 0 C 0
+s HLpetTyp1.PVIR01112268                  1289 25 -      2062 gggttcagttgttcaaccggttaca
+i HLpetTyp1.PVIR01112268             N 0 C 0
+s hetGla2.JH602128                      272102 25 -  10543522 gggttcagttgttcaaccggttaca
+i hetGla2.JH602128                   N 0 C 0
+s HLfukDam2.JAAHWF010000001           44646803 25 +  73237234 gggttcagttgttcaaccggttaca
+i HLfukDam2.JAAHWF010000001          N 0 C 0
+s HLaplRuf1.PVKS010003634                72056 25 +    101538 gggttcagttgttcaaccggttaca
+i HLaplRuf1.PVKS010003634            N 0 C 0
+s HLsciVul1.LR738616                  49317797 25 - 173029059 gggttcagttgttcaaccggttaca
+i HLsciVul1.LR738616                 N 0 C 0
+s HLsciCar1.LR738595                  48269797 25 + 162265839 gggttcagttgttcaaccggttaca
+i HLsciCar1.LR738595                 N 0 C 0
+s HLcynGun1.WBRW01001473                226449 25 -    863380 gggttcagttgttcaaccggttaca
+i HLcynGun1.WBRW01001473             N 0 C 0
+s HLspeDau1.KZ294260                   2053945 25 -   2447456 gggttcagttgttcaaccggttaca
+i HLspeDau1.KZ294260                 N 0 C 0
+s speTri2.JH393290                    13468255 25 -  22095427 gggttcagttgttcaaccggttaca
+i speTri2.JH393290                   N 0 C 0
+s HLmarMon2.WJEC01007965               1165353 25 +   2022869 gggttcagttgttcaaccggttaca
+i HLmarMon2.WJEC01007965             N 0 C 0
+s HLmarMon1.CABDUW010000065            2318590 25 +   2852249 gggttcagttgttcaaccggttaca
+i HLmarMon1.CABDUW010000065          N 0 C 0
+s HLmarVan1.ML555033                    728635 25 -   1528786 gggttcagttgttcaaccagttaca
+i HLmarVan1.ML555033                 N 0 C 0
+s HLmarMar1.CZRN01000047              12380833 25 -  15836824 gggttcagttgttcaaccggttaca
+i HLmarMar1.CZRN01000047             N 0 C 0
+s HLmarHim1.RAQP01000357                469657 25 -   1768628 gggttcagttgttcaaccggttaca
+i HLmarHim1.RAQP01000357             N 0 C 0
+s HLmarFla1.ML561899                   5572122 25 -   8989498 gggttcagttgttcaaccggttaca
+i HLmarFla1.ML561899                 N 0 C 0
+s HLxerIna1.PVHX01000123                140888 25 +    422399 gggttcagttgttcaaccggttaca
+i HLxerIna1.PVHX01000123             N 0 C 0
+s HLmusAve1.PVJB01031290                 18605 25 -     22952 gggttcagttgttcaaccggttaca
+i HLmusAve1.PVJB01031290             N 0 C 0
+s HLgliGli1.PVJS01032098                 10399 25 +     22986 gggttcagttgttcaaccggttaca
+i HLgliGli1.PVJS01032098             N 0 C 0
+s HLgraMur1.PVLC010045629                 3247 25 +     11642 gggttcagttgttcaaccggttaca
+i HLgraMur1.PVLC010045629            N 0 C 0
+s HLlepTim1.CM019679                  70608517 25 +  84088265 GGGTTCAGTTGTTTAGCCGGTtaca
+i HLlepTim1.CM019679                 N 0 C 0
+s HLlepAme1.PVJM010004235                16337 25 -     63869 GGGTTCAGTTGTTAAGCCGGTtaca
+i HLlepAme1.PVJM010004235            N 0 C 0
+s HLsylBac1.HiC_scaffold_24           41912759 25 -  85476755 GGGTTCAGTTGTTTAGCCGGTTACA
+i HLsylBac1.HiC_scaffold_24          N 0 C 0
+s HLoryCunCun4.CM023782               82998041 25 - 100884942 GGGTTCAGTTGTTTAGCCGGTtaca
+i HLoryCunCun4.CM023782              N 0 C 0
+s HLoryCun3.VIYN01006879                561377 25 -   2556830 GGGTTCAGTTGTTTAGCCGGTtaca
+i HLoryCun3.VIYN01006879             N 0 C 0
+s oryCun2.chr11                       75636025 25 +  87554214 GGGTTCAGTTGTTTAGCCGGTTAca
+i oryCun2.chr11                      N 0 C 0
+s ochPri3.JH802077                    28493742 25 +  35549867 GGGTTCAGTTGTTTAGCCGGTtaca
+i ochPri3.JH802077                   N 0 C 0
+s tupBel1.scaffold_5942.1-185408        182830 25 +    185408 GGGTTCAGTTGTTCAACCGGTTAca
+i tupBel1.scaffold_5942.1-185408     N 0 C 0
+s tupChi1.KB364984                     1782168 25 +   1867160 GGGTTCAGTTGTTCAACCGGTTACA
+i tupChi1.KB364984                   N 0 C 0
+s HLammLer1.NIVO01020023                 47206 25 +    480071 gggttcagttgttcaactggttaca
+i HLammLer1.NIVO01020023             N 0 C 0
+s HLcapHir2.CM004581                  52130706 25 -  71784255 gggttcagttgttcaactggttaca
+i HLcapHir2.CM004581                 N 0 C 0
+s HLcapAeg1.HG918543                   1775146 25 -   2224194 gggttcagttgttcaactggttaca
+i HLcapAeg1.HG918543                 N 0 C 0
+s HLcapIbe1.SJYO01037955              45782144 25 -  61905114 gggttcagttgttcaactggttaca
+i HLcapIbe1.SJYO01037955             N 0 C 0
+s HLcapSib1.NIYN02061382              19769014 25 -  35409413 gggttcagttgttcaactggttaca
+i HLcapSib1.NIYN02061382             N 0 C 0
+s HLoviNivLyd1.CAFBRR010000194         2115462 25 -   5442478 GGGTTCAGTTGTTCAACTGGTTACA
+i HLoviNivLyd1.CAFBRR010000194       N 0 C 0
+s HLoviCan2.PVIS010002359               132612 25 -    156524 gggttcagttgttcaactggttaca
+i HLoviCan2.PVIS010002359            N 0 C 0
+s HLhipEqu1.JAEFBM010000001           11606655 25 +  24238991 GGGTTCAGTTGTTCAACTGGTTACA
+i HLhipEqu1.JAEFBM010000001          N 0 C 0
+s HLhipNig1.VHQK01014926               6160613 25 -   9294005 gggttcagttgttcaactggttaca
+i HLhipNig1.VHQK01014926             N 0 C 0
+s HLoryGaz1.RAWW01005522               1557107 25 +   4090420 gggttcagttgttcaactggttaca
+i HLoryGaz1.RAWW01005522             N 0 C 0
+s HLoryDam1.HiC_scaffold_20           51669486 25 +  71114058 GGGTTCAGTTGTTCAACTGGTTACA
+i HLoryDam1.HiC_scaffold_20          N 0 C 0
+s HLbeaHun1.PVKQ01002358                109331 25 +    144693 gggttcagttgttcaactggttaca
+i HLbeaHun1.PVKQ01002358             N 0 C 0
+s HLdamLun1.SJXP01000922                 28595 25 -   1008488 gggttcagttgttcaactggttaca
+i HLdamLun1.SJXP01000922             N 0 C 0
+s HLconTau2.HiC_scaffold_19           50772552 25 -  70036254 GGGTTCAGTTGTTCAACTGGTTACA
+i HLconTau2.HiC_scaffold_19          N 0 C 0
+s panHod1.KE113901                     1308406 25 +   2211123 gggttcagttgttcaactggttaca
+i panHod1.KE113901                   N 0 C 0
+s HLoreAme1.WJNR01001674              49967710 25 + 112874127 gggttcagttgttcaactggttaca
+i HLoreAme1.WJNR01001674             N 0 C 0
+s HLoviCan1.CP011901                  52125134 25 -  71803284 gggttcagttgttcaactggttaca
+i HLoviCan1.CP011901                 N 0 C 0
+s HLoviAri5.CM022034                  53543384 25 -  74003058 GGGTTCAGTTGTTCAACTGGTTACA
+i HLoviAri5.CM022034                 N 0 C 0
+s HLhemHyl1.PVJR01024532                  9829 25 +     32928 gggttcagttgttcaactggttaca
+i HLhemHyl1.PVJR01024532             N 0 C 0
+s HLoviOri1.CM025429                  52319108 25 -  72427115 gggttcagttgttcaactggttaca
+i HLoviOri1.CM025429                 N 0 C 0
+s HLkobLecLec1.JACEGT010015136         3249739 25 +   3640150 GGGTTCAGCTGTTCAACTGGTtaca
+i HLkobLecLec1.JACEGT010015136       N 0 C 0
+s HLkobEll1.SJYR01000718                534453 25 +    713616 gggttcagttgttcaactggttaca
+i HLkobEll1.SJYR01000718             N 0 C 0
+s HLredRed1.SJYQ01094372                572004 25 -    905953 gggttcagttgttcaactggttaca
+i HLredRed1.SJYQ01094372             N 0 C 0
+s HLmadKir1.SJYC01138116                 10013 25 -     16810 gggttcagttgttcaactggttaca
+i HLmadKir1.SJYC01138116             N 0 C 0
+s HLrapCam1.SJYW01043262                266147 25 -    729642 gggttcagttgttcaactggttaca
+i HLrapCam1.SJYW01043262             N 0 C 0
+s HLproPrz1.SJYF01001465               4802966 25 +   5434419 gggttcagttgttcaactggttaca
+i HLproPrz1.SJYF01001465             N 0 C 0
+s HLnanGra1.SJYD01053495                242643 25 -    352517 GGGTTCAGTTGTTCAACTGGTtaca
+i HLnanGra1.SJYD01053495             N 0 C 0
+s HLeudTho1.SJYE01003597               1223833 25 +   2697633 gggttcagttgttcaactggttaca
+i HLeudTho1.SJYE01003597             N 0 C 0
+s HLsaiTat1.PVIK010060563                 8340 25 +     10031 GGGTTCAGTAGTTCAACTGGTtaca
+i HLsaiTat1.PVIK010060563            N 0 C 0
+s HLantMar1.SJYB01000894                237886 25 +   2084318 gggttcagttgttcaactggttaca
+i HLantMar1.SJYB01000894             N 0 C 0
+s HLlitWal1.SJYG01000073               8331208 25 +  10975252 gggttcagttgttcaactggttaca
+i HLlitWal1.SJYG01000073             N 0 C 0
+s HLphiMax1.SJYS01008928                667367 25 -    998543 gggttcagttgttcaactggttaca
+i HLphiMax1.SJYS01008928             N 0 C 0
+s HLcepHar1.SJYT01020336                306044 25 +    351285 gggttcagttgttcaactggttaca
+i HLcepHar1.SJYT01020336             N 0 C 0
+s HLsylGri1.SJYH01005220                613609 25 -   1137398 gggttcagttgttcaactggttaca
+i HLsylGri1.SJYH01005220             N 0 C 0
+s HLneoPyg1.SJYV01026409               1165461 25 -   2256214 GGGTTCAGTTGTTCAACTGGTTACA
+i HLneoPyg1.SJYV01026409             N 0 C 0
+s HLoreOre1.SJYX01023611                348218 25 -    360332 gggttcagttgttcaactggttaca
+i HLoreOre1.SJYX01023611             N 0 C 0
+s HLneoMos1.SJYA01002726               4263342 25 -   5403324 gggttcagttgttcaactggttaca
+i HLneoMos1.SJYA01002726             N 0 C 0
+s HLaepMel1.SJXQ01004910                337071 25 -    776529 gggttcagttgttcaactggttaca
+i HLaepMel1.SJXQ01004910             N 0 C 0
+s HLtraImb1.SJYM01002173               4043069 25 -   8002087 gggttcagttgttcaactggttaca
+i HLtraImb1.SJYM01002173             N 0 C 0
+s HLtraScr1.SJXY01000219               2124588 25 -   3292334 GGGTTCAGTTGTTCAACTGGTtaca
+i HLtraScr1.SJXY01000219             N 0 C 0
+s HLtraStr1.SJYU01004989                208131 25 -   1112536 gggttcagttgttcaactggttaca
+i HLtraStr1.SJYU01004989             N 0 C 0
+s HLbubBub2.CM009858                  52502512 25 -  71842292 GGGTTCAGTTGTTCAACTGGTTACA
+i HLbubBub2.CM009858                 N 0 C 0
+s HLsynCaf1.CABVSG010000015           52518489 25 +  71999969 gggttcagttgttcaactggttaca
+i HLsynCaf1.CABVSG010000015          N 0 C 0
+s bisBis1.KN265043v1                   3987050 25 -   5203054 gggttcagttgttcaactggttaca
+i bisBis1.KN265043v1                 N 0 C 0
+s HLbosGau1.CM024454                  56874108 25 +  71071162 gggttcagttgttcaactggttaca
+i HLbosGau1.CM024454                 N 0 C 0
+s HLbosFro1.RBVW01000001               1930931 25 -   6540552 gggttcagttgttcaactggttaca
+i HLbosFro1.RBVW01000001             N 0 C 0
+s HLbosInd2.CM009510                  52448257 25 -  72034351 gggttcagttgttcaactggttaca
+i HLbosInd2.CM009510                 N 0 C 0
+s bosTau9.chr20                       52390139 25 -  71974595 GGGTTCAGTTGTTCAACTGGTTACA
+i bosTau9.chr20                      N 0 C 0
+s HLbosMut2.VBQZ03000006              14791268 25 -  43008087 gggttcagttgttcaactggttaca
+i HLbosMut2.VBQZ03000006             N 0 C 0
+s HLmosMos1.PVHU020000026              9699753 25 +  10170294 gggttcagttgttcaactggttaca
+i HLmosMos1.PVHU020000026            N 0 C 0
+s HLmosBer1.SGQJ01001384                792951 25 +   4429931 gggttcagttgttcaactggttaca
+i HLmosBer1.SGQJ01001384             N 0 C 0
+s HLmosChr1.SPDY01013425                115447 25 +    183241 gggttcagttgttcaactggttaca
+i HLmosChr1.SPDY01013425             N 0 C 0
+s HLranTarGra2.JACGUM010000050        11434262 25 -  17989797 gggttcagttgttcaactggttaca
+i HLranTarGra2.JACGUM010000050       N 0 C 0
+s HLalcAlc1.ML664767                   3461080 25 +  11793986 gggttcagttgttcaactggttaca
+i HLalcAlc1.ML664767                 N 0 C 0
+s HLodoHem1.RCHL01014010                141586 25 -    754593 gggttcagttgttcaactggttaca
+i HLodoHem1.RCHL01014010             N 0 C 0
+s HLodoVir1.KZ104665                    143505 25 -    762948 gggttcagttgttcaactggttaca
+i HLodoVir1.KZ104665                 N 0 C 0
+s HLodoVir2.HiC_scaffold_21           46381651 25 -  64056819 GGGTTCAGTTGTTCAACTGGTTACA
+i HLodoVir2.HiC_scaffold_21          N 0 C 0
+s HLodoVir3.JAAVWD010002120            3552141 25 +   8120680 GAGTTCAGTTGTTCAACTGGTtaca
+i HLodoVir3.JAAVWD010002120          N 0 C 0
+s HLelaDav1.JRFZ01109575               4334715 25 +   7681584 gggttcagttgttcaactggttaca
+i HLelaDav1.JRFZ01109575             N 0 C 0
+s HLranTar1.PVIN010000916               177186 25 -    260005 gggttcagttgttcaactggttaca
+i HLranTar1.PVIN010000916            N 0 C 0
+s HLcapPyg1.SNSB01003446                880839 25 -   4607867 gggttcagttgttcaactggttaca
+i HLcapPyg1.SNSB01003446             N 0 C 0
+s HLhydIne1.SPDZ01000995               3564616 25 -   6326348 GCGTTCAGTTGTTCAACTGGTtaca
+i HLhydIne1.SPDZ01000995             N 0 C 0
+s HLmunRee1.CM018491                  48817999 25 +  67481983 gggtccagttgttcaactggttaca
+i HLmunRee1.CM018491                 N 0 C 0
+s HLmunMun1.CM018502                 456229095 25 + 682452208 GGGTTCAGTTGATCAACTGGTtaca
+i HLmunMun1.CM018502                 N 0 C 0
+s HLmunCri1.SJXS01012318                526497 25 -   1308090 gggtccagttgttcaactggttaca
+i HLmunCri1.SJXS01012318             N 0 C 0
+s HLcerHanYar1.CM021216               48974485 25 -  78686896 gggtccagttgttcaactggttaca
+i HLcerHanYar1.CM021216              N 0 C 0
+s HLcerEla1.CM008032                  70488874 25 -  96537449 gggtccagttgttcaactggttaca
+i HLcerEla1.CM008032                 N 0 C 0
+s HLprzAlb1.SJXR01000574               1155886 25 +   5015088 gggtccagttgttcaactggttaca
+i HLprzAlb1.SJXR01000574             N 0 C 0
+s HLaxiPor1.QQTR01050349              19229918 25 -  31507274 gggttcagttgttcaactggttaca
+i HLaxiPor1.QQTR01050349             N 0 C 0
+s HLantAme1.ML661338                  31969214 25 -  36238220 gggttcagttgttcaactggttaca
+i HLantAme1.ML661338                 N 0 C 0
+s HLgirCam1.SJXV01011683               2194012 25 +   6260702 gggttcagttgttcaactggttaca
+i HLgirCam1.SJXV01011683             N 0 C 0
+s HLgirTip1.LVKQ01S004972               427861 25 +    613715 GGGTTCAGTTGTTCAACTGGTTACA
+i HLgirTip1.LVKQ01S004972            N 0 C 0
+s HLgirCam2.HiC_scaffold_9            88126824 25 - 153431510 GGGTTCAGTTGTTCAACTGGTTACA
+i HLgirCam2.HiC_scaffold_9           N 0 C 0
+s HLokaJoh2.HiC_scaffold_7            44894298 25 + 118624614 GGGTTCAGTTGTTCAACTGGTTACA
+i HLokaJoh2.HiC_scaffold_7           N 0 C 0
+s HLtraKan1.SJXW01025940                177255 25 -    184844 gggttcagttgttcaaccagttaca
+i HLtraKan1.SJXW01025940             N 0 C 0
+s HLtraJav1.PVHZ020000042             15554388 25 +  31898993 gggttcagttgttcaaccagttaca
+i HLtraJav1.PVHZ020000042            N 0 C 0
+s HLplaMin1.RJWK010016701                30274 25 -     35067 gggttcagttgttcaaccggttaca
+i HLplaMin1.RJWK010016701            N 0 C 0
+s orcOrc1.NW_004438483v1               6306290 25 +   9539618 gggttcagttgttcaaccggttaca
+i orcOrc1.NW_004438483v1             N 0 C 0
+s HLlagObl1.ML064992                  14235144 25 -  85097270 gggttcagttgttcaaccggttaca
+i HLlagObl1.ML064992                 N 0 C 0
+s HLgloMel1.ML658778                   5386027 25 +  42574915 gggttcagttgttcaaccggttaca
+i HLgloMel1.ML658778                 N 0 C 0
+s HLsouChi1.RWJT01005720               3998065 25 -  65737249 gggttcagttgttcaaccggttaca
+i HLsouChi1.RWJT01005720             N 0 C 0
+s HLturAdu2.HiC_scaffold_20           47807503 25 - 174279832 GGGTTCAGTTGTTCAACCGGTTACA
+i HLturAdu2.HiC_scaffold_20          N 0 C 0
+s HLturAdu1.NCQN01000119                314665 25 -   2761653 gggttcagttgttcaaccggttaca
+i HLturAdu1.NCQN01000119             N 0 C 0
+s HLturTru4.CM022276                  46416969 25 + 171421769 GGGTTCAGTTGTTCAACCGGTTACA
+i HLturTru4.CM022276                 N 0 C 0
+s turTru2.JH475853                        7743 25 -    166318 gggttcagttgttcaaccggttaca
+i turTru2.JH475853                   N 0 C 0
+s HLphoSin1.CM018158                  47423394 25 - 174291665 gggttcagttgttcaaccggttaca
+i HLphoSin1.CM018158                 N 0 C 0
+s HLturTru3.MRVK01001658              20754590 25 -  96776607 gggttcagttgttcaaccggttaca
+i HLturTru3.MRVK01001658             N 0 C 0
+s HLpepEle1.HiC_scaffold_5            43771564 25 - 160811402 GGGTTCAGTTGTTCAACCGGTTACA
+i HLpepEle1.HiC_scaffold_5           N 0 C 0
+s HLdelLeu2.ML702081                  20169322 25 -  72509879 gggttcagttgttcaaccggttaca
+i HLdelLeu2.ML702081                 N 0 C 0
+s HLphoPho1.RJWQ010012743                 5894 25 -     59098 gggttcagttgttcaaccggttaca
+i HLphoPho1.RJWQ010012743            N 0 C 0
+s HLneoAsi1.KZ688285                   4181893 25 -   7836908 gggttcagttgttcaaccggttaca
+i HLneoAsi1.KZ688285                 N 0 C 0
+s HLphoPho2.HiC_scaffold_6596             4777 25 -      6633 GGGTTCAGTTGTTCAACCGGTTACA
+i HLphoPho2.HiC_scaffold_6596        N 0 C 0
+s HLmonMon1.SIHG01006954              47037756 25 + 170226758 gggttcagttgttcaaccggttaca
+i HLmonMon1.SIHG01006954             N 0 C 0
+s lipVex1.KE558475                     1401438 25 +   3070146 gggttcagttgttcaaccggttaca
+i lipVex1.KE558475                   N 0 C 0
+s HLlniGeo1.RJWO010056304                 6180 25 -      9676 gggttcagttgttcaaccggttaca
+i HLlniGeo1.RJWO010056304            N 0 C 0
+s HLponBla1.PGGH01383710                  1055 25 +      2818 gggttcagttgttcaaccggttaca
+i HLponBla1.PGGH01383710             N 0 C 0
+s HLmesBid1.PVJJ010057975                 6910 25 -      8762 gggttcagttgttcaaccggttaca
+i HLmesBid1.PVJJ010057975            N 0 C 0
+s HLzipCav1.RJWS010312433                  324 25 +      1624 gggttcagttgttcaaccggttaca
+i HLzipCav1.RJWS010312433            N 0 C 0
+s phyCat1.KI402679                      283753 25 -    538519 gggttcagttgttcaaccggttaca
+i phyCat1.KI402679                   N 0 C 0
+s HLphyCat2.CM014792                  63415213 25 + 161983147 GGGTTCAGTTGTTCAACCGGTTACA
+i HLphyCat2.CM014792                 N 0 C 0
+s HLkogBre1.RJWL010053694                 4841 25 -     11982 gggttcagttgttcaaccggttaca
+i HLkogBre1.RJWL010053694            N 0 C 0
+s balAcu1.KI537568                     4646575 25 -  21595717 gggttcagttgttcaaccggttaca
+i balAcu1.KI537568                   N 0 C 0
+s HLbalBon1.DF408623                     37711 25 +     47217 gggttcagttgttcaaccggttaca
+i HLbalBon1.DF408623                 N 0 C 0
+s HLbalEde1.HiC_scaffold_22           41768466 25 + 158067699 GGGTTCAGTTGTTCAACCAGTTACA
+i HLbalEde1.HiC_scaffold_22          N 0 C 0
+s HLbalMus1.VNFC01000003              45612966 25 + 171879439 gggttcagttgttcaaccggttaca
+i HLbalMus1.VNFC01000003             N 0 C 0
+s HLescRob1.RJWN010010840                65704 25 +     71741 gggttcagttgttcaactggttaca
+i HLescRob1.RJWN010010840            N 0 C 0
+s HLmegNov1.RYZJ01000975                788702 25 +   3213567 gggttcagttgttcaaccggttaca
+i HLmegNov1.RYZJ01000975             N 0 C 0
+s HLbalPhy1.SGJD01007815                225427 25 +    818963 gggttcagttgttcaaccggttaca
+i HLbalPhy1.SGJD01007815             N 0 C 0
+s HLeubJap1.RJWP010000660                38538 25 +    160287 GGGTTCAGTTGTTCAACCGGTTACA
+i HLeubJap1.RJWP010000660            N 0 C 0
+s HLbalMys1.scaffold_197                855503 25 -   1730979 gggttcagttgttcaaccggttaca
+i HLbalMys1.scaffold_197             N 0 C 0
+s HLeubGla1.HiC_scaffold_14           42689979 25 + 157489382 GGGTTCAGTTGTTCAACCGGTTACA
+i HLeubGla1.HiC_scaffold_14          N 0 C 0
+s HLhipAmp3.PVJP02910199                940810 25 +   3078281 gggttcagttgttcaaccggttaca
+i HLhipAmp3.PVJP02910199             N 0 C 0
+s HLhipAmp1.NKPW01011025                 30947 25 -     83226 gggttcagttgttcaaccggttaca
+i HLhipAmp1.NKPW01011025             N 0 C 0
+s HLcatWag1.PVHT020000166             10482648 25 -  21801461 gggttcagttgttcaaccggttaca
+i HLcatWag1.PVHT020000166            N 0 C 0
+s susScr11.chr16                      38580352 25 +  79944280 gggttcagttgttcaaccggttaca
+i susScr11.chr16                     N 0 C 0
+s HLcamFer3.CM020770                  39206396 25 + 116890316 GGGTTCAGTTGTTCAACAGGTTACA
+i HLcamFer3.CM020770                 N 0 C 0
+s HLcamDro2.CM016629                  40268200 25 + 120724560 GGGTTCAGTTGTTCAACAGGTtaca
+i HLcamDro2.CM016629                 N 0 C 0
+s HLcamBac1.KN277472                   9319105 25 -  12076045 gggttcagttgttcaacaggttaca
+i HLcamBac1.KN277472                 N 0 C 0
+s HLlamGla1.HiC_scaffold_1            36491105 25 - 102007837 GGGTTCAGTTGTTCAACAGGTTACA
+i HLlamGla1.HiC_scaffold_1           N 0 C 0
+s HLlamGuaCac1.MU054843                9228281 25 +  18854671 GGGTTCAGTTGTTCAACAGGTtaca
+i HLlamGuaCac1.MU054843              N 0 C 0
+s HLlamGlaCha1.MU049411               13719653 25 -  16767056 GGGTTCAGTTGTTCAACAGGTtaca
+i HLlamGlaCha1.MU049411              N 0 C 0
+s HLvicPacHua3.KN270144               12087003 25 +  26844571 GGGTTCAGTTGTTCAACAGGTtaca
+i HLvicPacHua3.KN270144              N 0 C 0
+s HLvicVicMen1.MU059523               15699652 25 +  20435657 GGGTTCAGTTGTTCAACAGGTtaca
+i HLvicVicMen1.MU059523              N 0 C 0
+s vicPac2.KB632491                     5818113 25 +   9430056 GGGTTCAGTTGTTCAACAGGTtaca
+i vicPac2.KB632491                   N 0 C 0
+s HLtapTer1.PVID01014924                 17114 25 -     26518 gggttcagttgttcaaccggttaca
+i HLtapTer1.PVID01014924             N 0 C 0
+s HLtapInd1.PVIE01000495                172032 25 -    677613 gggttcagttgttcaaccggttaca
+i HLtapInd1.PVIE01000495             N 0 C 0
+s HLtapInd2.HiC_scaffold_7            41572769 25 - 137252735 GGGTTCAGTTGTTCAACCGGTTACA
+i HLtapInd2.HiC_scaffold_7           N 0 C 0
+s HLrhiUni1.HiC_scaffold_32           42134372 25 -  53282190 GGGTTCAGTTGTTCAACCGGTTACA
+i HLrhiUni1.HiC_scaffold_32          N 0 C 0
+s HLdicSum1.PEKH010001252              1101198 25 -   1623744 gggttcagttgttcaaccggttaca
+i HLdicSum1.PEKH010001252            N 0 C 0
+s HLdicBic1.PVJY021981047             45304577 25 +  55850693 gggttcagttgttcaaccggttaca
+i HLdicBic1.PVJY021981047            N 0 C 0
+s cerSim1.JH767731                    33309150 25 +  45735564 gggttcagttgttcaaccggttaca
+i cerSim1.JH767731                   N 0 C 0
+s HLcerSimCot1.PVLE01014795               2274 25 +     36338 gggttcagttgttcaaccggttaca
+i HLcerSimCot1.PVLE01014795          N 0 C 0
+s equPrz1.KK950060                      883392 25 +   1314572 GGGTTCAGTTGTTCAACCGGTTACA
+i equPrz1.KK950060                   N 0 C 0
+s equCab3.chr21                       45107177 25 -  58984458 GGGTTCAGTTGTTCAACCGGTTACA
+i equCab3.chr21                      N 0 C 0
+s HLequQuaBoe1.HiC_scaffold_9         42664391 25 - 116491370 GGGTTCAGTTGTTCAACCGGTTACA
+i HLequQuaBoe1.HiC_scaffold_9        N 0 C 0
+s HLequAsi1.JREZ01000696                340200 25 +    854715 gggttcagttgttcaaccggttaca
+i HLequAsi1.JREZ01000696             N 0 C 0
+s HLequAsiAsi2.PSZQ01006131           18376258 25 -  20655000 gggttcagttgttcaaccggttaca
+i HLequAsiAsi2.PSZQ01006131          N 0 C 0
+s HLspiGra1.PITA01002308                 37458 25 -    165370 GGGTTCAGTTGTTCAACGGGTtaca
+i HLspiGra1.PITA01002308             N 0 C 0
+s HLailFul2.HiC_scaffold_3            41145243 25 - 148018152 GGGTTCAGTTGTTCGACCGGTTACA
+i HLailFul2.HiC_scaffold_3           N 0 C 0
+s HLmelCap1.PISX010004975                20306 25 +    113915 gggttcagttgttcaactggttaca
+i HLmelCap1.PISX010004975            N 0 C 0
+s HLmarZib1.RDFD01000001              33357879 25 -  37060172 gggttcagttgttcaactggttaca
+i HLmarZib1.RDFD01000001             N 0 C 0
+s HLgulGul1.CYRY02008887                628463 25 -   1016700 gggttcagttgttcaactggttaca
+i HLgulGul1.CYRY02008887             N 0 C 0
+s HLpteBra2.HiC_scaffold_11           84872166 25 + 150955132 GGGTTCAGTTGTTCAACTGGTTACA
+i HLpteBra2.HiC_scaffold_11          N 0 C 0
+s HLpteBra1.PJEN01003883                136146 25 -    156544 gggttcagttgttcaactggttaca
+i HLpteBra1.PJEN01003883             N 0 C 0
+s HLlonCan1.ML974373                   6495601 25 -  55223674 GAGTTCAGTTGTTCAACTGGTtaca
+i HLlonCan1.ML974373                 N 0 C 0
+s HLlutLut1.LR738407                  90427815 25 + 165805745 gggttcagttgttcaactggttaca
+i HLlutLut1.LR738407                 N 0 C 0
+s enhLutNer1.QQQE01000137v1            7633968 25 +   9220246 gggttcagttgttcaactggttaca
+i enhLutNer1.QQQE01000137v1          N 0 C 0
+s enhLutKen1.chrUn_NW_019154134v1     10351707 25 +  17495879 GGGTTCAGTTGTTCAACTGGTTACA
+i enhLutKen1.chrUn_NW_019154134v1    N 0 C 0
+s HLneoVis1.FNWR01000017               6840160 25 -  13406898 gggttcagttgttcaactggttaca
+i HLneoVis1.FNWR01000017             N 0 C 0
+s HLmusErm1.CM020570                  88645987 25 - 164385424 gggttcagttgttcaactggttaca
+i HLmusErm1.CM020570                 N 0 C 0
+s HLmusPut1.CABPTA010001979            3634070 25 -  13700679 gggttcagttgttcaactggttaca
+i HLmusPut1.CABPTA010001979          N 0 C 0
+s HLmusFur2.JAADYL010000042           39689145 25 -  49793060 GGGTTCAGTTGTTCAACTGGTTACA
+i HLmusFur2.JAADYL010000042          N 0 C 0
+s HLtaxTax1.ML102937                    102313 25 +    108709 gggttcagttgttcaactggttaca
+i HLtaxTax1.ML102937                 N 0 C 0
+s HLpotFla1.HiC_scaffold_13           35084468 25 + 133187614 GGGTTCAGTTGTTCAACCAGTTACA
+i HLpotFla1.HiC_scaffold_13          N 0 C 0
+s HLnasNar1.HiC_scaffold_13           38541579 25 + 137770456 GGGTTCAGTTGTTCAACCAGTTACA
+i HLnasNar1.HiC_scaffold_13          N 0 C 0
+s HLbasSum1.HiC_scaffold_11           37082959 25 + 137929586 GGGTTCAGTTGTTCAACCGGTTACA
+i HLbasSum1.HiC_scaffold_11          N 0 C 0
+s HLproLot1.HiC_scaffold_2169            10005 25 +     13862 GGGTTCAGTTGTTCAACCAGTTACA
+i HLproLot1.HiC_scaffold_2169        N 0 C 0
+s HLeriBar1.HiC_scaffold_1            35026890 25 + 136098761 GGGTTCAGTTGTTCAACCAGTTACA
+i HLeriBar1.HiC_scaffold_1           N 0 C 0
+s HLhalGry1.JAAXOB010000734             499721 25 -    552148 gggttcagttgttcaaccggttaca
+i HLhalGry1.JAAXOB010000734          N 0 C 0
+s HLphoVit1.ML169395                  10162810 25 -  73972568 gggttcagttgttcaaccggttaca
+i HLphoVit1.ML169395                 N 0 C 0
+s neoSch1.NW_018734388v1              35390293 25 +  43258702 gggttcagttgttcaaccggttaca
+i neoSch1.NW_018734388v1             N 0 C 0
+s lepWed1.KB714778                     1440150 25 +   2901701 gggttcagttgttcaaccggttaca
+i lepWed1.KB714778                   N 0 C 0
+s HLmirAng2.HiC_scaffold_2            36070951 25 + 139676048 GGGTTCAGTTGTTCAACCGGTTACA
+i HLmirAng2.HiC_scaffold_2           N 0 C 0
+s HLmirLeo1.JAAMPH010000044           35257001 25 +  75921071 gggttcagttgttcaaccggttaca
+i HLmirLeo1.JAAMPH010000044          N 0 C 0
+s odoRosDiv1.KB229273                  1531931 25 +   2499082 gggttcagttgttcaactggttaca
+i odoRosDiv1.KB229273                N 0 C 0
+s HLodoRos1.HiC_scaffold_3           136839285 25 + 246337658 GGGTTCAGTTGTTCAACTGGTTACA
+i HLodoRos1.HiC_scaffold_3           N 0 C 0
+s HLcalUrs1.KZ836345                   7082272 25 +  11689456 GGGTTCAGTTGTTCAGCTGGTtaca
+i HLcalUrs1.KZ836345                 N 0 C 0
+s HLarcGaz2.CAAAJK010005180           40737349 25 - 146532680 GGGTTCAGTTGTTCAACTGGTtaca
+i HLarcGaz2.CAAAJK010005180          N 0 C 0
+s HLzalCal1.CM019806                  45564572 25 + 155364843 gggttcagttgttcaactggttaca
+i HLzalCal1.CM019806                 N 0 C 0
+s HLeumJub1.ML137806                   8853377 25 -   9846290 gggttcagttgttcaactggttaca
+i HLeumJub1.ML137806                 N 0 C 0
+s HLailMel2.CM022821                  39378780 25 + 147627920 gggttcagttgttcaaccggttaca
+i HLailMel2.CM022821                 N 0 C 0
+s HLursThi1.WEIE01000009               9806727 25 +  52092311 gggttcagttgttcaaccagttaca
+i HLursThi1.WEIE01000009             N 0 C 0
+s HLursAme1.LZNR01000394                 65418 25 -    816920 gggttcagttgttcaaccagttaca
+i HLursAme1.LZNR01000394             N 0 C 0
+s HLursAme2.HiC_scaffold_27           44366939 25 +  87526939 GGGTTCAGTTGTTCAACCAGTTACA
+i HLursAme2.HiC_scaffold_27          N 0 C 0
+s HLursArc1.KZ986278                   9762438 25 -  52111521 gggttcagttgttcaaccagttaca
+i HLursArc1.KZ986278                 N 0 C 0
+s ursMar1.KK498597                    17623529 25 -  31278376 gggttcagttgttcaaccagttaca
+i ursMar1.KK498597                   N 0 C 0
+s HLvulVul1.NBDQ01000005              28393577 25 +  39765911 gggttcagttgttcaactggttaca
+i HLvulVul1.NBDQ01000005             N 0 C 0
+s HLvulLag1.PISU010000631               122481 25 +    331773 gggttcagttgttcaactggttaca
+i HLvulLag1.PISU010000631            N 0 C 0
+s HLlycPic2.SIDF01000069               2146857 25 -   9916956 GGATTCAGTTGTTCAACTGGTtaca
+i HLlycPic2.SIDF01000069             N 0 C 0
+s HLlycPic3.HiC_scaffold_29           44143993 25 -  83306815 GGATTCAGTTGTTCAACTGGTTACA
+i HLlycPic3.HiC_scaffold_29          N 0 C 0
+s canFam4.chr2                        45690780 25 +  84979418 gggttcagttgttcaactggttaca
+i canFam4.chr2                       N 0 C 0
+s HLcanLupDin1.QKWQ01000243            6414386 25 -  44189516 gggttcagttgttcaactggttaca
+i HLcanLupDin1.QKWQ01000243          N 0 C 0
+s canFam5.chr2                        44044548 25 +  82903020 GGGTTCAGTTGTTCAACTGGTTACA
+i canFam5.chr2                       N 0 C 0
+s HLaciJub2.QURD01000011              10360329 25 - 120246179 gggttcagttgttcaactggttaca
+i HLaciJub2.QURD01000011             N 0 C 0
+s HLpumCon1.QAVW01000423             123407522 25 - 236829098 gggttcagttgttcaactggttaca
+i HLpumCon1.QAVW01000423             N 0 C 0
+s HLpriBen1.BIMV01046766                167203 25 +    362131 gggttcagttgttcaactggttaca
+i HLpriBen1.BIMV01046766             N 0 C 0
+s HLlynCan1.CM017329                 127768778 25 + 240012660 gggttcagttgttcaactggttaca
+i HLlynCan1.CM017329                 N 0 C 0
+s HLlynPar1.CAAGRJ010019542             711059 25 -   1094085 gggttcagttgttcaactggttaca
+i HLlynPar1.CAAGRJ010019542          N 0 C 0
+s HLpumYag1.JACEOH010000006           10534494 25 - 123000119 gggttcagttgttcaactggttaca
+i HLpumYag1.JACEOH010000006          N 0 C 0
+s felCat9.chrA1                      129924029 25 + 242100913 GGGTTCAGTTGTTCAACTGGTTACA
+i felCat9.chrA1                      N 0 C 0
+s HLfelNig1.PISY01001059                  8850 25 -     76708 gggttcagttgttcaactggttaca
+i HLfelNig1.PISY01001059             N 0 C 0
+s HLneoNeb1.HiC_scaffold_1           127696916 25 - 239539317 GGGTTCAGTTGTTCAACTGGTTACA
+i HLneoNeb1.HiC_scaffold_1           N 0 C 0
+s panTig1.KE721728                     6435413 25 -  32697773 gggttcagttgttcaactggttaca
+i panTig1.KE721728                   N 0 C 0
+s HLpanPar1.KV860335                   7704424 25 +  13459999 gggttcagttgttcaactggttaca
+i HLpanPar1.KV860335                 N 0 C 0
+s HLpanOnc1.PISV01012355                 29919 25 +     62443 gggttcagttgttcaactggttaca
+i HLpanOnc1.PISV01012355             N 0 C 0
+s HLpanOnc2.HiC_scaffold_4           119862862 25 - 226183006 GGGTTCAGTTGTTCAACTGGTTACA
+i HLpanOnc2.HiC_scaffold_4           N 0 C 0
+s HLpanLeo1.CM018460                  39676209 25 - 150556863 gggttcagttgttcaactggttaca
+i HLpanLeo1.CM018460                 N 0 C 0
+s HLparHer1.PITB01002889                 64703 25 +    139910 GGGTTCAGTTGTTCGACTGGTtaca
+i HLparHer1.PITB01002889             N 0 C 0
+s HLmunMug1.PISW01001376                282791 25 -    370675 gggttcagttcttcaaccagttaca
+i HLmunMug1.PISW01001376             N 0 C 0
+s HLsurSur2.PITD01010238                  5668 25 +     61508 gggttcagttcttcaaccggttaca
+i HLsurSur2.PITD01010238             N 0 C 0
+s HLsurSur1.CM016976                  41286938 25 + 147861781 gggttcagttcttcaaccggttaca
+i HLsurSur1.CM016976                 N 0 C 0
+s HLhelPar1.PJEM01002427                 60604 25 -    233464 GGGTTCAGTTCTTCAACCGGTtaca
+i HLhelPar1.PJEM01002427             N 0 C 0
+s HLcryFer2.HiC_scaffold_14           39409555 25 + 144606739 GGGTTCAGTTGTTCAACTGGTTACA
+i HLcryFer2.HiC_scaffold_14          N 0 C 0
+s HLcroCro1.VOAJ01024674               1760741 25 -   3925314 gggttcagttgttcaactggttaca
+i HLcroCro1.VOAJ01024674             N 0 C 0
+s HLhyaHya1.PEQU01000233               1380757 25 +   2486963 gggttcagttgttcaactggttaca
+i HLhyaHya1.PEQU01000233             N 0 C 0
+s HLmanTri1.SOZM010020246                 2555 25 +     33553 GAGTTCAGTTGTTCAACGGGTtaca
+i HLmanTri1.SOZM010020246            N 0 C 0
+s HLphaTri2.HiC_scaffold_1            45287630 25 -  92203919 GAGTTCAGTTGTTCAACGGGTTACA
+i HLphaTri2.HiC_scaffold_1           N 0 C 0
+s manPen1.KN012667                       73204 25 +     91605 GAGTTCAGTTGTTCAGCGGGTtaca
+i manPen1.KN012667                   N 0 C 0
+s HLmanPen2.VBRX01000718               2279814 25 +   3739080 GAGTTCAGTTGTTCAGCGGGTtaca
+i HLmanPen2.VBRX01000718             N 0 C 0
+s HLmanJav2.VALM01000182               4795224 25 -   8866754 GAGTTCAGTTGTTCAGCGGGTtaca
+i HLmanJav2.VALM01000182             N 0 C 0
+s HLmanJav1.JSZB01021187                 69594 25 +     88478 GAGTTCAGTTGTTCAGCGGGTtaca
+i HLmanJav1.JSZB01021187             N 0 C 0
+s HLmurAurFea1.PVJC01032031               9828 25 -     20197 GGGTCCAGTTGTTCAACCGGTtaca
+i HLmurAurFea1.PVJC01032031          N 0 C 0
+s HLmyoSep1.HiC_scaffold_6            30207454 25 - 111393698 GGGTTCAGTTGTTCAACCGGTTACA
+i HLmyoSep1.HiC_scaffold_6           N 0 C 0
+s myoBra1.KE161240                     7334965 25 +  22122726 GGGTTCAGTTGTTCAACCGGTTACA
+i myoBra1.KE161240                   N 0 C 0
+s myoLuc2.GL429767                    16823921 25 -  64990205 GGGTTCAGTTGTTCAACCGGTTAca
+i myoLuc2.GL429767                   N 0 C 0
+s HLmyoLuc1.HiC_scaffold_9            29129100 25 + 109499002 GGGTTCAGTTGTTCAACCGGTTACA
+i HLmyoLuc1.HiC_scaffold_9           N 0 C 0
+s myoDav1.KB106364                     7851598 25 -  14958651 gggttcagttgttcaaccggttaca
+i myoDav1.KB106364                   N 0 C 0
+s HLmyoMyo6.scaffold_m19_p_5          30565385 25 + 111266764 GGGTTCAGTTGTTCAACCGGTtaca
+i HLmyoMyo6.scaffold_m19_p_5         N 0 C 0
+s HLnycHum2.VMDQ010002276                23241 25 -     72898 gggttcagttgttcaaccggttaca
+i HLnycHum2.VMDQ010002276            N 0 C 0
+s HLaeoCin1.JAAGEH010002531           29561450 25 -  81801090 gggttcagttgttcaaccagttaca
+i HLaeoCin1.JAAGEH010002531          N 0 C 0
+s HLlasBor1.PVJN01007361                 15374 25 +     71954 gggttcagttgttcaaccagttaca
+i HLlasBor1.PVJN01007361             N 0 C 0
+s eptFus1.JH977616                    13004603 24 +  37047529 gggttcagttgttcaaccggttac-
+i eptFus1.JH977616                   N 0 C 0
+s HLpipKuh2.scaffold_m20_p_4          26910138 25 +  91959428 AGGTTCAATTGTTCAACCGGTtaca
+i HLpipKuh2.scaffold_m20_p_4         N 0 C 0
+s HLpipPip1.PVIQ01001264                 86383 25 +    122573 gggttcagttgttcaaccggttaca
+i HLpipPip1.PVIQ01001264             N 0 C 0
+s HLpipPip2.LR862360                  25446267 25 - 100176833 GGGTTCAGTTGTTCAACCGGTtaca
+i HLpipPip2.LR862360                 N 0 C 0
+s HLminSch1.PVJG01002564                121057 25 +    155510 GGGTTCAGTTGTTTAACTGGTtaca
+i HLminSch1.PVJG01002564             N 0 C 0
+s HLminNat1.LDJU01000114               4058103 25 +   4456252 GGGTTCAGTTGTTTAACTGGTtaca
+i HLminNat1.LDJU01000114             N 0 C 0
+s HLmolMol2.scaffold_m16_p_3          39420014 25 + 132399173 GGGTTCAGTTGTTCAACTGGTTACA
+i HLmolMol2.scaffold_m16_p_3         N 0 C 0
+s HLtadBra1.PVIG010009991                 8868 25 +     48987 gggttcagttgttcaactggttaca
+i HLtadBra1.PVIG010009991            N 0 C 0
+s HLmacCal1.VMDR010009179                16689 25 +     34194 GGGTTCAGTTGTTCAACTCGTtaca
+i HLmacCal1.VMDR010009179            N 0 C 0
+s HLmicHir1.PVJI01000773                220388 25 -    226649 gggttcagttgttcaactggttaca
+i HLmicHir1.PVJI01000773             N 0 C 0
+s HLdesRot2.ScWXtkA_77                28772897 25 -  37914454 GGGTTCAGTTGTTCAACTGGTTACA
+i HLdesRot2.ScWXtkA_77               N 0 C 0
+s HLphyDis3.scaffold_m19_p_2          35190960 25 - 214384303 GGGTTCAGTTGTTCCACTGGTtaca
+i HLphyDis3.scaffold_m19_p_2         N 0 C 0
+s HLtonSau1.PVIA01000125                515892 25 -    640007 GGGTTCAGTTGTTCgactggttaca
+i HLtonSau1.PVIA01000125             N 0 C 0
+s HLcarPer3.PVKM010000559                18628 25 +    102408 GGGTTCAGTTGTTCgactggttaca
+i HLcarPer3.PVKM010000559            N 0 C 0
+s HLstuHon1.VSFL01015270              35150458 25 -  42570294 gggttcagttgttcaaccggttaca
+i HLstuHon1.VSFL01015270             N 0 C 0
+s HLartJam1.PVKR01011101                 29957 25 -     47912 GGGTTTGGTTGTTCAACTGGTtaca
+i HLartJam1.PVKR01011101             N 0 C 0
+s HLartJam2.VSFN01012266                417567 25 +   1354031 GGGTTCGGTTGTTCAACTGGTtaca
+i HLartJam2.VSFN01012266             N 0 C 0
+s HLanoCau1.PVKU01000567                157442 24 +    449704 GGGTTCAGTTGTTCAACT-GTtaca
+i HLanoCau1.PVKU01000567             N 0 C 0
+s HLlepYer1.Scaffold_289              14930914 25 +  41293275 GGGTTCAGTTGTTCAACCGGTGACA
+i HLlepYer1.Scaffold_289             N 0 C 0
+s HLmorBla1.PVJD01006021                 11901 25 +    105110 GGGTTCAGTTGTTCGACTGGTtaca
+i HLmorBla1.PVJD01006021             N 0 C 0
+s ptePar1.KE826875                        2438 25 -     27678 gggttcagttgttcaactggttaca
+i ptePar1.KE826875                   N 0 C 0
+s HLnocLep1.PVIW01000159                533153 25 -    729407 gggttcagttgttcaactggttaca
+i HLnocLep1.PVIW01000159             N 0 C 0
+s HLantPal1.VMDP01020653                 18089 25 +     24298 gggttcagttgttcagccagttaca
+i HLantPal1.VMDP01020653             N 0 C 0
+s HLcynBra1.SSHV01005822                 65953 25 +    206906 gggttcagttgttcaactggttaca
+i HLcynBra1.SSHV01005822             N 0 C 0
+s HLmacSob1.PVKZ01000105                382458 25 +   1557461 gggttcagttgttcaactagttaca
+i HLmacSob1.PVKZ01000105             N 0 C 0
+s HLeidDup1.HiC_scaffold_1            27710171 25 - 100972108 GGGTTCAGTTGTTCAACTGGTTACA
+i HLeidDup1.HiC_scaffold_1           N 0 C 0
+s HLeidHel2.HiC_scaffold_12           22919463 25 -  81966912 GGGTTCAGTTGTTCAACTGGTTACA
+i HLeidHel2.HiC_scaffold_12          N 0 C 0
+s pteAle1.KB030401                     1512896 25 +   4195304 gggttcagttgttcaactggttaca
+i pteAle1.KB030401                   N 0 C 0
+s HLptePse1.BMBI01007426               1498298 25 -   1993314 gggttcagttgttcaactggttaca
+i HLptePse1.BMBI01007426             N 0 C 0
+s HLpteVam2.KN525898                   3102581 25 -   3632111 GGGTTCAGTTGTTCAACTGGTtaca
+i HLpteVam2.KN525898                 N 0 C 0
+s HLpteGig1.CACVBW010003980            6792369 25 +  22585437 gggttcagttgttcaactggttaca
+i HLpteGig1.CACVBW010003980          N 0 C 0
+s HLpteRuf1.HiC_scaffold_8            33431745 25 + 110476781 GGGTTCAGTTGTTCAACTGGTTACA
+i HLpteRuf1.HiC_scaffold_8           N 0 C 0
+s HLeonSpe1.PUFA01000011               8512116 25 +  21714733 gggttcagttgttcaactggttaca
+i HLeonSpe1.PUFA01000011             N 0 C 0
+s HLmegLyr2.PVJL010011077                15499 25 +     45021 gggttcagttgttcaactggttaca
+i HLmegLyr2.PVJL010011077            N 0 C 0
+s HLcraTho1.PVKE010004291                32495 25 -     65696 gggttcagttgttcaactggttaca
+i HLcraTho1.PVKE010004291            N 0 C 0
+s HLrhiFer5.scaffold_m29_p_7          37768337 25 - 100617698 GGGTTCAGTTGTTCAACTGGTtaca
+i HLrhiFer5.scaffold_m29_p_7         N 0 C 0
+s HLrhiSin1.LVEH01000016               3739991 25 +   8456346 gggttcagttgttcaactggttaca
+i HLrhiSin1.LVEH01000016             N 0 C 0
+s HLhipGal1.PVLB01070812                  3585 25 -      3971 gggttcagttgttcaactggttaca
+i HLhipGal1.PVLB01070812             N 0 C 0
+s HLhipArm1.JXIK01000123               3050726 25 +   3781309 GGGTTCAGTTGTTCAACTGGTtaca
+i HLhipArm1.JXIK01000123             N 0 C 0
+s HLsolPar1.RJWH01000467                191279 25 +    767399 GGATTCGGCTGTTCAGCTCGTtaca
+i HLsolPar1.RJWH01000467             N 0 C 0
+s eriEur2.JH835351                     2601027  8 +   6227545 GGGTTCAG-----------------
+i eriEur2.JH835351                   N 0 C 0
+s sorAra2.JH798178                    11055003 25 +  23615395 AGGTTCAGTTGTTCAACTGGTtaca
+i sorAra2.JH798178                   N 0 C 0
+s HLuroGra1.PVHY01012020                 17787 25 -     45774 CAGTACAGTTGTCCAACTGATTACa
+i HLuroGra1.PVHY01012020             N 0 C 0
+s HLscaAqu1.PVIJ01000331                126859 25 -    313945 TGCTGCAGTTGTCCAACTGGTtaca
+i HLscaAqu1.PVIJ01000331             N 0 C 0
+s HLtalOcc1.talOcc4_6                 80376693 25 + 139703181 GGTTGCAGGTGTCCAACTGGTTACA
+i HLtalOcc1.talOcc4_6                N 0 C 0
+s conCri1.JH655884                    19235320 25 -  65339388 GGTTGCAGTTGTCCAACTAGTTGCA
+i conCri1.JH655884                   N 0 C 0
+s echTel2.JH980308                    14389731 25 -  57704787 GGGTTCAGTTGTTCAGCTGGTTACA
+i echTel2.JH980308                   N 0 I 6
+s HLmicTal1.PVJH01011621                 11799 25 -     68131 GGGTTCAGTTGTTCAACTGGTGACA
+i HLmicTal1.PVJH01011621             N 0 C 0
+s eleEdw1.JH947228                     6650540 25 -  13120090 GAGTTCAGTTGTTCAACTGGTTACA
+i eleEdw1.JH947228                   N 0 C 0
+s oryAfe1.JH863840                     8724165 25 -   9231259 gggttcagttgttcaaccggttaca
+i oryAfe1.JH863840                   N 0 C 0
+s chrAsi1.JH823616                     1064272 25 +   2419662 GGGTTCAGTTGTTCAGCCGGTtaca
+i chrAsi1.JH823616                   N 0 C 0
+s HLhetBru1.PVJQ01021083                  3131 25 -     47289 GGATTCAGTTGTTCAACGGGTtaca
+i HLhetBru1.PVJQ01021083             N 0 C 0
+s HLproCap3.PVIO02000545               6436415 25 +  12935535 GGATTCAGTTGTTCAACGGGTtaca
+i HLproCap3.PVIO02000545             N 0 C 0
+s HLdugDug1.BMBL01028420                  4243 25 +      9235 gggttcagttgttcaactggttaca
+i HLdugDug1.BMBL01028420             N 0 C 0
+s triMan1.JH594680                    12726991 25 +  13652503 gggttcagttgttcaactggttaca
+i triMan1.JH594680                   N 0 C 0
+s HLhydGig1.JACANZ010020167                269 25 -      3826 GGGTTCAGTTGTTCAGCTGGTTACA
+i HLhydGig1.JACANZ010020167          N 0 C 0
+s HLeleMax1.HiC_scaffold_7            56057195 25 + 206147042 GGGTTCAGTTGTTCGACTGGTTACA
+i HLeleMax1.HiC_scaffold_7           N 0 C 0
+s HLloxAfr4.chr3                      62433062 25 - 205080690 GGGTTCAGTTGTTCGACTGGTTACA
+i HLloxAfr4.chr3                     N 0 C 0
+s HLtamTet1.PVIF010099220                 2445 25 -      7038 GGGTTCAGTTGTTCAACCGGTCaca
+i HLtamTet1.PVIF010099220            N 0 C 0
+s HLchoHof3.HiC_scaffold_5            59307519 25 + 179318452 GGGTTCAGTTGTTCAACTGGTTACA
+i HLchoHof3.HiC_scaffold_5           N 0 C 0
+s HLchoDid2.NC_051317                 84969217 25 +  90811022 GGGTTCAGTTGTTCAACCGGTTACA
+i HLchoDid2.NC_051317                N 0 C 0
+s HLchoDid1.PVKG010251999                 1349 25 -      2775 gggttcagttgttcaactggttaca
+i HLchoDid1.PVKG010251999            N 0 C 0
+s HLmyrTri1.PVIY010002472                14347 25 +    127325 gggttcagttgttcaaccagtcaca
+i HLmyrTri1.PVIY010002472            N 0 C 0
+s dasNov3.JH568145                     3349265 25 +   5896070 gggttcagttgttcaaccggttaca
+i dasNov3.JH568145                   N 0 C 0
+s HLtolMat1.PVIB010019799                 4836 25 -     28249 gggttcagttgttcaactggttaca
+i HLtolMat1.PVIB010019799            N 0 C 0
+e HLvomUrs1.UNPS02014772              21731600  0 -  38546163 N
+e HLcoePre1.HiC_scaffold_28           34836618  0 +  47247705 N
+e HLrouMad1.HiC_scaffold_4            27160383  0 +  97851674 N
+e HLrouAeg4.scaffold_m13_p_8          33759375  0 - 112742020 N
+e HLrouLes1.BNJM01000009              28655098  0 -  77441061 N
+
+a score=0.000000
+s hg38.chr5                           59703653 35 + 181538259 attagttagattagtaactggttgaacaactgtaa
+s panPan3.chr5                       122193441 35 - 176502593 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i panPan3.chr5                       C 0 N 0
+s panTro6.chr5_NW_019932885v1_random   2879306 35 -   5402389 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i panTro6.chr5_NW_019932885v1_random C 0 N 0
+s gorGor6.chr17                       39919457 35 +  90905695 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i gorGor6.chr17                      C 0 N 0
+s ponAbe3.chr5                        57522259 35 + 179185813 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i ponAbe3.chr5                       C 0 N 0
+s HLhylMol2.WKKJ02000023               9196764 35 +  42084912 attagttagattagtaactggttgaacaactgtaa
+i HLhylMol2.WKKJ02000023             C 0 N 0
+s HLnomLeu4.CM016962                  69856432 35 + 103066776 attagttagattagtaactggttgaacaactgtaa
+i HLnomLeu4.CM016962                 C 0 N 0
+s HLpapAnu5.CM018184                  54331965 35 + 173900761 ATTAGGTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLpapAnu5.CM018184                 C 0 N 0
+s HLtheGel1.CM009955                  56612381 35 + 177691375 ATTaggtagattagtaactggttgaacaactgtaa
+i HLtheGel1.CM009955                 C 0 N 0
+s cerAty1.NW_012003525v1               1132465 35 +   2140168 ATTaggtagattagtaactggttgaacaactgtaa
+i cerAty1.NW_012003525v1             C 0 N 0
+s HLmanSph1.SRPC01031000                544378 35 +   1148838 ATTAGGTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLmanSph1.SRPC01031000             C 0 N 0
+s manLeu1.NW_012099766v1                885423 35 +   1613015 ATTaggtagattagtaactggttgaacaactgtaa
+i manLeu1.NW_012099766v1             C 0 N 0
+s macNem1.NW_012012244v1              10507499 35 +  17223502 ATTaggtagattagtaactggttgaacaactgtaa
+i macNem1.NW_012012244v1             C 0 N 0
+s HLmacFas6.BLPH01000006              56639619 35 + 176725130 ATTAGGTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLmacFas6.BLPH01000006             C 0 N 0
+s HLmacFus1.HiC_scaffold_5            56209411 35 + 176711529 ATTAGGTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLmacFus1.HiC_scaffold_5           C 0 N 0
+s rheMac10.chr6                       58047933 35 + 179085566 ATTAGGTAGATTAGTAACTGGTTGAACAACTGTAA
+i rheMac10.chr6                      C 0 N 0
+s HLcerNeg1.PVKI010009047                 3036 35 -     36521 attagttagattagtaactggttgaacaactgtaa
+i HLcerNeg1.PVKI010009047            C 0 N 0
+s HLallNig1.HiC_scaffold_17           50416085 35 + 161743863 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLallNig1.HiC_scaffold_17          C 0 N 0
+s HLeryPat1.PVJV010000007               193621 35 +    370159 ATTagttagattagtaactggttgaacaactgtaa
+i HLeryPat1.PVJV010000007            C 0 N 0
+s chlSab2.chr4                        55879763 35 +  91010382 attagttagattagtaactggttgaacaactgtaa
+i chlSab2.chr4                       C 0 N 0
+s HLpilTep2.CM019243                 119245546 35 - 178867606 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLpilTep2.CM019243                 C 0 N 0
+s colAng1.NW_012115289v1               4272222 35 -   5440318 ATTagttagattagtaactggttgaacaactgtaa
+i colAng1.NW_012115289v1             C 0 N 0
+s HLsemEnt1.PVII010016844                11116 35 -     41091 attagttagattagtaactggttgaacaactgtaa
+i HLsemEnt1.PVII010016844            C 0 N 0
+s HLtraFra1.VVIV01001006              91061042 35 + 178942783 ATTagttagattagtaactggttgaacaactgtaa
+i HLtraFra1.VVIV01001006             C 0 N 0
+s nasLar1.chr6                        55252554 35 + 170588018 ATTagttagattagtaactggttgaacaactgtaa
+i nasLar1.chr6                       C 0 N 0
+s HLpygNem1.PVHW010039685                12682 35 -     15623 ATTagttagattagtaactggttgaacaactgtaa
+i HLpygNem1.PVHW010039685            C 0 N 0
+s HLrhiRox2.CM017353                 180248734 35 - 185537619 ATTagttagattagtaactggttgaacaactgtaa
+i HLrhiRox2.CM017353                 C 0 N 0
+s rhiBie1.NW_016805931v1               5106461 35 +   6067031 ATTagttagattagtaactggttgaacaactgtaa
+i rhiBie1.NW_016805931v1             C 0 N 0
+s HLpitPit1.PVIP01002914                 55373 35 -    161462 attagttagattagtaactggttgaacaactgtaa
+i HLpitPit1.PVIP01002914             C 0 N 0
+s HLpleDon1.PVKP010018092                38161 35 -     44878 attagttagattagtaactggttgaacaactgtaa
+i HLpleDon1.PVKP010018092            C 0 N 0
+s HLsaiBol1.HiC_scaffold_18           49938152 35 - 272094191 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLsaiBol1.HiC_scaffold_18          C 0 N 0
+s saiBol1.JH378120                    19986457 35 -  32907957 attagttagattagtaactggttgaacaactgtaa
+i saiBol1.JH378120                   C 0 N 0
+s aotNan1.NW_018492988v1               4651050 35 -   6122732 attagttagattagtaactggttgaacaactgtaa
+i aotNan1.NW_018492988v1             C 0 N 0
+s HLsagImp1.PVHO010001214                80193 35 +    236711 attagttagattagtaactggttgaacaactgtaa
+i HLsagImp1.PVHO010001214            C 0 N 0
+s tarSyr2.KE946583v1                     17920 35 -    708123 ATTagttagattagtaactggttgaacaactgtaa
+i tarSyr2.KE946583v1                 C 0 N 0
+s HLindInd1.RJWJ010012832                 2554 35 +     41197 aTTTGTtagattagtaactggttgaacaactgtaa
+i HLindInd1.RJWJ010012832            C 0 N 0
+s proCoq1.NW_012155284v1                 41173 35 -  20122155 ATTTGTtagattagtaactggttgaacaactgtaa
+i proCoq1.NW_012155284v1             C 0 N 0
+s HLeulMon1.HiC_scaffold_17           32651231 35 +  82429097 ATTTGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLeulMon1.HiC_scaffold_17          C 0 N 0
+s eulFla1.LGHW01003502v1                485684 35 -    784699 ATTTGTtagattagtaactggttgaacaactgtaa
+i eulFla1.LGHW01003502v1             C 0 N 0
+s HLeulFla1.HiC_scaffold_3            37807276 35 + 191253396 ATTTGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLeulFla1.HiC_scaffold_3           C 0 N 0
+s eulMac1.LGHX01003463v1                482531 35 -    779971 ATTTGTtagattagtaactggttgaacaactgtaa
+i eulMac1.LGHX01003463v1             C 0 N 0
+s HLeulFul1.PVJU010006333                55485 35 -     58870 ATTTGTtagattagtaactggttgaacaactgtaa
+i HLeulFul1.PVJU010006333            C 0 N 0
+s HLlemCat1.PVHV01005057                 13434 35 +    133335 aTTTGTtagattagtaactggttgaacaactgtaa
+i HLlemCat1.PVHV01005057             C 0 N 0
+s HLcheMed1.VBSM01002608               9647487 35 + 174638116 aTTTGTtagattagtaactggttgaacaactgtaa
+i HLcheMed1.VBSM01002608             C 0 N 0
+s HLmirCoq1.PVHQ01001594                174961 35 +    193673 aTTTGTtagattagtaactggttgaacaactgtaa
+i HLmirCoq1.PVHQ01001594             C 0 N 0
+s HLmirZaz1.VSMD01094518                167758 35 +    520884 aTTTGTtagattagtaactggttgaacaactgtaa
+i HLmirZaz1.VSMD01094518             C 0 N 0
+s micMur3.chr12                       53473689 35 + 108143057 ATTTGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i micMur3.chr12                      C 0 N 0
+s HLmicSpe31.VSMF01057358                11826 35 +     40844 aTTTGTtagattagtaactggttgaacaactgtaa
+i HLmicSpe31.VSMF01057358            C 0 N 0
+s HLmicTav1.VSME01200034                 42687 35 +    115155 aTTTGTtagattagtaactggttgaacaactgtaa
+i HLmicTav1.VSME01200034             C 0 N 0
+s HLproSim1.MPIZ01000018               1140069 35 -   4772337 aTTTGTtagattagtaactggttgaacaactgtaa
+i HLproSim1.MPIZ01000018             C 0 N 0
+s HLdauMad1.PVJZ01003790                 18596 35 -    208988 attagttagattagtaactggttgaacaactgtaa
+i HLdauMad1.PVJZ01003790             C 0 N 0
+s otoGar3.GL873524                     9186505 35 -  47208961 attagttagactagtaactggttgaacaactgtaa
+i otoGar3.GL873524                   C 0 N 0
+s HLnycCou1.PVIV010000889                98825 35 +    111310 attagttagattagtaactggttgaacaactgtaa
+i HLnycCou1.PVIV010000889            C 0 N 0
+s HLcalPym1.HiC_scaffold_5            47871115 35 + 177151415 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLcalPym1.HiC_scaffold_5           C 0 N 0
+s HLcalJac4.CM021916                  55925725 35 - 202808461 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLcalJac4.CM021916                 C 0 N 0
+s HLcebAlb1.PVKJ010007042                41060 35 +     68601 attagttagattagtaactggttgaacaactgtaa
+i HLcebAlb1.PVKJ010007042            C 0 N 0
+s cebCap1.NW_016107570v1                904511 35 +   3202302 attagttagattagtaactggttgaacaactgtaa
+i cebCap1.NW_016107570v1             C 0 N 0
+s HLsapApe1.ML771900                  11969082 35 -  90605281 attagttagattagtaactggttgaacaactgtaa
+i HLsapApe1.ML771900                 C 0 N 0
+s HLaloPal1.PVKV010003122                24223 35 -    151008 attagttagattagtaactggttgaacaactgtaa
+i HLaloPal1.PVKV010003122            C 0 N 0
+s HLateGeo1.PVHS01001761                  4556 35 -    185275 attagttagattagtaactggttgaacaactgtaa
+i HLateGeo1.PVHS01001761             C 0 N 0
+s HLcerMon1.JABBCR010001755           10346114 35 -  48533304 ATTagttagattagtaactggttgaacaactgtaa
+i HLcerMon1.JABBCR010001755          C 0 N 0
+s HLgalVar2.PVJT021523486              8749266 35 +  26774732 attagttagattagtaactggttgaacaactgtaa
+i HLgalVar2.PVJT021523486            C 0 N 0
+s HLacoCah1.PVKX01007630                 32540 35 +     78299 attagttagatgagtaactggttgaacaactgtaa
+i HLacoCah1.PVKX01007630             C 0 N 0
+s HLmerUng1.NHTI01000494                385924 35 +    841253 atttgttagattagtaactggttgaacaactgtaa
+i HLmerUng1.NHTI01000494             C 0 N 0
+s HLrhoOpi1.REGO01000015               7499376 35 +  10599012 atttgttagattagtaactggttgaacaactgtaa
+i HLrhoOpi1.REGO01000015             C 0 N 0
+s HLpsaObe1.NESX02000128              39179590 35 +  54616910 atttgttagattagtaactggttgaacaactgtaa
+i HLpsaObe1.NESX02000128             C 0 N 0
+s HLacoRus1.LR877241                   9790614 35 +  40934070 attagttagatgagtaactggttgaacaactgtaa
+i HLacoRus1.LR877241                 C 0 N 0
+s HLarvNil1.CM022269                  44578947 35 +  53135676 attagttagattagtaactggttgaacaactgtat
+i HLarvNil1.CM022269                 C 0 N 0
+s HLgraSur1.SRMG01000028               9764586 35 +  18112254 attagttagattagtaactggttgaacaactgtat
+i HLgraSur1.SRMG01000028             C 0 N 0
+s HLapoSyl1.LIPJ01016463                352975 35 +    466855 attagttagattagtaactggttgaacaactgtat
+i HLapoSyl1.LIPJ01016463             C 0 N 0
+s HLmasCou1.VSBT01000008              10384547 35 -  80121174 attagttagattagtaactggttgaacaactgtat
+i HLmasCou1.VSBT01000008             C 0 N 0
+s HLmusPah1.LT608304                  37660827 35 -  77350604 attagttagattagtaactggttgaacaactgtat
+i HLmusPah1.LT608304                 C 0 N 0
+s HLmusSpr1.CM004107                  10944211 35 - 117181667 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAT
+i HLmusSpr1.CM004107                 C 0 N 0
+s HLmusSpi1.QGOO01037346               2032119 35 +   3038343 attagttagattagtaactggttgaacaactgtat
+i HLmusSpi1.QGOO01037346             C 0 N 0
+s mm39.chr13                          11421854 35 - 120883175 attagttagattagtaactggttgaacaactgtat
+i mm39.chr13                         C 0 N 0
+s mm10.chr13                          11096852 35 - 120421639 attagttagattagtaactggttgaacaactgtat
+i mm10.chr13                         C 0 N 0
+s HLmusCar1.LT608247                  10069575 35 - 112758220 attagttagattagtaactggttgaacaactgtat
+i HLmusCar1.LT608247                 C 0 N 0
+s HLratRat7.CM021550                 187650266 35 + 223390290 attagttagattagtaactggttgaacaactgtat
+i HLratRat7.CM021550                 C 0 N 0
+s rn6.chr2                           225571332 35 - 266435125 attagttagattagtaactggttgaacaactgtat
+i rn6.chr2                           C 0 N 0
+s HLratNor7.CM026975                 208124653 35 - 249053267 attagttagattagtaactggttgaacaactgtat
+i HLratNor7.CM026975                 C 0 N 0
+s HLcriGri3.RAZU01000096              21465057 35 +  52794863 attagttagattagtaactggttgaacaactgtaa
+i HLcriGri3.RAZU01000096             C 0 N 0
+s mesAur1.KB708130                     4275949 35 +  37932696 attagttagatgagtaactggttgaacaactgtaa
+i mesAur1.KB708130                   C 0 N 0
+s HLneoLep1.LZPO01056443                 10823 35 +     23501 attagttagcttagtaactggttgaacaactgtaa
+i HLneoLep1.LZPO01056443             C 0 N 0
+s HLonyTor1.LR877202                  45207143 35 -  78039327 attagttagattagtaactggttgaacaactgtaa
+i HLonyTor1.LR877202                 C 0 N 0
+s HLperNas1.HiC_scaffold_18           42729911 35 -  74446599 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLperNas1.HiC_scaffold_18          C 0 N 0
+s HLperCri1.HiC_scaffold_8            43450084 35 +  75687604 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLperCri1.HiC_scaffold_8           C 0 N 0
+s HLperEre1.CACRXM010000015           63275266 35 +  80037048 attagttagattagtaactggttgaacaactgtaa
+i HLperEre1.CACRXM010000015          C 0 N 0
+s HLperCal2.VALE02034100              38333158 35 +  77065821 attagttagattagtaactggttgaacaactgtaa
+i HLperCal2.VALE02034100             C 0 N 0
+s HLperLeu1.NMRJ01000009               8256959 35 -  14129550 attagttagattagtaactggttgaacaactgtaa
+i HLperLeu1.NMRJ01000009             C 0 N 0
+s HLperManBai2.CM010893               45280022 35 +  78974444 attagttagattagtaactggttgaacaactgtaa
+i HLperManBai2.CM010893              C 0 N 0
+s HLperPol1.CM010917                  47127456 35 +  81991769 attagttagattagtaactggttgaacaactgtaa
+i HLperPol1.CM010917                 C 0 N 0
+s HLondZib1.PVIU01000296                321152 35 +    363153 attagttagattagtaactggttgaacaactgtaa
+i HLondZib1.PVIU01000296             C 0 N 0
+s HLellTal1.LOJH01100907                  3713 35 +      9714 attagttagattagtaactggttgaacaactgtaa
+i HLellTal1.LOJH01100907             C 0 N 0
+s HLellLut1.LOEQ01006695                 55389 35 -    118244 attaggtagattagtaactggttgaacaactgtaa
+i HLellLut1.LOEQ01006695             C 0 N 0
+s HLarvAmp1.LR862382                  39142615 35 + 189600082 attagttagattagtaactggttgaacaactgtaa
+i HLarvAmp1.LR862382                 C 0 N 0
+s micOch1.chr19                        9339853 35 -  65020687 attagttagattagtaactggttgaacaactgtaa
+i micOch1.chr19                      C 0 N 0
+s HLmicArv1.VIIT010009087                35124 35 -     66052 attagttagattagtaactggttgaacaactgtaa
+i HLmicArv1.VIIT010009087            C 0 N 0
+s HLmicAgr2.CADCXT010000394              68184 35 +    154722 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLmicAgr2.CADCXT010000394          C 0 N 0
+s HLmicFor1.NMRL01000108                947234 35 +   8927230 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLmicFor1.NMRL01000108             C 0 N 0
+s HLmicOec1.VIIU01003657                 51947 35 +    150632 attagttagattagtaactggttgaacaactgtaa
+i HLmicOec1.VIIU01003657             C 0 N 0
+s HLmyoGla2.LR761986                   9889949 35 -  18370670 attagttagattagtaactggttgaacaactgtaa
+i HLmyoGla2.LR761986                 C 0 N 0
+s HLcriGam1.PVKD010017931                 6364 35 -     22415 attagttagattagtaactggttgaacaactgtaa
+i HLcriGam1.PVKD010017931            C 0 N 0
+s nanGal1.KL199246                      134572 35 -   6326310 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i nanGal1.KL199246                   C 0 N 0
+s HLrhiPru1.VZQC01012994               1308007 35 +   1809147 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLrhiPru1.VZQC01012994             C 0 N 0
+s HLzapHud1.PVHP010002529                54042 35 -     88772 attagttagtttagtaactggttgaacaactgtaa
+i HLzapHud1.PVHP010002529            C 0 N 0
+s HLallBul1.PVKW010025784                27008 35 +     30388 attagttaatttagtaactggttgaacaactgtaa
+i HLallBul1.PVKW010025784            C 0 N 0
+s jacJac1.JH725511                     9927766 35 -  12829143 attagttagtttagtaactggttgaacaactgtaa
+i jacJac1.JH725511                   C 0 N 0
+s HLcasCan3.HiC_scaffold_20           46557194 35 - 155650876 ATTAGTTAGATGAGTAACTGGTTGAACAACTGTAA
+i HLcasCan3.HiC_scaffold_20          C 0 N 0
+s HLperLonPac1.RJWR010002841             55402 35 +     92347 attagttagattagtaactggttgaacaactgtaa
+i HLperLonPac1.RJWR010002841         C 0 N 0
+s dipOrd2.NW_012267299v1               1910099 35 -   9551901 attagttagattagtaactggttgaacaactgtaa
+i dipOrd2.NW_012267299v1             C 0 N 0
+s HLdipSte1.PVHN010017547                24408 35 +     35866 attagttagattagtaactggttgaacaactgtaa
+i HLdipSte1.PVHN010017547            C 0 N 0
+s HLpedCap1.VMDO01028568                  8875 35 +     23753 aTTACTtagattagtaactggttgaacaactgtaa
+i HLpedCap1.VMDO01028568             C 0 N 0
+s HLcteGun1.PVKB01000351                370630 35 -    816684 gtttgttagattagtaactggttgaacaactgtaa
+i HLcteGun1.PVKB01000351             C 0 N 0
+s HLhysCri1.PVJO010016512                28391 35 +     41771 gttagttagattagtaaccggttgaacaactgtaa
+i HLhysCri1.PVJO010016512            C 0 N 0
+s HLdolPat1.PVJX010008107                47774 35 -     67327 ATTAGTTAAATTAGTaactggttgaacaactgtaa
+i HLdolPat1.PVJX010008107            C 0 N 0
+s chiLan1.JH721906                    10486808 35 -  19132341 attagttaaattagtaactggttgaacaactgtaa
+i chiLan1.JH721906                   C 0 N 0
+s HLcteSoc1.PVKA01000131                114599 35 +    258702 attagttaaattagtaactggttgaacaactgtaa
+i HLcteSoc1.PVKA01000131             C 0 N 0
+s octDeg1.JH651516                     7207019 35 -  41204401 attagttaaattagtaactggttgaacaactgtaa
+i octDeg1.JH651516                   C 0 N 0
+s HLdinBra1.PVLD010000573                38688 35 +    268741 attagttaaattagtaactggttgaacaactgtaa
+i HLdinBra1.PVLD010000573            C 0 N 0
+s HLmyoCoy1.PVJA010016019                25934 35 +     44161 attagttaaattagtaactggttgaacaactgtaa
+i HLmyoCoy1.PVJA010016019            C 0 N 0
+s HLcavTsc1.PVKK010016082                22012 35 -     46349 aTTAGTTAAATTAGTaactggttgaacaactgtaa
+i HLcavTsc1.PVKK010016082            C 0 N 0
+s cavPor3.scaffold_29                 24323038 35 -  26790417 attagttaaattagtaactggttgaacaactgtaa
+i cavPor3.scaffold_29                C 0 N 0
+s cavApe1.AVPZ01000222v1              24309241 35 -  26775304 ATTAGTTAAATTAGTAACTGGTTGAACAACTGTAA
+i cavApe1.AVPZ01000222v1             C 0 N 0
+s HLhydHyd1.PVLA01009312                 21481 35 +     76917 attagttaaattagtaactggttgaacaactgtaa
+i HLhydHyd1.PVLA01009312             C 0 N 0
+s HLdasPun1.RJWM01028510                 23499 35 +     24611 attagttaaattagtaactggttgaacaactgtaa
+i HLdasPun1.RJWM01028510             C 0 N 0
+s HLereDor1.ML655408                   3338662 35 +  11930728 aTTAGTTAAATTAGTaactggttgaacaactgtaa
+i HLereDor1.ML655408                 C 0 N 0
+s HLthrSwi1.PVIC010025284                22434 35 -     25469 attagttagattagtaactggttgaacaactgtaa
+i HLthrSwi1.PVIC010025284            C 0 N 0
+s HLpetTyp1.PVIR01112268                  1314 35 -      2062 attagttagattagtaactgtttgaacaactgtaa
+i HLpetTyp1.PVIR01112268             C 0 N 0
+s hetGla2.JH602128                      272127 35 -  10543522 attagttagattagtaactggttgaacaactgtaa
+i hetGla2.JH602128                   C 0 N 0
+s HLfukDam2.JAAHWF010000001           44646828 35 +  73237234 aTTagttagattagtaactggttgaacaactgtaa
+i HLfukDam2.JAAHWF010000001          C 0 N 0
+s HLaplRuf1.PVKS010003634                72081 35 +    101538 gttagttagattagtaactggttgaacaactgtaa
+i HLaplRuf1.PVKS010003634            C 0 N 0
+s HLsciVul1.LR738616                  49317822 35 - 173029059 gttagttagattagtaactggttgaacaactgtaa
+i HLsciVul1.LR738616                 C 0 N 0
+s HLsciCar1.LR738595                  48269822 35 + 162265839 gttagttagattagtaactggttgaacaactgtaa
+i HLsciCar1.LR738595                 C 0 N 0
+s HLcynGun1.WBRW01001473                226474 35 -    863380 gttagttagattagtaactggttgaacaactgtaa
+i HLcynGun1.WBRW01001473             C 0 N 0
+s HLspeDau1.KZ294260                   2053970 35 -   2447456 gttagttagattagtaactggttgaacaactgtaa
+i HLspeDau1.KZ294260                 C 0 N 0
+s speTri2.JH393290                    13468280 35 -  22095427 gttagttagattagtaactggttgaacaactgtaa
+i speTri2.JH393290                   C 0 N 0
+s HLmarMon2.WJEC01007965               1165378 35 +   2022869 gttagttagattagtaactggttgaacaactgtaa
+i HLmarMon2.WJEC01007965             C 0 N 0
+s HLmarMon1.CABDUW010000065            2318615 35 +   2852249 gttagttagattagtaactggttgaacaactgtaa
+i HLmarMon1.CABDUW010000065          C 0 N 0
+s HLmarVan1.ML555033                    728660 35 -   1528786 gttagttagattagtaactggttgaacaactgtaa
+i HLmarVan1.ML555033                 C 0 N 0
+s HLmarMar1.CZRN01000047              12380858 35 -  15836824 gttagttagattagtaactggttgaacaactgtaa
+i HLmarMar1.CZRN01000047             C 0 N 0
+s HLmarHim1.RAQP01000357                469682 35 -   1768628 gttagttagattagtaactggttgaacaactgtaa
+i HLmarHim1.RAQP01000357             C 0 N 0
+s HLmarFla1.ML561899                   5572147 35 -   8989498 gttagttagattagtaactggttgaacaactgtaa
+i HLmarFla1.ML561899                 C 0 N 0
+s HLxerIna1.PVHX01000123                140913 35 +    422399 gttagttagattagtaactggttgaacaactgtaa
+i HLxerIna1.PVHX01000123             C 0 N 0
+s HLmusAve1.PVJB01031290                 18630 35 -     22952 attagttagattagtaactggttgaacaactgtaa
+i HLmusAve1.PVJB01031290             C 0 N 0
+s HLgliGli1.PVJS01032098                 10424 35 +     22986 attagttagcttagtaactggttgaacaactgtaa
+i HLgliGli1.PVJS01032098             C 0 N 0
+s HLgraMur1.PVLC010045629                 3272 35 +     11642 attagttagattagtaactggttgaacaactgtaa
+i HLgraMur1.PVLC010045629            C 0 N 0
+s HLlepTim1.CM019679                  70608542 35 +  84088265 cttagttagattagtaactggttgaacaactgtaa
+i HLlepTim1.CM019679                 C 0 N 0
+s HLlepAme1.PVJM010004235                16362 35 -     63869 cttagttagattagtaactggttgaacaactgtaa
+i HLlepAme1.PVJM010004235            C 0 N 0
+s HLsylBac1.HiC_scaffold_24           41912784 35 -  85476755 CTTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLsylBac1.HiC_scaffold_24          C 0 N 0
+s HLoryCunCun4.CM023782               82998066 35 - 100884942 cttagttagattagtaactggttgaacaactgtaa
+i HLoryCunCun4.CM023782              C 0 N 0
+s HLoryCun3.VIYN01006879                561402 35 -   2556830 atttgttagattagtaactggttgaacaactgtaa
+i HLoryCun3.VIYN01006879             C 0 N 0
+s oryCun2.chr11                       75636050 35 +  87554214 cttagttagattagtaactggttgaacaactgtaa
+i oryCun2.chr11                      C 0 N 0
+s ochPri3.JH802077                    28493767 35 +  35549867 attagttagattagtaactggttgaacaactgtaa
+i ochPri3.JH802077                   C 0 N 0
+s tupBel1.scaffold_5942.1-185408        182855 35 +    185408 attagttagattagtaactggttgaacaactgtaa
+i tupBel1.scaffold_5942.1-185408     C 0 N 0
+s tupChi1.KB364984                     1782193 35 +   1867160 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i tupChi1.KB364984                   C 0 N 0
+s HLammLer1.NIVO01020023                 47231 35 +    480071 attagttagattagtaactggttgaacaactgtaa
+i HLammLer1.NIVO01020023             C 0 N 0
+s HLcapHir2.CM004581                  52130731 35 -  71784255 attagttagattagtaactggttgaacaactgtaa
+i HLcapHir2.CM004581                 C 0 N 0
+s HLcapAeg1.HG918543                   1775171 35 -   2224194 attagttagattagtaactggttgaacaactgtaa
+i HLcapAeg1.HG918543                 C 0 N 0
+s HLcapIbe1.SJYO01037955              45782169 35 -  61905114 attagttagattagtaactggttgaacaactgtaa
+i HLcapIbe1.SJYO01037955             C 0 N 0
+s HLcapSib1.NIYN02061382              19769039 35 -  35409413 attagttagattagtaactggttgaacaactgtaa
+i HLcapSib1.NIYN02061382             C 0 N 0
+s HLoviNivLyd1.CAFBRR010000194         2115487 35 -   5442478 GTTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLoviNivLyd1.CAFBRR010000194       C 0 N 0
+s HLoviCan2.PVIS010002359               132637 35 -    156524 gttagttagattagtaactggttgaacaactgtaa
+i HLoviCan2.PVIS010002359            C 0 N 0
+s HLhipEqu1.JAEFBM010000001           11606680 35 +  24238991 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLhipEqu1.JAEFBM010000001          C 0 N 0
+s HLhipNig1.VHQK01014926               6160638 35 -   9294005 attagttagattagtaactggttgaacaactgtaa
+i HLhipNig1.VHQK01014926             C 0 N 0
+s HLoryGaz1.RAWW01005522               1557132 35 +   4090420 attagttagattagtaactggttgaacaactgtaa
+i HLoryGaz1.RAWW01005522             C 0 N 0
+s HLoryDam1.HiC_scaffold_20           51669511 35 +  71114058 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLoryDam1.HiC_scaffold_20          C 0 N 0
+s HLbeaHun1.PVKQ01002358                109356 35 +    144693 attagttagattagtaactggttgaacaactgtaa
+i HLbeaHun1.PVKQ01002358             C 0 N 0
+s HLdamLun1.SJXP01000922                 28620 35 -   1008488 attagttagattagtaactggttgaacaactgtaa
+i HLdamLun1.SJXP01000922             C 0 N 0
+s HLconTau2.HiC_scaffold_19           50772577 35 -  70036254 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLconTau2.HiC_scaffold_19          C 0 N 0
+s panHod1.KE113901                     1308431 35 +   2211123 attagttagattagtaactggttgaacaactgtaa
+i panHod1.KE113901                   C 0 N 0
+s HLoreAme1.WJNR01001674              49967735 35 + 112874127 attagttagattagtaactggttgaacaactgtaa
+i HLoreAme1.WJNR01001674             C 0 N 0
+s HLoviCan1.CP011901                  52125159 35 -  71803284 gttagttagnttagtaactggttgaacaactgtaa
+i HLoviCan1.CP011901                 C 0 N 0
+s HLoviAri5.CM022034                  53543409 35 -  74003058 GTTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLoviAri5.CM022034                 C 0 N 0
+s HLhemHyl1.PVJR01024532                  9854 35 +     32928 attagttagattagtaactggttgaacaactgtaa
+i HLhemHyl1.PVJR01024532             C 0 N 0
+s HLoviOri1.CM025429                  52319133 35 -  72427115 gttagttagattagtaactggttgaacaactgtaa
+i HLoviOri1.CM025429                 C 0 N 0
+s HLkobLecLec1.JACEGT010015136         3249764 35 +   3640150 attagttagattagtaactggttgaacaactgtaa
+i HLkobLecLec1.JACEGT010015136       C 0 N 0
+s HLkobEll1.SJYR01000718                534478 35 +    713616 attagttagattagtaactggttgaacaactgtaa
+i HLkobEll1.SJYR01000718             C 0 N 0
+s HLredRed1.SJYQ01094372                572029 35 -    905953 attagttagattagtaactggttgaacaactgtaa
+i HLredRed1.SJYQ01094372             C 0 N 0
+s HLmadKir1.SJYC01138116                 10038 35 -     16810 attagttagattagtaactggttgaacaactgtaa
+i HLmadKir1.SJYC01138116             C 0 N 0
+s HLrapCam1.SJYW01043262                266172 35 -    729642 attagttagattagtaactggttgaacaactgtaa
+i HLrapCam1.SJYW01043262             C 0 N 0
+s HLproPrz1.SJYF01001465               4802991 35 +   5434419 attagttagattagtaactggttgaacaactgtaa
+i HLproPrz1.SJYF01001465             C 0 N 0
+s HLnanGra1.SJYD01053495                242668 35 -    352517 attagttagattagtaactggttgaacaactgtaa
+i HLnanGra1.SJYD01053495             C 0 N 0
+s HLeudTho1.SJYE01003597               1223858 35 +   2697633 attagttagattagtaactggttgaacaactgtaa
+i HLeudTho1.SJYE01003597             C 0 N 0
+s HLsaiTat1.PVIK010060563                 8365 35 +     10031 attagttagattagtaactggtagaacaactgtaa
+i HLsaiTat1.PVIK010060563            C 0 N 0
+s HLantMar1.SJYB01000894                237911 35 +   2084318 attagttagattagtaactggttgaacaactgtaa
+i HLantMar1.SJYB01000894             C 0 N 0
+s HLlitWal1.SJYG01000073               8331233 35 +  10975252 attagttagattagtaactggttgaacaactgtaa
+i HLlitWal1.SJYG01000073             C 0 N 0
+s HLphiMax1.SJYS01008928                667392 35 -    998543 attagttagattagtaactggttgaacaactgtaa
+i HLphiMax1.SJYS01008928             C 0 N 0
+s HLcepHar1.SJYT01020336                306069 35 +    351285 attatttagattagtaactggttgaaaaactgtaa
+i HLcepHar1.SJYT01020336             C 0 N 0
+s HLsylGri1.SJYH01005220                613634 35 -   1137398 attagttagattagtaactggttgaacaactgtaa
+i HLsylGri1.SJYH01005220             C 0 N 0
+s HLneoPyg1.SJYV01026409               1165486 35 -   2256214 ATTagttagatgagtaactggttgaacaactgtaa
+i HLneoPyg1.SJYV01026409             C 0 N 0
+s HLoreOre1.SJYX01023611                348243 35 -    360332 attagttagattagtaactggttgaacaactgtaa
+i HLoreOre1.SJYX01023611             C 0 N 0
+s HLneoMos1.SJYA01002726               4263367 35 -   5403324 attagttagattagtaactggttgaacaactgtaa
+i HLneoMos1.SJYA01002726             C 0 N 0
+s HLaepMel1.SJXQ01004910                337096 35 -    776529 attagttagattagtaactggttgaacaactgtaa
+i HLaepMel1.SJXQ01004910             C 0 N 0
+s HLtraImb1.SJYM01002173               4043094 35 -   8002087 gttagttagattagcaactggttgaacaactgtaa
+i HLtraImb1.SJYM01002173             C 0 N 0
+s HLtraScr1.SJXY01000219               2124613 35 -   3292334 attagttagattagtaactggttgaacaactgtaa
+i HLtraScr1.SJXY01000219             C 0 N 0
+s HLtraStr1.SJYU01004989                208156 35 -   1112536 gttagttagattagcaactggttgaacaactgtaa
+i HLtraStr1.SJYU01004989             C 0 N 0
+s HLbubBub2.CM009858                  52502537 35 -  71842292 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLbubBub2.CM009858                 C 0 N 0
+s HLsynCaf1.CABVSG010000015           52518514 35 +  71999969 attagttagattagtaactggttgaacaactgtaa
+i HLsynCaf1.CABVSG010000015          C 0 N 0
+s bisBis1.KN265043v1                   3987075 35 -   5203054 attaggtagattagtaactggttgaacaactgtaa
+i bisBis1.KN265043v1                 C 0 N 0
+s HLbosGau1.CM024454                  56874133 35 +  71071162 attaggtagattagtaactggttgaacaactgtaa
+i HLbosGau1.CM024454                 C 0 N 0
+s HLbosFro1.RBVW01000001               1930956 35 -   6540552 attaggtagattagtaactggttgaacaactgtaa
+i HLbosFro1.RBVW01000001             C 0 N 0
+s HLbosInd2.CM009510                  52448282 35 -  72034351 attaggtagattagtaactggttgaacaactgtaa
+i HLbosInd2.CM009510                 C 0 N 0
+s bosTau9.chr20                       52390164 35 -  71974595 ATTAGGTAGATTAGTAACTGGTTGAACAACTGTAA
+i bosTau9.chr20                      C 0 N 0
+s HLbosMut2.VBQZ03000006              14791293 35 -  43008087 attaggtagattagtaactggttgaacaactgtaa
+i HLbosMut2.VBQZ03000006             C 0 N 0
+s HLmosMos1.PVHU020000026              9699778 35 +  10170294 gttagttaggctcgtaactggttgaacaactgtaa
+i HLmosMos1.PVHU020000026            C 0 N 0
+s HLmosBer1.SGQJ01001384                792976 35 +   4429931 gttagttaggctcgtaactggttgaacaactgtaa
+i HLmosBer1.SGQJ01001384             C 0 N 0
+s HLmosChr1.SPDY01013425                115472 35 +    183241 gttagttaggctcgtaactggttgaacaactgtaa
+i HLmosChr1.SPDY01013425             C 0 N 0
+s HLranTarGra2.JACGUM010000050        11434287 35 -  17989797 attagttagatgagtaactggttgaacaactgtaa
+i HLranTarGra2.JACGUM010000050       C 0 N 0
+s HLalcAlc1.ML664767                   3461105 35 +  11793986 attagttagatgagtaactggttgaacaactgtaa
+i HLalcAlc1.ML664767                 C 0 N 0
+s HLodoHem1.RCHL01014010                141611 35 -    754593 attagttagatgagtaactggttgaacaactgtaa
+i HLodoHem1.RCHL01014010             C 0 N 0
+s HLodoVir1.KZ104665                    143530 35 -    762948 aTTagttagatgagtaactggttgaacaactgtaa
+i HLodoVir1.KZ104665                 C 0 N 0
+s HLodoVir2.HiC_scaffold_21           46381676 35 -  64056819 ATTAGTTAGATGAGTAACTGGTTGAACAACTGTAA
+i HLodoVir2.HiC_scaffold_21          C 0 N 0
+s HLodoVir3.JAAVWD010002120            3552166 35 +   8120680 attagttagatgagtaactggttgaacaactgtaa
+i HLodoVir3.JAAVWD010002120          C 0 N 0
+s HLelaDav1.JRFZ01109575               4334740 35 +   7681584 aTTagttagatgagtaactggttgaacaactgtaa
+i HLelaDav1.JRFZ01109575             C 0 N 0
+s HLranTar1.PVIN010000916               177211 35 -    260005 attagttagatgagtaactggttgaacaactgtaa
+i HLranTar1.PVIN010000916            C 0 N 0
+s HLcapPyg1.SNSB01003446                880864 35 -   4607867 attagttagatgagtaactggttgaacaactgtaa
+i HLcapPyg1.SNSB01003446             C 0 N 0
+s HLhydIne1.SPDZ01000995               3564641 35 -   6326348 attagttagatgagtaactggttgaacaactgtaa
+i HLhydIne1.SPDZ01000995             C 0 N 0
+s HLmunRee1.CM018491                  48818024 35 +  67481983 attagttagatgagtaactggttgaacaactgtaa
+i HLmunRee1.CM018491                 C 0 N 0
+s HLmunMun1.CM018502                 456229120 35 + 682452208 attagttagatgagtaactggttgaacaactgtaa
+i HLmunMun1.CM018502                 C 0 N 0
+s HLmunCri1.SJXS01012318                526522 35 -   1308090 attagttagatgagtaactggttgaacaactgtaa
+i HLmunCri1.SJXS01012318             C 0 N 0
+s HLcerHanYar1.CM021216               48974510 35 -  78686896 attagttagatgagtaactggttgaacaactgtaa
+i HLcerHanYar1.CM021216              C 0 N 0
+s HLcerEla1.CM008032                  70488899 35 -  96537449 attagttagatgagtaactggttgaacaactgtaa
+i HLcerEla1.CM008032                 C 0 N 0
+s HLprzAlb1.SJXR01000574               1155911 35 +   5015088 attagttagatgagtaactggttgaacaactgtaa
+i HLprzAlb1.SJXR01000574             C 0 N 0
+s HLaxiPor1.QQTR01050349              19229943 35 -  31507274 attagttagatgagtaactggttgaacaactgtaa
+i HLaxiPor1.QQTR01050349             C 0 N 0
+s HLantAme1.ML661338                  31969239 35 -  36238220 attagttagatgagtaactggttgaacaactgtaa
+i HLantAme1.ML661338                 C 0 N 0
+s HLgirCam1.SJXV01011683               2194037 35 +   6260702 attagttagattagtaactggttgaacaactgtaa
+i HLgirCam1.SJXV01011683             C 0 N 0
+s HLgirTip1.LVKQ01S004972               427886 35 +    613715 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLgirTip1.LVKQ01S004972            C 0 N 0
+s HLgirCam2.HiC_scaffold_9            88126849 35 - 153431510 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLgirCam2.HiC_scaffold_9           C 0 N 0
+s HLokaJoh2.HiC_scaffold_7            44894323 35 + 118624614 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLokaJoh2.HiC_scaffold_7           C 0 N 0
+s HLtraKan1.SJXW01025940                177280 35 -    184844 attagttagattagtaactggttgaacaactgtaa
+i HLtraKan1.SJXW01025940             C 0 N 0
+s HLtraJav1.PVHZ020000042             15554413 35 +  31898993 attagttagattagtaactggttgaacaactgtaa
+i HLtraJav1.PVHZ020000042            C 0 N 0
+s HLplaMin1.RJWK010016701                30299 35 -     35067 attagttagattagtaactggttgaacaactgtaa
+i HLplaMin1.RJWK010016701            C 0 N 0
+s orcOrc1.NW_004438483v1               6306315 35 +   9539618 attagttagattagtaactggttgaacaactgtaa
+i orcOrc1.NW_004438483v1             C 0 N 0
+s HLlagObl1.ML064992                  14235169 35 -  85097270 attagttagattagtaactggttgaacaactgtaa
+i HLlagObl1.ML064992                 C 0 N 0
+s HLgloMel1.ML658778                   5386052 35 +  42574915 attagttagattagtaactggttgaacaactgtaa
+i HLgloMel1.ML658778                 C 0 N 0
+s HLsouChi1.RWJT01005720               3998090 35 -  65737249 attagttagattagtaactggttgaacaactgtaa
+i HLsouChi1.RWJT01005720             C 0 N 0
+s HLturAdu2.HiC_scaffold_20           47807528 35 - 174279832 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLturAdu2.HiC_scaffold_20          C 0 N 0
+s HLturAdu1.NCQN01000119                314690 35 -   2761653 attagttagattagtaactggttgaacaactgtaa
+i HLturAdu1.NCQN01000119             C 0 N 0
+s HLturTru4.CM022276                  46416994 35 + 171421769 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLturTru4.CM022276                 C 0 N 0
+s turTru2.JH475853                        7768 35 -    166318 attagttagattagtaactggttgaacaactgtaa
+i turTru2.JH475853                   C 0 N 0
+s HLphoSin1.CM018158                  47423419 35 - 174291665 attagttagattagtaactggttgaacaactgtaa
+i HLphoSin1.CM018158                 C 0 N 0
+s HLturTru3.MRVK01001658              20754615 35 -  96776607 attagttagattagtaactggttgaacaactgtaa
+i HLturTru3.MRVK01001658             C 0 N 0
+s HLpepEle1.HiC_scaffold_5            43771589 35 - 160811402 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLpepEle1.HiC_scaffold_5           C 0 N 0
+s HLdelLeu2.ML702081                  20169347 35 -  72509879 attagttagattagtaactggttgaacaactgtaa
+i HLdelLeu2.ML702081                 C 0 N 0
+s HLphoPho1.RJWQ010012743                 5919 35 -     59098 attagttagattagtaactggttgaacaactgtaa
+i HLphoPho1.RJWQ010012743            C 0 N 0
+s HLneoAsi1.KZ688285                   4181918 35 -   7836908 attagttagattagtaactggttgaacaactgtaa
+i HLneoAsi1.KZ688285                 C 0 N 0
+s HLphoPho2.HiC_scaffold_6596             4802 35 -      6633 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLphoPho2.HiC_scaffold_6596        C 0 N 0
+s HLmonMon1.SIHG01006954              47037781 35 + 170226758 attagttagattagtaactggttgaacaactgtaa
+i HLmonMon1.SIHG01006954             C 0 N 0
+s lipVex1.KE558475                     1401463 35 +   3070146 attagttagattagtaactggttgaacaactgtaa
+i lipVex1.KE558475                   C 0 N 0
+s HLlniGeo1.RJWO010056304                 6205 35 -      9676 attagttagattagtaactggttgaacaactgtaa
+i HLlniGeo1.RJWO010056304            C 0 N 0
+s HLponBla1.PGGH01383710                  1080 35 +      2818 attagttagattagtaactggttgaacaactgtaa
+i HLponBla1.PGGH01383710             C 0 N 0
+s HLmesBid1.PVJJ010057975                 6935 35 -      8762 attagttagattagtaactggttgaacaactgtaa
+i HLmesBid1.PVJJ010057975            C 0 N 0
+s HLzipCav1.RJWS010312433                  349 35 +      1624 attagttagattagtaactggttgaacaactgtaa
+i HLzipCav1.RJWS010312433            C 0 N 0
+s phyCat1.KI402679                      283778 35 -    538519 attagttagattagtaactggttgaacaactgtaa
+i phyCat1.KI402679                   C 0 N 0
+s HLphyCat2.CM014792                  63415238 35 + 161983147 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLphyCat2.CM014792                 C 0 N 0
+s HLkogBre1.RJWL010053694                 4866 35 -     11982 attagttagattagtaactggttgaacaactgtaa
+i HLkogBre1.RJWL010053694            C 0 N 0
+s balAcu1.KI537568                     4646600 35 -  21595717 attagttagattagtaactggttgaacaactgtaa
+i balAcu1.KI537568                   C 0 N 0
+s HLbalBon1.DF408623                     37736 35 +     47217 attagttagattagtaactggttgaacaactgtaa
+i HLbalBon1.DF408623                 C 0 N 0
+s HLbalEde1.HiC_scaffold_22           41768491 35 + 158067699 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLbalEde1.HiC_scaffold_22          C 0 N 0
+s HLbalMus1.VNFC01000003              45612991 35 + 171879439 attagttagattagtaactggttgaacaactgtaa
+i HLbalMus1.VNFC01000003             C 0 N 0
+s HLescRob1.RJWN010010840                65729 35 +     71741 attagttagattagtaactggttgaacaactgtaa
+i HLescRob1.RJWN010010840            C 0 N 0
+s HLmegNov1.RYZJ01000975                788727 35 +   3213567 attagttagattagtaactggttgaacaactgtaa
+i HLmegNov1.RYZJ01000975             C 0 N 0
+s HLbalPhy1.SGJD01007815                225452 35 +    818963 attagttagattagtaactggttgaacaactgtaa
+i HLbalPhy1.SGJD01007815             C 0 N 0
+s HLeubJap1.RJWP010000660                38563 35 +    160287 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLeubJap1.RJWP010000660            C 0 N 0
+s HLbalMys1.scaffold_197                855528 35 -   1730979 nttagttagattagtaactggttgaacaactgtaa
+i HLbalMys1.scaffold_197             C 0 N 0
+s HLeubGla1.HiC_scaffold_14           42690004 35 + 157489382 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLeubGla1.HiC_scaffold_14          C 0 N 0
+s HLhipAmp3.PVJP02910199                940835 35 +   3078281 attagttagattagtaactggttgaacaactgtaa
+i HLhipAmp3.PVJP02910199             C 0 N 0
+s HLhipAmp1.NKPW01011025                 30972 35 -     83226 attagttagattagtaactggttgaacaactgtaa
+i HLhipAmp1.NKPW01011025             C 0 N 0
+s HLcatWag1.PVHT020000166             10482673 35 -  21801461 gttagttagattagtaactggttgaacaactgtaa
+i HLcatWag1.PVHT020000166            C 0 N 0
+s susScr11.chr16                      38580377 35 +  79944280 gttagttagattagtaactggttgaacaactgtaa
+i susScr11.chr16                     C 0 N 0
+s HLcamFer3.CM020770                  39206421 35 + 116890316 ATTAGTGAGATTAGTAACTGGTTGAACAACTGTAA
+i HLcamFer3.CM020770                 C 0 N 0
+s HLcamDro2.CM016629                  40268225 35 + 120724560 attagtgagattagtaactggttgaacaactgtaa
+i HLcamDro2.CM016629                 C 0 N 0
+s HLcamBac1.KN277472                   9319130 35 -  12076045 attagtgagattagtaactggttgaacaactgtaa
+i HLcamBac1.KN277472                 C 0 N 0
+s HLlamGla1.HiC_scaffold_1            36491130 35 - 102007837 ATTAGTGAGATTAGTAACTGGTTGAACAACTGTAA
+i HLlamGla1.HiC_scaffold_1           C 0 N 0
+s HLlamGuaCac1.MU054843                9228306 35 +  18854671 attagtgagattagtaactggttgaacaactgtaa
+i HLlamGuaCac1.MU054843              C 0 N 0
+s HLlamGlaCha1.MU049411               13719678 35 -  16767056 attagtgagattagtaactggttgaacaactgtaa
+i HLlamGlaCha1.MU049411              C 0 N 0
+s HLvicPacHua3.KN270144               12087028 35 +  26844571 attagtgagattagtaactggttgaacaactgtaa
+i HLvicPacHua3.KN270144              C 0 N 0
+s HLvicVicMen1.MU059523               15699677 35 +  20435657 attagtgagattagtaactggttgaacaactgtaa
+i HLvicVicMen1.MU059523              C 0 N 0
+s vicPac2.KB632491                     5818138 35 +   9430056 attagtgagattagtaactggttgaacaactgtaa
+i vicPac2.KB632491                   C 0 N 0
+s HLtapTer1.PVID01014924                 17139 35 -     26518 attagttagattagtaactggttgaacaactgtaa
+i HLtapTer1.PVID01014924             C 0 N 0
+s HLtapInd1.PVIE01000495                172057 35 -    677613 attagttagattagtaactggttgaacaactgtaa
+i HLtapInd1.PVIE01000495             C 0 N 0
+s HLtapInd2.HiC_scaffold_7            41572794 35 - 137252735 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLtapInd2.HiC_scaffold_7           C 0 N 0
+s HLrhiUni1.HiC_scaffold_32           42134397 35 -  53282190 ATTAGTTAAATTAGTAACCGGTTGAACAACTGTAA
+i HLrhiUni1.HiC_scaffold_32          C 0 N 0
+s HLdicSum1.PEKH010001252              1101223 35 -   1623744 attagttaaattagtaaccggttgaacaactgtaa
+i HLdicSum1.PEKH010001252            C 0 N 0
+s HLdicBic1.PVJY021981047             45304602 35 +  55850693 attagttaaattagtaaccggttgaacaactgtaa
+i HLdicBic1.PVJY021981047            C 0 N 0
+s cerSim1.JH767731                    33309175 35 +  45735564 attagttaaattagtaaccggttgaacaactgtaa
+i cerSim1.JH767731                   C 0 N 0
+s HLcerSimCot1.PVLE01014795               2299 35 +     36338 attagttaaattagtaaccggttgaacaactgtaa
+i HLcerSimCot1.PVLE01014795          C 0 N 0
+s equPrz1.KK950060                      883417 35 +   1314572 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i equPrz1.KK950060                   C 0 N 0
+s equCab3.chr21                       45107202 35 -  58984458 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i equCab3.chr21                      C 0 N 0
+s HLequQuaBoe1.HiC_scaffold_9         42664416 35 - 116491370 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLequQuaBoe1.HiC_scaffold_9        C 0 N 0
+s HLequAsi1.JREZ01000696                340225 35 +    854715 attagttagattagtaactggttgaacaactgtaa
+i HLequAsi1.JREZ01000696             C 0 N 0
+s HLequAsiAsi2.PSZQ01006131           18376283 35 -  20655000 attagttagattagtaactggttgaacaactgtaa
+i HLequAsiAsi2.PSZQ01006131          C 0 N 0
+s HLspiGra1.PITA01002308                 37483 35 -    165370 attagctagattagtaactggttaaacaactgtaa
+i HLspiGra1.PITA01002308             C 0 N 0
+s HLailFul2.HiC_scaffold_3            41145268 35 - 148018152 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLailFul2.HiC_scaffold_3           C 0 N 0
+s HLmelCap1.PISX010004975                20331 35 +    113915 attagctagattagtaactggttgaacaactgtaa
+i HLmelCap1.PISX010004975            C 0 N 0
+s HLmarZib1.RDFD01000001              33357904 35 -  37060172 aTTagctagattagtaactggttgaacaactgtaa
+i HLmarZib1.RDFD01000001             C 0 N 0
+s HLgulGul1.CYRY02008887                628488 35 -   1016700 attagttagattagtaactggttgaacaactgtaa
+i HLgulGul1.CYRY02008887             C 0 N 0
+s HLpteBra2.HiC_scaffold_11           84872191 35 + 150955132 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLpteBra2.HiC_scaffold_11          C 0 N 0
+s HLpteBra1.PJEN01003883                136171 35 -    156544 attagctagattagtaactggttgaacaactgtaa
+i HLpteBra1.PJEN01003883             C 0 N 0
+s HLlonCan1.ML974373                   6495626 35 -  55223674 attagctagattagtaactggttgaacaactgtaa
+i HLlonCan1.ML974373                 C 0 N 0
+s HLlutLut1.LR738407                  90427840 35 + 165805745 attagctagattagtaactggttgaacaactgtaa
+i HLlutLut1.LR738407                 C 0 N 0
+s enhLutNer1.QQQE01000137v1            7633993 35 +   9220246 attagctagattagtaactggttgaacaactgtaa
+i enhLutNer1.QQQE01000137v1          C 0 N 0
+s enhLutKen1.chrUn_NW_019154134v1     10351732 35 +  17495879 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i enhLutKen1.chrUn_NW_019154134v1    C 0 N 0
+s HLneoVis1.FNWR01000017               6840185 35 -  13406898 attagctagattagtaactggttgaacaactgtaa
+i HLneoVis1.FNWR01000017             C 0 N 0
+s HLmusErm1.CM020570                  88646012 35 - 164385424 attagctagattagtaactggttgaacaactgtaa
+i HLmusErm1.CM020570                 C 0 N 0
+s HLmusPut1.CABPTA010001979            3634095 35 -  13700679 attagctagattagtaactggttgaacaactgtaa
+i HLmusPut1.CABPTA010001979          C 0 N 0
+s HLmusFur2.JAADYL010000042           39689170 35 -  49793060 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLmusFur2.JAADYL010000042          C 0 N 0
+s HLtaxTax1.ML102937                    102338 35 +    108709 attagctagattagtaactggttgaacaactgtaa
+i HLtaxTax1.ML102937                 C 0 N 0
+s HLpotFla1.HiC_scaffold_13           35084493 35 + 133187614 ATGAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLpotFla1.HiC_scaffold_13          C 0 N 0
+s HLnasNar1.HiC_scaffold_13           38541604 35 + 137770456 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLnasNar1.HiC_scaffold_13          C 0 N 0
+s HLbasSum1.HiC_scaffold_11           37082984 35 + 137929586 ACTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLbasSum1.HiC_scaffold_11          C 0 N 0
+s HLproLot1.HiC_scaffold_2169            10030 35 +     13862 ATTAGCTAGATTAGTAACTAGTTGAACAACTGTAA
+i HLproLot1.HiC_scaffold_2169        C 0 N 0
+s HLeriBar1.HiC_scaffold_1            35026915 35 + 136098761 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLeriBar1.HiC_scaffold_1           C 0 N 0
+s HLhalGry1.JAAXOB010000734             499746 35 -    552148 attagctagattagtaactggttgaacaactgtaa
+i HLhalGry1.JAAXOB010000734          C 0 N 0
+s HLphoVit1.ML169395                  10162835 35 -  73972568 aTTagctagattagtaactggttgaacaactgtaa
+i HLphoVit1.ML169395                 C 0 N 0
+s neoSch1.NW_018734388v1              35390318 35 +  43258702 attagctagattagtaactggttgaacaactgtaa
+i neoSch1.NW_018734388v1             C 0 N 0
+s lepWed1.KB714778                     1440175 35 +   2901701 attagctagattagtaactggttgaacaactgtaa
+i lepWed1.KB714778                   C 0 N 0
+s HLmirAng2.HiC_scaffold_2            36070976 35 + 139676048 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLmirAng2.HiC_scaffold_2           C 0 N 0
+s HLmirLeo1.JAAMPH010000044           35257026 35 +  75921071 attagctagattagtaactggttgaacaactgtaa
+i HLmirLeo1.JAAMPH010000044          C 0 N 0
+s odoRosDiv1.KB229273                  1531956 35 +   2499082 attagctagattagtaactggttgaacaactgtaa
+i odoRosDiv1.KB229273                C 0 N 0
+s HLodoRos1.HiC_scaffold_3           136839310 35 + 246337658 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLodoRos1.HiC_scaffold_3           C 0 N 0
+s HLcalUrs1.KZ836345                   7082297 35 +  11689456 attagctagattagtaactgtttgaagaactgtaa
+i HLcalUrs1.KZ836345                 C 0 N 0
+s HLarcGaz2.CAAAJK010005180           40737374 35 - 146532680 attagctagattagtaactgtttgaagaactgtaa
+i HLarcGaz2.CAAAJK010005180          C 0 N 0
+s HLzalCal1.CM019806                  45564597 35 + 155364843 attagctagattagtaactgtttgaagaactgtaa
+i HLzalCal1.CM019806                 C 0 N 0
+s HLeumJub1.ML137806                   8853402 35 -   9846290 attagctagattagtaactgtttgaagaactgtaa
+i HLeumJub1.ML137806                 C 0 N 0
+s HLailMel2.CM022821                  39378805 35 + 147627920 attagctagattagtaactggttgaacaactgtaa
+i HLailMel2.CM022821                 C 0 N 0
+s HLursThi1.WEIE01000009               9806752 35 +  52092311 attagctagattagtaactggttgaacaactgtaa
+i HLursThi1.WEIE01000009             C 0 N 0
+s HLursAme1.LZNR01000394                 65443 35 -    816920 attagctagattagtaactggttgaacaactgtaa
+i HLursAme1.LZNR01000394             C 0 N 0
+s HLursAme2.HiC_scaffold_27           44366964 35 +  87526939 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLursAme2.HiC_scaffold_27          C 0 N 0
+s HLursArc1.KZ986278                   9762463 35 -  52111521 attagctagattagtaactggttgaacaactgtaa
+i HLursArc1.KZ986278                 C 0 N 0
+s ursMar1.KK498597                    17623554 35 -  31278376 actagctagattagtaactggttgaacaactgtaa
+i ursMar1.KK498597                   C 0 N 0
+s HLvulVul1.NBDQ01000005              28393602 35 +  39765911 attagctagattagtaactggttgaacaactgtaa
+i HLvulVul1.NBDQ01000005             C 0 N 0
+s HLvulLag1.PISU010000631               122506 35 +    331773 attagctagattagtaactggttgaacaactgtac
+i HLvulLag1.PISU010000631            C 0 N 0
+s HLlycPic2.SIDF01000069               2146882 35 -   9916956 attagctagattagtaactggttgaacaactgtaa
+i HLlycPic2.SIDF01000069             C 0 N 0
+s HLlycPic3.HiC_scaffold_29           44144018 35 -  83306815 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLlycPic3.HiC_scaffold_29          C 0 N 0
+s canFam4.chr2                        45690805 35 +  84979418 attagctagattagtaactggttgaacaactgtaa
+i canFam4.chr2                       C 0 N 0
+s HLcanLupDin1.QKWQ01000243            6414411 35 -  44189516 attagctagattagtaactggttgaacaactgtaa
+i HLcanLupDin1.QKWQ01000243          C 0 N 0
+s canFam5.chr2                        44044573 35 +  82903020 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i canFam5.chr2                       C 0 N 0
+s HLaciJub2.QURD01000011              10360354 35 - 120246179 attagttagatgagtaactggtcgaacaactgtaa
+i HLaciJub2.QURD01000011             C 0 N 0
+s HLpumCon1.QAVW01000423             123407547 35 - 236829098 attagttagatgagtaactggtcgaacaactgtaa
+i HLpumCon1.QAVW01000423             C 0 N 0
+s HLpriBen1.BIMV01046766                167228 35 +    362131 attagttagatgagtaactggtcgaacaactgtaa
+i HLpriBen1.BIMV01046766             C 0 N 0
+s HLlynCan1.CM017329                 127768803 35 + 240012660 attagttagatgagtaactggtcgaacaactgtaa
+i HLlynCan1.CM017329                 C 0 N 0
+s HLlynPar1.CAAGRJ010019542             711084 35 -   1094085 attagttagatgagtaactggtcgaacaactgtaa
+i HLlynPar1.CAAGRJ010019542          C 0 N 0
+s HLpumYag1.JACEOH010000006           10534519 35 - 123000119 attagttagatgagtaactggtcgaacaactgtaa
+i HLpumYag1.JACEOH010000006          C 0 N 0
+s felCat9.chrA1                      129924054 35 + 242100913 ATTAGTTAGATGAGTAACTGGTCGAACAACTGTAA
+i felCat9.chrA1                      C 0 N 0
+s HLfelNig1.PISY01001059                  8875 35 -     76708 attagttagatgagtaactggtcgaacaactgtaa
+i HLfelNig1.PISY01001059             C 0 N 0
+s HLneoNeb1.HiC_scaffold_1           127696941 35 - 239539317 ATTAGTTAGATGAGTAACTGGTCGAACAACTGTAA
+i HLneoNeb1.HiC_scaffold_1           C 0 N 0
+s panTig1.KE721728                     6435438 35 -  32697773 attagttagatgagtaactggtcgaacaactgtaa
+i panTig1.KE721728                   C 0 N 0
+s HLpanPar1.KV860335                   7704449 35 +  13459999 attagttagatgagtaactggtcgaacaactgtaa
+i HLpanPar1.KV860335                 C 0 N 0
+s HLpanOnc1.PISV01012355                 29944 35 +     62443 attagttagatgagtaactggtcgaacaactgtaa
+i HLpanOnc1.PISV01012355             C 0 N 0
+s HLpanOnc2.HiC_scaffold_4           119862887 35 - 226183006 ATTAGTTAGATGAGTAACTGGTCGAACAACTGTAA
+i HLpanOnc2.HiC_scaffold_4           C 0 N 0
+s HLpanLeo1.CM018460                  39676234 35 - 150556863 attagttagatgagtaactggtcgaacaactgtaa
+i HLpanLeo1.CM018460                 C 0 N 0
+s HLparHer1.PITB01002889                 64728 35 +    139910 attaggtaaatgagtaactggttgaacaactgtaa
+i HLparHer1.PITB01002889             C 0 N 0
+s HLmunMug1.PISW01001376                282816 35 -    370675 attagttagatgagtaactggttgaacaactgtaa
+i HLmunMug1.PISW01001376             C 0 N 0
+s HLsurSur2.PITD01010238                  5693 35 +     61508 attggttagatgagtaactggttgaacaactgtaa
+i HLsurSur2.PITD01010238             C 0 N 0
+s HLsurSur1.CM016976                  41286963 35 + 147861781 attggttagatgagtaactggttgaacaactgtaa
+i HLsurSur1.CM016976                 C 0 N 0
+s HLhelPar1.PJEM01002427                 60629 35 -    233464 attagttagatgagtaactggttgaacaactgtaa
+i HLhelPar1.PJEM01002427             C 0 N 0
+s HLcryFer2.HiC_scaffold_14           39409580 35 + 144606739 ATCAGTTAGATGAGtaattggttgaacaactgtaa
+i HLcryFer2.HiC_scaffold_14          C 0 N 0
+s HLcroCro1.VOAJ01024674               1760766 35 -   3925314 aTTagttagatgagtaactggttgaacaactgtaa
+i HLcroCro1.VOAJ01024674             C 0 N 0
+s HLhyaHya1.PEQU01000233               1380782 35 +   2486963 attagttagatgagtaactggttgaacaactgtaa
+i HLhyaHya1.PEQU01000233             C 0 N 0
+s HLmanTri1.SOZM010020246                 2580 35 +     33553 attagttagattagtaactggttgaacaactgtaa
+i HLmanTri1.SOZM010020246            C 0 N 0
+s HLphaTri2.HiC_scaffold_1            45287655 35 -  92203919 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLphaTri2.HiC_scaffold_1           C 0 N 0
+s manPen1.KN012667                       73229 35 +     91605 attagttagattagtaactggttgaacaactgtaa
+i manPen1.KN012667                   C 0 N 0
+s HLmanPen2.VBRX01000718               2279839 35 +   3739080 attagttagattagtaactggttgaacaactgtaa
+i HLmanPen2.VBRX01000718             C 0 N 0
+s HLmanJav2.VALM01000182               4795249 35 -   8866754 attacttagattagtaactggttgaacaactgtaa
+i HLmanJav2.VALM01000182             C 0 N 0
+s HLmanJav1.JSZB01021187                 69619 35 +     88478 attacttagattagtaactggttgaacaactgtaa
+i HLmanJav1.JSZB01021187             C 0 N 0
+s HLmurAurFea1.PVJC01032031               9853 35 -     20197 attagttagattagtaactggttgaacaactgtaa
+i HLmurAurFea1.PVJC01032031          C 0 N 0
+s HLmyoSep1.HiC_scaffold_6            30207479 35 - 111393698 ATTAGTTAGATTAGTAACTGGTTGAATAACTGTAA
+i HLmyoSep1.HiC_scaffold_6           C 0 N 0
+s myoBra1.KE161240                     7334990 35 +  22122726 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i myoBra1.KE161240                   C 0 N 0
+s myoLuc2.GL429767                    16823946 35 -  64990205 attagttagattagtaactggttgaacaactgtaa
+i myoLuc2.GL429767                   C 0 N 0
+s HLmyoLuc1.HiC_scaffold_9            29129125 35 + 109499002 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLmyoLuc1.HiC_scaffold_9           C 0 N 0
+s myoDav1.KB106364                     7851623 35 -  14958651 attagttagattagtaactggttgaacaactgtaa
+i myoDav1.KB106364                   C 0 N 0
+s HLmyoMyo6.scaffold_m19_p_5          30565410 35 + 111266764 attagttagattagtaactggttgaacaactgtaa
+i HLmyoMyo6.scaffold_m19_p_5         C 0 N 0
+s HLnycHum2.VMDQ010002276                23266 35 -     72898 attagttagattagtaactggttgaagaactgtaa
+i HLnycHum2.VMDQ010002276            C 0 N 0
+s HLaeoCin1.JAAGEH010002531           29561475 35 -  81801090 attagttagattcgtaactggttgaagaactgtaa
+i HLaeoCin1.JAAGEH010002531          C 0 N 0
+s HLlasBor1.PVJN01007361                 15399 35 +     71954 attagttagattcgtaactggttgaagaactgtaa
+i HLlasBor1.PVJN01007361             C 0 N 0
+s eptFus1.JH977616                    13004627 35 +  37047529 attagttagattagtaactggttgaacaactgtaa
+i eptFus1.JH977616                   C 0 N 0
+s HLantPal1.VMDP01020653                 18114 35 +     24298 attagttagattagtaactggttgaacaactgtaa
+i HLantPal1.VMDP01020653             C 0 N 0
+s HLpipKuh2.scaffold_m20_p_4          26910163 35 +  91959428 attaactagatgagtaaccggttgaacaactgtaa
+i HLpipKuh2.scaffold_m20_p_4         C 0 N 0
+s HLpipPip1.PVIQ01001264                 86408 35 +    122573 attaactagatgagtaactggttgaacaactgtaa
+i HLpipPip1.PVIQ01001264             C 0 N 0
+s HLpipPip2.LR862360                  25446292 35 - 100176833 attaattagatgagtaactggttgaacaactgtaa
+i HLpipPip2.LR862360                 C 0 N 0
+s HLminSch1.PVJG01002564                121082 35 +    155510 attagttagattagcaactggttgaacaactgtaa
+i HLminSch1.PVJG01002564             C 0 N 0
+s HLminNat1.LDJU01000114               4058128 35 +   4456252 attagttagattagcaactggttgaacaactgtaa
+i HLminNat1.LDJU01000114             C 0 N 0
+s HLmolMol2.scaffold_m16_p_3          39420039 35 + 132399173 ATTAGTTAGACTAGTAACTGGTTAAACAACTGTAA
+i HLmolMol2.scaffold_m16_p_3         C 0 N 0
+s HLtadBra1.PVIG010009991                 8893 35 +     48987 aTTAGTTAGACTAGtaactggttgaacaactgtaa
+i HLtadBra1.PVIG010009991            C 0 N 0
+s HLmacCal1.VMDR010009179                16714 35 +     34194 attagttagattagtaactggttgaacaactgtaa
+i HLmacCal1.VMDR010009179            C 0 N 0
+s HLmicHir1.PVJI01000773                220413 35 -    226649 attcgttagattagtaactggttgaacaactgtaa
+i HLmicHir1.PVJI01000773             C 0 N 0
+s HLdesRot2.ScWXtkA_77                28772922 35 -  37914454 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLdesRot2.ScWXtkA_77               C 0 N 0
+s HLphyDis3.scaffold_m19_p_2          35190985 35 - 214384303 attagttagattagtaactggttgaacaactgtaa
+i HLphyDis3.scaffold_m19_p_2         C 0 N 0
+s HLtonSau1.PVIA01000125                515917 35 -    640007 attagttagattagtaactggttgaacaactgtaa
+i HLtonSau1.PVIA01000125             C 0 N 0
+s HLcarPer3.PVKM010000559                18653 35 +    102408 attagttagattagtaactggttgaacaactgtaa
+i HLcarPer3.PVKM010000559            C 0 N 0
+s HLstuHon1.VSFL01015270              35150483 35 -  42570294 attagttagattagtaaccggttgaacaactgtaa
+i HLstuHon1.VSFL01015270             C 0 N 0
+s HLartJam1.PVKR01011101                 29982 35 -     47912 attagttagattagtaactggttgaacaactgtaa
+i HLartJam1.PVKR01011101             C 0 N 0
+s HLartJam2.VSFN01012266                417592 35 +   1354031 attagttagattagtaactggttgaacaactgtaa
+i HLartJam2.VSFN01012266             C 0 N 0
+s HLanoCau1.PVKU01000567                157466 35 +    449704 attcattagattagtaactggttgaacaactgtaa
+i HLanoCau1.PVKU01000567             C 0 N 0
+s HLlepYer1.Scaffold_289              14930939 35 +  41293275 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLlepYer1.Scaffold_289             C 0 N 0
+s HLmorBla1.PVJD01006021                 11926 35 +    105110 attgcttagattagtaactggttgaacaactgtaa
+i HLmorBla1.PVJD01006021             C 0 N 0
+s ptePar1.KE826875                        2463 35 -     27678 attacttagattagtaactggttgaacaactgtaa
+i ptePar1.KE826875                   C 0 N 0
+s HLnocLep1.PVIW01000159                533178 35 -    729407 attagttagattagtaactggttgaacaactgtaa
+i HLnocLep1.PVIW01000159             C 0 N 0
+s HLcynBra1.SSHV01005822                 65978 35 +    206906 attagttagattagtaactggttgaaaaactgtaa
+i HLcynBra1.SSHV01005822             C 0 N 0
+s HLmacSob1.PVKZ01000105                382483 35 +   1557461 attagttagattagtaactggttgaaaaactgtaa
+i HLmacSob1.PVKZ01000105             C 0 N 0
+s HLeidDup1.HiC_scaffold_1            27710196 35 - 100972108 ATTAGTTAGATTAGTAACTGGTTGAAAAACTGTAA
+i HLeidDup1.HiC_scaffold_1           C 0 N 0
+s HLeidHel2.HiC_scaffold_12           22919488 35 -  81966912 ATTAGTTAGATTAGTAACTGGTTGAAAAACTGTAA
+i HLeidHel2.HiC_scaffold_12          C 0 N 0
+s pteAle1.KB030401                     1512921 35 +   4195304 attagttagattagtaactggttgaaaaactgtaa
+i pteAle1.KB030401                   C 0 N 0
+s HLptePse1.BMBI01007426               1498323 35 -   1993314 attagttagattagtaactggttgaaaaactgtaa
+i HLptePse1.BMBI01007426             C 0 N 0
+s HLpteVam2.KN525898                   3102606 35 -   3632111 attagttagattagtaactggttgaaaaactgtaa
+i HLpteVam2.KN525898                 C 0 N 0
+s HLpteGig1.CACVBW010003980            6792394 35 +  22585437 attagttagattagtaactggttgaaaaactgtaa
+i HLpteGig1.CACVBW010003980          C 0 N 0
+s HLpteRuf1.HiC_scaffold_8            33431770 35 + 110476781 ATTAGTTAGATTAGTAACTGGTTGAAAAACTGTAA
+i HLpteRuf1.HiC_scaffold_8           C 0 N 0
+s HLeonSpe1.PUFA01000011               8512141 35 +  21714733 attagttagattagtaactggttgaaaaactgtaa
+i HLeonSpe1.PUFA01000011             C 0 N 0
+s HLmegLyr2.PVJL010011077                15524 35 +     45021 attagttagattaataactggttgaacaactgtaa
+i HLmegLyr2.PVJL010011077            C 0 N 0
+s HLcraTho1.PVKE010004291                32520 35 -     65696 attaggtagattagtaactggttgaacaactgtaa
+i HLcraTho1.PVKE010004291            C 0 N 0
+s HLrhiFer5.scaffold_m29_p_7          37768362 35 - 100617698 attagttagattagtaactggttgaacaactgtaa
+i HLrhiFer5.scaffold_m29_p_7         C 0 N 0
+s HLrhiSin1.LVEH01000016               3740016 35 +   8456346 attagttagattagtaactggttgaacaactgtaa
+i HLrhiSin1.LVEH01000016             C 0 N 0
+s HLhipGal1.PVLB01070812                  3610 35 -      3971 attagttagattagtaactggttgaacaactgtaa
+i HLhipGal1.PVLB01070812             C 0 N 0
+s HLhipArm1.JXIK01000123               3050751 35 +   3781309 attagttagattagtaactggttgaacaactgtaa
+i HLhipArm1.JXIK01000123             C 0 N 0
+s HLsolPar1.RJWH01000467                191304 35 +    767399 attagttagattaataactggttgaacaactgtaa
+i HLsolPar1.RJWH01000467             C 0 N 0
+s eriEur2.JH835351                     2601035  7 +   6227545 -----------------CTGGTTG-----------
+i eriEur2.JH835351                   C 0 N 0
+s sorAra2.JH798178                    11055028 35 +  23615395 gttccctagattagtaactggttgaacaactgtaa
+i sorAra2.JH798178                   C 0 N 0
+s HLuroGra1.PVHY01012020                 17812 31 -     45774 gc----tagattagtaactggctgcacaactgtaa
+i HLuroGra1.PVHY01012020             C 0 N 0
+s HLscaAqu1.PVIJ01000331                126884 31 -    313945 at----tagattagtaactggttgaacaactgtaa
+i HLscaAqu1.PVIJ01000331             C 0 N 0
+s HLtalOcc1.talOcc4_6                 80376718 30 + 139703181 A-----TTGATTAGTAACAGGTTGAACAACTGTAA
+i HLtalOcc1.talOcc4_6                C 0 N 0
+s conCri1.JH655884                    19235345 24 -  65339388 A-----TTA------AACTGGTAGAACAAGTGTAA
+i conCri1.JH655884                   C 0 N 0
+s HLmicTal1.PVJH01011621                 11824 35 -     68131 AATCCTtagattagtaactggttgagcaactgtaa
+i HLmicTal1.PVJH01011621             C 0 N 0
+s eleEdw1.JH947228                     6650565 35 -  13120090 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i eleEdw1.JH947228                   C 0 N 0
+s oryAfe1.JH863840                     8724190 35 -   9231259 attatttagattagtaactggttgaacaactgtaa
+i oryAfe1.JH863840                   C 0 N 0
+s chrAsi1.JH823616                     1064297 35 +   2419662 attagttagattagtaactggttgaacaactgtaa
+i chrAsi1.JH823616                   C 0 N 0
+s HLhetBru1.PVJQ01021083                  3156 35 -     47289 attagctagattagtaactggttgaacaactgtaa
+i HLhetBru1.PVJQ01021083             C 0 N 0
+s HLproCap3.PVIO02000545               6436440 35 +  12935535 attagctagattagtaactggttgaacaactgtaa
+i HLproCap3.PVIO02000545             C 0 N 0
+s HLdugDug1.BMBL01028420                  4268 35 +      9235 aTTagctagattagtaactggttgaacaactgtaa
+i HLdugDug1.BMBL01028420             C 0 N 0
+s triMan1.JH594680                    12727016 35 +  13652503 attagctagattagtaactggttgaacaactgtaa
+i triMan1.JH594680                   C 0 N 0
+s HLhydGig1.JACANZ010020167                294 35 -      3826 ATTagctagattagtaactggttgaacaactgtaa
+i HLhydGig1.JACANZ010020167          C 0 N 0
+s HLeleMax1.HiC_scaffold_7            56057220 35 + 206147042 ATTAGCTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLeleMax1.HiC_scaffold_7           C 0 N 0
+s HLloxAfr4.chr3                      62433087 35 - 205080690 ATTagctagattagtaactggttgaacaactgtaa
+i HLloxAfr4.chr3                     C 0 N 0
+s HLtamTet1.PVIF010099220                 2470 35 -      7038 attagttaaattagcaactggttgaacaactgtaa
+i HLtamTet1.PVIF010099220            C 0 N 0
+s HLchoHof3.HiC_scaffold_5            59307544 35 + 179318452 ATTAGTTAGATTAGTAACCGGTTGAACAACTGTAA
+i HLchoHof3.HiC_scaffold_5           C 0 N 0
+s HLchoDid2.NC_051317                 84969242 35 +  90811022 ATTAGTTAGATTAGTAACTGGTTGAACAACTGTAA
+i HLchoDid2.NC_051317                C 0 N 0
+s HLchoDid1.PVKG010251999                 1374 35 -      2775 attagttagattagtaactggttgaacaactgtaa
+i HLchoDid1.PVKG010251999            C 0 N 0
+s HLmyrTri1.PVIY010002472                14372 35 +    127325 attagttagattagcaactggttgaacaactgtaa
+i HLmyrTri1.PVIY010002472            C 0 N 0
+s dasNov3.JH568145                     3349290 35 +   5896070 attagttagattagtaactggttgaacaactgtaa
+i dasNov3.JH568145                   C 0 N 0
+s HLtolMat1.PVIB010019799                 4861 35 -     28249 attagttagattagtaactggttgaacaactgtaa
+i HLtolMat1.PVIB010019799            C 0 N 0
+e HLvomUrs1.UNPS02014772              21731600 2519 -  38546163 I
+e HLcoePre1.HiC_scaffold_28           34836618 508 +  47247705 I
+e HLrouMad1.HiC_scaffold_4            27160383 69 +  97851674 I
+e HLrouAeg4.scaffold_m13_p_8          33759375 67 - 112742020 I
+e HLrouLes1.BNJM01000009              28655098 68 -  77441061 I
+e echTel2.JH980308                    14389756  6 -  57704787 I
+
